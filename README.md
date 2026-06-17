@@ -68,21 +68,38 @@ funciona, y deberías ver mensajes en tu Telegram si hay eventos.
 ## Comandos del bot (para ti y tus amigos)
 
 - `/buscar <texto>` — busca eventos guardados que coincidan con el texto
-  (ej. `/buscar Karol G`)
-- `/seguir <id>` — sigue un evento (el ID aparece en los mensajes del bot)
-- `/dejar <id>` — deja de seguir un evento
-- `/miseventos` — lista los eventos que sigues
-- `/ayuda` — muestra los comandos
+  (ej. `/buscar Karol G`). Cada resultado viene con un botón **"✅ Seguir
+  este evento"** — solo hay que tocarlo, no es necesario copiar ningún ID.
+- `/miseventos` — lista los eventos que sigues, cada uno con un botón
+  **"❌ Dejar de seguir"**.
+- `/seguir <id>` — alternativa por texto si por algún motivo prefieres
+  escribir el ID en vez de tocar el botón.
+- `/dejar <id>` — alternativa por texto de "dejar de seguir".
+- `/ayuda` — muestra los comandos.
+
+Cuando aparece un anuncio de evento nuevo en el chat/grupo, también trae
+directamente el botón "Seguir este evento".
+
+## Recordatorios automáticos
+
+Una vez que sigues un evento, el sistema te avisa automáticamente (sin que
+tengas que hacer nada más) en estos momentos:
+
+- **Venta de entradas**: 3 días antes, 1 día antes, y el mismo día.
+- **Concierto**: 7 días antes, 1 día antes, y el mismo día.
+
+Cada recordatorio se envía una sola vez (no se repite en cada corrida del
+workflow), gracias a un registro en `data/sent_reminders.json`.
 
 ## Limitaciones conocidas
 
 - El scraper de PuntoTicket depende de la estructura HTML actual del sitio.
   Si PuntoTicket cambia su diseño, `scrapers/puntoticket.py` puede necesitar
   ajustes.
-- No hay recordatorio "X días antes" automático todavía en esta primera
-  versión — el bot avisa apenas detecta un *cambio* en la fecha de venta.
-  Si quieres recordatorios programados (ej. "faltan 3 días para la venta"),
-  es la siguiente mejora natural a agregar.
+- El bot no responde en tiempo real: solo procesa mensajes y botones cuando
+  corre el workflow (cada 3 horas, o cuando lo corres manualmente desde la
+  pestaña Actions). Si quieres respuestas instantáneas, habría que cambiar
+  a un modelo de servidor siempre encendido en vez de GitHub Actions.
 - Esto usa GitHub Actions cron, que puede tener algunos minutos de retraso
   respecto al horario exacto programado (normal en el tier gratuito).
 
@@ -91,7 +108,8 @@ funciona, y deberías ver mensajes en tu Telegram si hay eventos.
 ```
 concert-tracker/
 ├── main.py                  # Orquestador principal
-├── bot_commands.py          # Procesa comandos de Telegram
+├── bot_commands.py          # Procesa comandos y botones de Telegram
+├── reminders.py              # Recordatorios programados (venta/concierto)
 ├── storage.py                # Guardado en JSON (eventos conocidos, seguimientos)
 ├── telegram_client.py       # Cliente mínimo de Telegram Bot API
 ├── scrapers/
