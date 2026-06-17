@@ -17,6 +17,7 @@ import os
 import storage
 import bot_commands
 import telegram_client
+import reminders
 from scrapers import puntoticket, ticketmaster
 
 # Chat/canal donde se anuncian los eventos nuevos en general.
@@ -68,8 +69,8 @@ def announce_new_events(new_events: list) -> None:
             text += f"🎟️ Venta de entradas: {ev['sales_start']}\n"
         if ev.get("url"):
             text += f"{ev['url']}\n"
-        text += f"\nPara seguirlo: /seguir {ev['id']}"
-        telegram_client.send_message(ANNOUNCE_CHAT_ID, text)
+        button = telegram_client.build_follow_button(ev["id"])
+        telegram_client.send_message(ANNOUNCE_CHAT_ID, text, reply_markup=button)
 
 
 def notify_followers_of_update(updated_events: list) -> None:
@@ -117,6 +118,12 @@ def main():
     for ev in current_events:
         known_events[ev["id"]] = ev
     storage.save_known_events(known_events)
+
+    print("[main] Revisando recordatorios programados (venta de entradas / conciertos)...")
+    try:
+        reminders.check_and_send_reminders()
+    except Exception as exc:
+        print(f"[main] Error revisando recordatorios: {exc}")
 
     print("[main] Listo.")
 
