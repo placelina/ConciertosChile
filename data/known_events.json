@@ -529,6 +529,16 @@
     "url": "https://www.puntoticket.com/creamfields-2026",
     "venue": "Electrónica"
   },
+  "8cf6fb2a7252f8db": {
+    "event_date": "2026-12-05",
+    "genre": "Electr",
+    "id": "8cf6fb2a7252f8db",
+    "raw_context": "Espacio Riesco - Huechuraba / Electrónica The Grid: KI/KI 5 hours 05 de diciembre 2026 Estadio Monumental - Macul / Fútbol Colo-Colo vs. U. de Chile - Liga Femenina - Fecha 13 21 de junio 2026 Teatro Caupolicán - Santiago Centro / Urbano Roa 21 de agosto 2026 Estadio Nacional - Ñuñoa / Fútbol Univer",
+    "source": "puntoticket",
+    "title": "Polideportivo La Florida/ DeportesCoquimbo Unido vs Deportes Concepción - Campeonato Primera Futsal - Fecha 3 Liguilla21 de junio 2026",
+    "url": "https://www.puntoticket.com/evento/campeonato-futsal-anfp2026-liguilla-fecha3",
+    "venue": "Espacio Riesco - Huechuraba"
+  },
   "8d464dc4fd7c6807": {
     "event_date": "2026-08-21",
     "genre": "Baladas Ricardo Arjona",
@@ -777,6 +787,16 @@
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoMarco Antonio Solis - Gratitud Tour 2026",
     "url": "https://www.puntoticket.com/marco-antonio-solis",
+    "venue": "Movistar Arena - Santiago Centro"
+  },
+  "d191c6631764a6a1": {
+    "event_date": "2026-08-21",
+    "genre": "Baladas Ricardo Arjona",
+    "id": "d191c6631764a6a1",
+    "raw_context": "Movistar Arena - Santiago Centro / Baladas Ricardo Arjona - Lo que el Seco no dijo Estadio Monumental - Macul / Exposición Expo Colo-Colo Teatro Caupolicán - Santiago Centro / Urbano Roa 21 de agosto 2026 Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio R",
+    "source": "puntoticket",
+    "title": "Movistar Arena - Santiago Centro/ ReggaetónLenny Tavarez and Justin Quiles - SUPERARTE WORLD TOUR 202611 de julio 2026",
+    "url": "https://www.puntoticket.com/superarte",
     "venue": "Movistar Arena - Santiago Centro"
   },
   "d6b45a1ba7e9defd": {
