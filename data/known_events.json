@@ -189,6 +189,16 @@
     "url": "https://www.puntoticket.com/evento/vina-classic-aniversario",
     "venue": "Espacio Riesco - Huechuraba"
   },
+  "3e92f99ec9042fea": {
+    "event_date": "2026-08-21",
+    "genre": "Baladas Ricardo Arjona",
+    "id": "3e92f99ec9042fea",
+    "raw_context": "Movistar Arena - Santiago Centro / Baladas Ricardo Arjona - Lo que el Seco no dijo Estadio Monumental - Macul / Exposición Expo Colo-Colo Teatro Caupolicán - Santiago Centro / Urbano Roa 21 de agosto 2026 Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio R",
+    "source": "puntoticket",
+    "title": "Movistar Arena - Santiago Centro/ ReggaetónPaulo Londra20 de agosto 2026",
+    "url": "https://www.puntoticket.com/paulo-londra",
+    "venue": "Movistar Arena - Santiago Centro"
+  },
   "436481cf2ea56324": {
     "event_date": null,
     "genre": null,
@@ -639,6 +649,16 @@
     "url": "https://www.puntoticket.com/ke-personajes-2026",
     "venue": "Movistar Arena - Santiago Centro"
   },
+  "b418333e040e2175": {
+    "event_date": "2026-08-21",
+    "genre": "Baladas Ricardo Arjona",
+    "id": "b418333e040e2175",
+    "raw_context": "Movistar Arena - Santiago Centro / Baladas Ricardo Arjona - Lo que el Seco no dijo Estadio Monumental - Macul / Exposición Expo Colo-Colo Teatro Caupolicán - Santiago Centro / Urbano Roa 21 de agosto 2026 Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio R",
+    "source": "puntoticket",
+    "title": "Movistar Arena - Santiago Centro/ RománticoMaría José Quintanilla - La Quintanilla",
+    "url": "https://www.puntoticket.com/la-quintanilla",
+    "venue": "Movistar Arena - Santiago Centro"
+  },
   "b4c79c1f06cc98dc": {
     "event_date": "2026-08-21",
     "genre": "Baladas Ricardo Arjona",
@@ -710,14 +730,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "c42768aae3b46f7b": {
-    "event_date": "2026-08-21",
-    "genre": "Baladas Ricardo Arjona",
+    "event_date": "2026-12-05",
+    "genre": "Electr",
     "id": "c42768aae3b46f7b",
-    "raw_context": "Movistar Arena - Santiago Centro / Baladas Ricardo Arjona - Lo que el Seco no dijo Estadio Monumental - Macul / Exposición Expo Colo-Colo Teatro Caupolicán - Santiago Centro / Urbano Roa 21 de agosto 2026 Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio R",
+    "raw_context": "Espacio Riesco - Huechuraba / Electrónica The Grid: KI/KI 5 hours 05 de diciembre 2026 Estadio Monumental - Macul / Fútbol Colo-Colo vs. U. de Chile - Liga Femenina - Fecha 13 21 de junio 2026 Teatro Caupolicán - Santiago Centro / Urbano Roa 21 de agosto 2026 Estadio Nacional - Ñuñoa / Fútbol Univer",
     "source": "puntoticket",
     "title": "Parque Arena - Temuco/ PopQ_ARE02 de agosto 2026",
     "url": "https://www.puntoticket.com/qare-temuco",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Espacio Riesco - Huechuraba"
   },
   "c575113309adb634": {
     "event_date": "2026-12-05",
