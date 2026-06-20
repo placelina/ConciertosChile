@@ -559,6 +559,16 @@
     "url": "https://www.puntoticket.com/paginas/somos",
     "venue": null
   },
+  "79eda2611f94cedc": {
+    "event_date": "2026-12-05",
+    "genre": "Exposici",
+    "id": "79eda2611f94cedc",
+    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio Riesco - Huechuraba / Electrónica The Grid: KI/KI 5 hours 05 de diciembre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Tronic - Tour 25 Años A",
+    "source": "puntoticket",
+    "title": "Movistar Arena - Santiago Centro/ RománticoAlex Ubago03 de octubre 2026",
+    "url": "https://www.puntoticket.com/alex-ubago",
+    "venue": "Estadio Monumental - Macul"
+  },
   "7c6877a753f96777": {
     "event_date": null,
     "genre": null,
@@ -920,14 +930,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "cbd0da507b9d252f": {
-    "event_date": "2026-08-21",
-    "genre": "Baladas Ricardo Arjona",
+    "event_date": "2026-12-05",
+    "genre": "Exposici",
     "id": "cbd0da507b9d252f",
-    "raw_context": "Movistar Arena - Santiago Centro / Baladas Ricardo Arjona - Lo que el Seco no dijo Estadio Monumental - Macul / Exposición Expo Colo-Colo Teatro Caupolicán - Santiago Centro / Urbano Roa 21 de agosto 2026 Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio R",
+    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio Riesco - Huechuraba / Electrónica The Grid: KI/KI 5 hours 05 de diciembre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Tronic - Tour 25 Años A",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop PunkHayley Williams18 de noviembre 2026",
     "url": "https://www.puntoticket.com/hayley-williams-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Estadio Monumental - Macul"
   },
   "cd2477b8a6ba77f4": {
     "event_date": "2026-07-04",
