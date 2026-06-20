@@ -319,6 +319,16 @@
     "url": "https://www.puntoticket.com/babasonicos-2026",
     "venue": "Estadio Monumental - Macul"
   },
+  "4b10bdda2badfa48": {
+    "event_date": "2026-06-21",
+    "genre": "F",
+    "id": "4b10bdda2badfa48",
+    "raw_context": "Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs Santiago Wanderers - Copa Chile Coca-Cola Sin Azúcar 21 de junio 2026 Estadio Monumental - Macul / Fútbol Colo-Colo vs. O'Higgins - Copa Chile Coca-Cola Sin Azúcar  - Fecha 1 25 de junio 2026 Claro Arena - Las Condes / Fútbol Universidad Cató",
+    "source": "puntoticket",
+    "title": "Comedy - Providencia/ HumorEDO CAROE - Habla, Cobarde!08 de julio 2026",
+    "url": "https://www.puntoticket.com/evento/edocaroe-comedy-julio",
+    "venue": "Estadio Nacional - Ñuñoa"
+  },
   "4c6b8c82dfe78a4f": {
     "event_date": "2026-06-21",
     "genre": "F",
@@ -373,7 +383,7 @@
     "event_date": "2026-12-05",
     "genre": "Exposici",
     "id": "546daab4910e8f71",
-    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Baladas Ricardo Arjona - Lo que el Seco no dijo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio Riesco - Huechuraba / Electrónica The Grid: KI/KI 5 hours 05 de dici",
+    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio Riesco - Huechuraba / Electrónica The Grid: KI/KI 5 hours 05 de diciembre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Tronic - Tour 25 Años A",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopZayn - The Konnakol Tour02 de octubre 2026",
     "url": "https://www.puntoticket.com/zayn-live-scl-2026",
