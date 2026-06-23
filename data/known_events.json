@@ -150,10 +150,10 @@
     "venue": "Jazz-Rock"
   },
   "25a992fee5b62c1f": {
-    "event_date": "2026-09-15",
-    "genre": "Exposici",
+    "event_date": "2026-06-25",
+    "genre": "F",
     "id": "25a992fee5b62c1f",
-    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 15 de septiembre 2026 Estadio Monumental - Macul / Pop-Rock Maná - Viv",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. O'Higgins - Copa Chile Coca-Cola Sin Azúcar  - Fecha 1 25 de junio 2026 Claro Arena - Las Condes / Fútbol Universidad Católica - Copa Chile 04 de julio 2026 Estadio Monumental - Macul / Pop-Rock Maná - Vivir sin aire Tour 05 de diciembre 2026 Parque ",
     "source": "puntoticket",
     "title": "Teatro Coliseo - Santiago Centro/ Metal ProgresivoFloor Jansen22 de abril 2027",
     "url": "https://www.puntoticket.com/floor-jansen",
@@ -250,10 +250,10 @@
     "venue": "Claro Arena - Las Condes"
   },
   "3e92f99ec9042fea": {
-    "event_date": "2026-12-05",
+    "event_date": "2026-09-15",
     "genre": "Exposici",
     "id": "3e92f99ec9042fea",
-    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio Riesco - Huechuraba / Electrónica The Grid: KI/KI 5 hours 05 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor",
+    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 15 de septiembre 2026 Estadio Monumental - Macul / Pop-Rock Maná - Viv",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ ReggaetónPaulo Londra20 de agosto 2026",
     "url": "https://www.puntoticket.com/paulo-londra",
@@ -350,10 +350,10 @@
     "venue": "Estadio Monumental - Macul"
   },
   "4e3ecaaecfd7eb3d": {
-    "event_date": "2026-09-15",
-    "genre": "Exposici",
+    "event_date": "2026-06-25",
+    "genre": "F",
     "id": "4e3ecaaecfd7eb3d",
-    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 15 de septiembre 2026 Estadio Monumental - Macul / Pop-Rock Maná - Viv",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. O'Higgins - Copa Chile Coca-Cola Sin Azúcar  - Fecha 1 25 de junio 2026 Claro Arena - Las Condes / Fútbol Universidad Católica - Copa Chile 04 de julio 2026 Estadio Monumental - Macul / Pop-Rock Maná - Vivir sin aire Tour 05 de diciembre 2026 Parque ",
     "source": "puntoticket",
     "title": "Espacio Riesco - Huechuraba/ ElectrónicaThe Grid: KI/KI 5 hours05 de diciembre 2026",
     "url": "https://www.puntoticket.com/the-grid-kiki-5hours",
@@ -949,6 +949,16 @@
     "url": "https://www.puntoticket.com/hayley-williams-2026",
     "venue": "Estadio Monumental - Macul"
   },
+  "cced9ea7bfec112c": {
+    "event_date": "2026-09-15",
+    "genre": "Exposici",
+    "id": "cced9ea7bfec112c",
+    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 15 de septiembre 2026 Estadio Monumental - Macul / Pop-Rock Maná - Viv",
+    "source": "puntoticket",
+    "title": "-/ FolkloreLos Jaivas 2026 Gira 45 años alturas de Macchu PicchuArica - Antofagasta - Coquimbo - Viña del Mar - Curicó - Talca - Chillán - Osorno",
+    "url": "https://www.puntoticket.com/giramacchupicchu-losjaivas",
+    "venue": "Estadio Monumental - Macul"
+  },
   "cd2477b8a6ba77f4": {
     "event_date": "2026-07-08",
     "genre": "Humor EDO CAROE",
@@ -1040,10 +1050,10 @@
     "venue": null
   },
   "e1de68a2a9fd83e3": {
-    "event_date": "2026-12-05",
+    "event_date": "2026-09-15",
     "genre": "Exposici",
     "id": "e1de68a2a9fd83e3",
-    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio Riesco - Huechuraba / Electrónica The Grid: KI/KI 5 hours 05 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor",
+    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 15 de septiembre 2026 Estadio Monumental - Macul / Pop-Rock Maná - Viv",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Metal ProgresivoOpeth - THE LAST WILL AND TESTAMENT Latin America tour PT 201 de noviembre 2026",
     "url": "https://www.puntoticket.com/opeth",
