@@ -349,6 +349,16 @@
     "url": "https://www.puntoticket.com/Account/SignOut",
     "venue": null
   },
+  "3a697c9de6f42274": {
+    "event_date": "2026-10-23",
+    "genre": "Pop",
+    "id": "3a697c9de6f42274",
+    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop-Rock Conociendo Rusia 23 de octubre 2026 CLUB HIPICO - Santiago Centro / Exhibición Motor Clásica - Chile´26 Estadio Santa Laura - Universidad SEK - Independencia / Fútbol Unión Española vs. O'Higgins - Copa Chile Coca-Cola Sin Azúcar 05 de julio 2026 ",
+    "source": "puntoticket",
+    "title": "Teatro Caupolicán - Santiago Centro/ PodcastLas Alucines - Tu nuevo estilo de vida - Tour de latinoamérica 202625 de noviembre 2026",
+    "url": "https://www.puntoticket.com/las-alucines-tour-latinoamerica-2026",
+    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+  },
   "3bbf382037b52c3b": {
     "event_date": null,
     "genre": null,
@@ -580,14 +590,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "5e25e079d992bb5f": {
-    "event_date": "2026-12-05",
-    "genre": "Exposici",
+    "event_date": "2026-10-23",
+    "genre": "Pop",
     "id": "5e25e079d992bb5f",
-    "raw_context": "Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Baladas Ricardo Arjona - Lo que el Seco no dijo Movistar Arena - Santiago Centro / Romántico Marco Antonio Solis - Gratitud Tour 2026 Espacio Riesco - Huechuraba / Electrónica The Grid: KI/KI 5 hours 05 de dici",
+    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop-Rock Conociendo Rusia 23 de octubre 2026 Movistar Arena - Santiago Centro / Rock Los Tres - Unplugged 30 años Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Pop Latino Andrés Calamaro - Como Cantor 25 de agost",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop LatinoGREEICY11 de agosto 2026",
     "url": "https://www.puntoticket.com/greeicy-2026",
-    "venue": "Estadio Monumental - Macul"
+    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "655d048e76ce63ac": {
     "event_date": "2026-10-23",
@@ -750,14 +760,14 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "79eda2611f94cedc": {
-    "event_date": "2026-08-25",
-    "genre": "Rock Los Tres",
+    "event_date": "2026-10-23",
+    "genre": "Pop",
     "id": "79eda2611f94cedc",
-    "raw_context": "Movistar Arena - Santiago Centro / Rock Los Tres - Unplugged 30 años Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Pop Latino Andrés Calamaro - Como Cantor 25 de agosto 2026 Movistar Arena - Santiago Centro / Urbano Blessd - EPHDM LATAM TOUR 31 de octubre ",
+    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop-Rock Conociendo Rusia 23 de octubre 2026 Movistar Arena - Santiago Centro / Rock Los Tres - Unplugged 30 años Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Pop Latino Andrés Calamaro - Como Cantor 25 de agost",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoAlex Ubago03 de octubre 2026",
     "url": "https://www.puntoticket.com/alex-ubago",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "7c6877a753f96777": {
     "event_date": null,
