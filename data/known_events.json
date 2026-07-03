@@ -41,9 +41,9 @@
   },
   "0c72883d2ec4c349": {
     "event_date": "2026-08-25",
-    "genre": "Pop Latino Andr",
+    "genre": "Rock Los Tres",
     "id": "0c72883d2ec4c349",
-    "raw_context": "Movistar Arena - Santiago Centro / Pop Latino Andrés Calamaro - Como Cantor 25 de agosto 2026 Cúpula Parque O'Higgins - Santiago Centro / Pop-Rock Conociendo Rusia 23 de octubre 2026 Movistar Arena - Santiago Centro / Rock Los Tres - Unplugged 30 años Movistar Arena - Santiago Centro / Rock Epica - ",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Los Tres - Unplugged 30 años Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Pop Latino Andrés Calamaro - Como Cantor 25 de agosto 2026 Movistar Arena - Santiago Centro / Urbano Blessd - EPHDM LATAM TOUR 31 de octubre ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ SoulJungle - World Tour 202703 de abril 2027",
     "url": "https://www.puntoticket.com/jungle",
@@ -939,6 +939,16 @@
     "url": "https://www.ticketmaster.cl/event/iron-maiden-run-for-your-lives-scl-2026",
     "venue": null
   },
+  "96f32b76d7026c6e": {
+    "event_date": "2026-07-05",
+    "genre": "Exhibici",
+    "id": "96f32b76d7026c6e",
+    "raw_context": "CLUB HIPICO - Santiago Centro / Exhibición Motor Clásica - Chile´26 Estadio Santa Laura - Universidad SEK - Independencia / Fútbol Unión Española vs. O'Higgins - Copa Chile Coca-Cola Sin Azúcar 05 de julio 2026 Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Recoleta - Copa Chile Coca-Cola",
+    "source": "puntoticket",
+    "title": "Parque O'Higgins - Santiago Centro/ FestivalRuidosa Fest - Mujeres que hacen Ruido10 y 11 de octubre de 2026, 12:00 hrs",
+    "url": "https://www.puntoticket.com/ruidosa-fest",
+    "venue": "CLUB HIPICO - Santiago Centro"
+  },
   "98309348303a5121": {
     "event_date": "2026-12-05",
     "genre": "Exposici",
@@ -1140,14 +1150,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "b7df0754115d5233": {
-    "event_date": "2026-07-05",
-    "genre": "Exhibici",
+    "event_date": "2026-09-04",
+    "genre": "Presencial Cumbre Guachaca La Cuarta",
     "id": "b7df0754115d5233",
-    "raw_context": "CLUB HIPICO - Santiago Centro / Exhibición Motor Clásica - Chile´26 Estadio Santa Laura - Universidad SEK - Independencia / Fútbol Unión Española vs. O'Higgins - Copa Chile Coca-Cola Sin Azúcar 05 de julio 2026 Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Recoleta - Copa Chile Coca-Cola",
+    "raw_context": "Festival / Presencial Cumbre Guachaca La Cuarta 04 de septiembre 2026 al 05 de septiembre 2026 VER MÁS",
     "source": "puntoticket",
-    "title": "Estación Mapocho - Santiago Centro/ FestivalCumbre Guachaca La Cuarta",
+    "title": "VER MÁS",
     "url": "https://www.puntoticket.com/cumbre-guachaca-2026",
-    "venue": "CLUB HIPICO - Santiago Centro"
+    "venue": "Festival"
   },
   "b815618dc836fc75": {
     "event_date": null,
@@ -1158,6 +1168,16 @@
     "title": "MIS DATOS",
     "url": "https://www.puntoticket.com/Cliente/MisDatos",
     "venue": null
+  },
+  "b8f11659bf6b2c03": {
+    "event_date": "2026-07-05",
+    "genre": "Exhibici",
+    "id": "b8f11659bf6b2c03",
+    "raw_context": "CLUB HIPICO - Santiago Centro / Exhibición Motor Clásica - Chile´26 Estadio Santa Laura - Universidad SEK - Independencia / Fútbol Unión Española vs. O'Higgins - Copa Chile Coca-Cola Sin Azúcar 05 de julio 2026 Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Recoleta - Copa Chile Coca-Cola",
+    "source": "puntoticket",
+    "title": "Club Naval de Campo las Salinas - Viña Del Mar/ FiestaViña Classic - Bienvenida Vacaciones18 de julio 2026",
+    "url": "https://www.puntoticket.com/evento/vina-classic-vacaciones",
+    "venue": "CLUB HIPICO - Santiago Centro"
   },
   "ba9e0ae84a53af73": {
     "event_date": "2026-06-20",
