@@ -109,6 +109,16 @@
     "url": "https://www.ticketmaster.cl/event/iron-maiden-run-for-your-lives-scl-2026",
     "venue": null
   },
+  "14a70ad4fff4e1b2": {
+    "event_date": "2026-12-07",
+    "genre": "Folk Rock Jack Johnson Estadio Monumental",
+    "id": "14a70ad4fff4e1b2",
+    "raw_context": "Movistar Arena - Santiago Centro / Folk Rock Jack Johnson Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Estadium 07 de diciembre 2026 Teatro Municipal de Viña del Mar / Podcast Tomás va a Morir - Ley de Murphy Parque O'Higgins - Santiago Centro / Festival Ruidosa Fest - Mujeres que hacen",
+    "source": "puntoticket",
+    "title": "Teatro Coliseo - Santiago Centro/ InfantilLa Granja de Zenon - Show Oficial Por El Día Del Niño",
+    "url": "https://www.puntoticket.com/lagranjadezenon",
+    "venue": "Movistar Arena - Santiago Centro"
+  },
   "16221880167dc5fb": {
     "event_date": "2026-07-06",
     "genre": "F",
@@ -1008,6 +1018,16 @@
     "title": "Iron Maiden - Run For Your Lives World Tour 2026",
     "url": "https://www.ticketmaster.cl/event/iron-maiden-run-for-your-lives-scl-2026",
     "venue": null
+  },
+  "94e39f3941e25229": {
+    "event_date": "2026-12-07",
+    "genre": "Folk Rock Jack Johnson Estadio Monumental",
+    "id": "94e39f3941e25229",
+    "raw_context": "Movistar Arena - Santiago Centro / Folk Rock Jack Johnson Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Estadium 07 de diciembre 2026 Teatro Municipal de Viña del Mar / Podcast Tomás va a Morir - Ley de Murphy Parque O'Higgins - Santiago Centro / Festival Ruidosa Fest - Mujeres que hacen",
+    "source": "puntoticket",
+    "title": "Movistar Arena - Santiago Centro/ InfantilSoy Luna - El Último show22 de noviembre 2026",
+    "url": "https://www.puntoticket.com/soy-luna-ultimo-show-2026",
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "9689455362087c3c": {
     "event_date": "2026-12-07",
