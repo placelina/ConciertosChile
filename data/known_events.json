@@ -40,14 +40,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "0c72883d2ec4c349": {
-    "event_date": "2026-10-23",
-    "genre": "Pop",
+    "event_date": "2026-07-15",
+    "genre": "Rock Los Tres",
     "id": "0c72883d2ec4c349",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop-Rock Conociendo Rusia 23 de octubre 2026 Movistar Arena - Santiago Centro / Rock Los Tres - Unplugged 30 años Estadio Monumental - Macul / Exposición Expo Colo-Colo Movistar Arena - Santiago Centro / Pop Latino Andrés Calamaro - Como Cantor 25 de agost",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Los Tres - Unplugged 30 años Estadio Monumental - Macul / Pop-Rock Maná - Vivir sin aire Tour Movistar Arena - Santiago Centro / Folk Rock Jack Johnson Espacio Riesco - Huechuraba / Techno 44 X Respira - KOBOSIL ALL NIGHT LONG 15 de julio 2026 Estadio Monument",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ SoulJungle - World Tour 202703 de abril 2027",
     "url": "https://www.puntoticket.com/jungle",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "0dfba426de44ecab": {
     "event_date": "2026-07-15",
@@ -820,10 +820,10 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "78748877db2b53f6": {
-    "event_date": "2026-10-24",
-    "genre": "Folk Rock Jack Johnson Parque O",
+    "event_date": "2026-11-22",
+    "genre": "Infantil Soy Luna",
     "id": "78748877db2b53f6",
-    "raw_context": "Movistar Arena - Santiago Centro / Folk Rock Jack Johnson Parque O'Higgins - Santiago Centro / Festival Ruidosa Fest - Mujeres que hacen Ruido 10 y 11 de octubre de 2026, 12:00 hrs Teatro Municipal de Viña del Mar / Podcast Tomás va a Morir - Ley de Murphy Teatro Coliseo - Santiago Centro / Punk Ete",
+    "raw_context": "Movistar Arena - Santiago Centro / Infantil Soy Luna - El Último show 22 de noviembre 2026 Movistar Arena - Santiago Centro / Folk Rock Jack Johnson Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Estadium 07 de diciembre 2026 Teatro Coliseo - Santiago Centro / Metal Sepultura - Celebratin",
     "source": "puntoticket",
     "title": "Blondie - Santiago Centro/ Heavy MetalJohn 512 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/john-5-blondie-nov-2026",
@@ -1830,10 +1830,10 @@
     "venue": "Claro Arena - Las Condes"
   },
   "fdbda50df6e3a385": {
-    "event_date": "2026-12-07",
-    "genre": "Folk Rock Jack Johnson Estadio Monumental",
+    "event_date": "2026-11-22",
+    "genre": "Infantil Soy Luna",
     "id": "fdbda50df6e3a385",
-    "raw_context": "Movistar Arena - Santiago Centro / Folk Rock Jack Johnson Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Estadium 07 de diciembre 2026 Teatro Municipal de Viña del Mar / Podcast Tomás va a Morir - Ley de Murphy Parque O'Higgins - Santiago Centro / Festival Ruidosa Fest - Mujeres que hacen",
+    "raw_context": "Movistar Arena - Santiago Centro / Infantil Soy Luna - El Último show 22 de noviembre 2026 Movistar Arena - Santiago Centro / Folk Rock Jack Johnson Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Estadium 07 de diciembre 2026 Teatro Coliseo - Santiago Centro / Metal Sepultura - Celebratin",
     "source": "puntoticket",
     "title": "CLUB HIPICO - Santiago Centro/ ExhibiciónMotor Clásica - Chile´26",
     "url": "https://www.puntoticket.com/motor-clasica-2026",
