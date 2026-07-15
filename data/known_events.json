@@ -600,14 +600,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "546daab4910e8f71": {
-    "event_date": "2026-10-03",
-    "genre": "Pop Carlos Baute",
+    "event_date": "2026-11-20",
+    "genre": "Rom",
     "id": "546daab4910e8f71",
-    "raw_context": "Teatro Coliseo - Santiago Centro / Pop Carlos Baute - en Concierto 03 de octubre 2026 Espacio Riesco - Huechuraba / Festival LOVE THE 90'S - Espacio Riesco 2027 21 de marzo 2027 Movistar Arena - Santiago Centro / Romántico Camila - Tour Adiós 20 de noviembre 2026 Estadio Monumental - Macul / Pop-Roc",
+    "raw_context": "Movistar Arena - Santiago Centro / Romántico Camila - Tour Adiós 20 de noviembre 2026 Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Stadium 07 de diciembre 2026 Espacio Riesco - Huechuraba / Festival LOVE THE 90'S - Espacio Riesco 2027 21 de marzo 2027 Espacio Riesco - Huechuraba / Techn",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopZayn - The Konnakol Tour02 de octubre 2026",
     "url": "https://www.puntoticket.com/zayn-live-scl-2026",
-    "venue": "Teatro Coliseo - Santiago Centro"
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "55550ad3033cd96b": {
     "event_date": "2026-10-23",
@@ -1888,6 +1888,16 @@
     "title": "Movistar Arena - Santiago Centro/ ReggaetónAnuel AA - World Tour",
     "url": "https://www.puntoticket.com/anuel-aa-world-tour",
     "venue": "Movistar Arena - Santiago Centro"
+  },
+  "fc2cf5fe2e181529": {
+    "event_date": "2027-03-21",
+    "genre": "Festival LOVE THE",
+    "id": "fc2cf5fe2e181529",
+    "raw_context": "Espacio Riesco - Huechuraba / Festival LOVE THE 90'S - Espacio Riesco 2027 21 de marzo 2027 Movistar Arena - Santiago Centro / Romántico Camila - Tour Adiós 20 de noviembre 2026 Claro Arena - Las Condes / Fútbol Universidad Católica vs. Estudiantes de La Plata - Conmebol Libertadores - Octavos de Fi",
+    "source": "puntoticket",
+    "title": "Polo Apoquindo - Las Condes/ FeriaFeria Bocas Moradas - Aniversario 10 años",
+    "url": "https://www.puntoticket.com/feria-bocas-moradas-sept-2026",
+    "venue": "Espacio Riesco - Huechuraba"
   },
   "fcab8003141c27fa": {
     "event_date": "2026-07-06",
