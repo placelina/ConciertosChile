@@ -60,14 +60,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "0e738b79a643f392": {
-    "event_date": "2026-09-05",
-    "genre": "Presencial The Grid",
+    "event_date": "2026-11-20",
+    "genre": "Rom",
     "id": "0e738b79a643f392",
-    "raw_context": "Electrónica / Presencial The Grid: Outworld - Klangkuenstler All Night Long 05 de septiembre 2026 VER MÁS",
+    "raw_context": "Movistar Arena - Santiago Centro / Romántico Camila - Tour Adiós 20 de noviembre 2026 Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Stadium 07 de diciembre 2026 Espacio Riesco - Huechuraba / Festival LOVE THE 90'S - Espacio Riesco 2027 21 de marzo 2027 Movistar Arena - Santiago Centro / ",
     "source": "puntoticket",
-    "title": "VER MÁS",
+    "title": "Espacio Riesco - Huechuraba/ ElectrónicaThe Grid: Outworld - Klangkuenstler All Night Long05 de septiembre 2026",
     "url": "https://www.puntoticket.com/the-grid-outworld",
-    "venue": "Electrónica"
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "0ecb4438c1c3af64": {
     "event_date": "2026-07-06",
@@ -1079,6 +1079,16 @@
     "url": "https://www.ticketmaster.cl/event/iron-maiden-run-for-your-lives-scl-2026",
     "venue": null
   },
+  "90070aa3947cc65a": {
+    "event_date": "2026-10-09",
+    "genre": "Presencial Oktoberfest",
+    "id": "90070aa3947cc65a",
+    "raw_context": "Festival Cervecero / Presencial Oktoberfest 2026 09 de octubre 2026 al 11 de octubre 2026 VER MÁS",
+    "source": "puntoticket",
+    "title": "VER MÁS",
+    "url": "https://www.puntoticket.com/oktoberfest-2026",
+    "venue": "Festival Cervecero"
+  },
   "94ce342835f104e9": {
     "event_date": "2027-03-21",
     "genre": "Festival LOVE THE",
@@ -1930,14 +1940,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "fc2cf5fe2e181529": {
-    "event_date": "2027-03-21",
-    "genre": "Festival LOVE THE",
+    "event_date": "2026-09-05",
+    "genre": "Presencial Feria Bocas Moradas",
     "id": "fc2cf5fe2e181529",
-    "raw_context": "Espacio Riesco - Huechuraba / Festival LOVE THE 90'S - Espacio Riesco 2027 21 de marzo 2027 Movistar Arena - Santiago Centro / Romántico Camila - Tour Adiós 20 de noviembre 2026 Claro Arena - Las Condes / Fútbol Universidad Católica vs. Estudiantes de La Plata - Conmebol Libertadores - Octavos de Fi",
+    "raw_context": "Feria / Presencial Feria Bocas Moradas - Aniversario 10 años 05 de septiembre 2026 al 06 de septiembre 2026 VER MÁS",
     "source": "puntoticket",
-    "title": "Polo Apoquindo - Las Condes/ FeriaFeria Bocas Moradas - Aniversario 10 años",
+    "title": "VER MÁS",
     "url": "https://www.puntoticket.com/feria-bocas-moradas-sept-2026",
-    "venue": "Espacio Riesco - Huechuraba"
+    "venue": "Feria"
   },
   "fcab8003141c27fa": {
     "event_date": "2026-07-06",
