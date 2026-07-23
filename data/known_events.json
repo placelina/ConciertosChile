@@ -1039,6 +1039,16 @@
     "url": "https://www.puntoticket.com/evento/universidad-de-chile-vs-sanfelipe-copachile-2026",
     "venue": "Estadio Nacional - Ñuñoa"
   },
+  "84f4c3524bbe3363": {
+    "event_date": "2026-10-29",
+    "genre": "Urbano Beele",
+    "id": "84f4c3524bbe3363",
+    "raw_context": "Movistar Arena - Santiago Centro / Urbano Beele - Borondo: Detone y Abandone Tour Claro Arena - Las Condes / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs + Fishbone + Chico Trujillo 29 de octubre 2026 Movistar Arena - Santiago Centro / Classical Crossover Dimash Qudaibergen - World Tour: D",
+    "source": "puntoticket",
+    "title": "Secret Spot - Zapallar/ Fiesta ElectrónicaPiknic Electronik #2 - | Deep Dish | Sephan Jolk |18 de septiembre 2026",
+    "url": "https://www.puntoticket.com/piknicelectronik-septiembre",
+    "venue": "Movistar Arena - Santiago Centro"
+  },
   "86dbd1415f5c2165": {
     "event_date": null,
     "genre": null,
@@ -1478,6 +1488,16 @@
     "title": "Movistar Arena - Santiago Centro/ K-PopAespa06 de septiembre 2026",
     "url": "https://www.puntoticket.com/aespa-live-scl-2026",
     "venue": "Movistar Arena - Santiago Centro"
+  },
+  "b6c4e565bc3f9b98": {
+    "event_date": "2026-10-29",
+    "genre": "Rock",
+    "id": "b6c4e565bc3f9b98",
+    "raw_context": "Claro Arena - Las Condes / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs + Fishbone + Chico Trujillo 29 de octubre 2026 Hipódromo Chile - Independencia / Festival Santiago Rocks - 2026 13 de diciembre 2026 Movistar Arena - Santiago Centro / Classical Crossover Dimash Qudaibergen - World Tou",
+    "source": "puntoticket",
+    "title": "Teatro Coliseo - Santiago Centro/ ConferenciaDr. Manuel Sans Segarra - La Supraconciencia existe: Vida después de la vida05 de noviembre 2026",
+    "url": "https://www.puntoticket.com/evento/manuel-sans-segarra-chile",
+    "venue": "Claro Arena - Las Condes"
   },
   "b76278295a746379": {
     "event_date": "2026-09-04",
