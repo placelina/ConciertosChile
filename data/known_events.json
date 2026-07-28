@@ -59,6 +59,16 @@
     "url": "https://www.puntoticket.com/tronic-cupula-2026",
     "venue": "Estadio Monumental - Macul"
   },
+  "091e3fa6e3636dfc": {
+    "event_date": "2026-08-02",
+    "genre": "F",
+    "id": "091e3fa6e3636dfc",
+    "raw_context": "Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Huachipato - Liga de Primera Mercado Libre - Fecha 17 02 de agosto 2026 Claro Arena - Las Condes / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs + Fishbone + Chico Trujillo 29 de octubre 2026 Centro de Eventos Basel - Independencia ",
+    "source": "puntoticket",
+    "title": "Teatro Zoco - Lo Barnechea/ TeatroEspectros",
+    "url": "https://www.puntoticket.com/evento/espectros-teatro-zoco-ago-sep-oct-2026",
+    "venue": "Estadio Nacional - Ñuñoa"
+  },
   "0a5f178fd3d981e8": {
     "event_date": "2026-09-24",
     "genre": "Pop Rosal",
@@ -241,9 +251,9 @@
   },
   "20962147d06ce776": {
     "event_date": "2026-09-24",
-    "genre": "Reggaet",
+    "genre": "Pop Rosal",
     "id": "20962147d06ce776",
-    "raw_context": "Movistar Arena - Santiago Centro / Reggaetón Ozuna 24 de septiembre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 aniversario Movistar Arena - Santiago Centro / Urbano Beele - Borondo: Detone y Abandone Tour Centro de Eventos Basel - Independencia / Techno Techno Eventos Prese",
+    "raw_context": "Movistar Arena - Santiago Centro / Pop Rosalía - LUX Tour 2026 Movistar Arena - Santiago Centro / Reggaetón Ozuna 24 de septiembre 2026 Movistar Arena - Santiago Centro / Urbano Beele - Borondo: Detone y Abandone Tour Claro Arena - Las Condes / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop-Rock5 Seconds of Summer - EVERYONE'S A STAR! World Tour 202622 de septiembre 2026",
     "url": "https://www.puntoticket.com/5-seconds-of-summer-santiago-de-chile-2026",
@@ -1209,6 +1219,16 @@
     "url": "https://www.puntoticket.com/oktoberfest-2026",
     "venue": "Festival Cervecero"
   },
+  "9377ecc09880ca8d": {
+    "event_date": "2026-08-02",
+    "genre": "F",
+    "id": "9377ecc09880ca8d",
+    "raw_context": "Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Huachipato - Liga de Primera Mercado Libre - Fecha 17 02 de agosto 2026 Claro Arena - Las Condes / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs + Fishbone + Chico Trujillo 29 de octubre 2026 Centro de Eventos Basel - Independencia ",
+    "source": "puntoticket",
+    "title": "Freedom - Recoleta/ EspecialesDAWN & KENNEDY DAVENPORT LIVE23 de octubre 2026",
+    "url": "https://www.puntoticket.com/evento/dawn-kennedy-davenport-live-freedom-oct-2026",
+    "venue": "Estadio Nacional - Ñuñoa"
+  },
   "94ce342835f104e9": {
     "event_date": "2026-12-13",
     "genre": "Festival Santiago Rocks",
@@ -1480,14 +1500,14 @@
     "venue": null
   },
   "b1d24073171302b7": {
-    "event_date": "2026-09-24",
-    "genre": "Pop Rosal",
+    "event_date": "2026-08-02",
+    "genre": "F",
     "id": "b1d24073171302b7",
-    "raw_context": "Movistar Arena - Santiago Centro / Pop Rosalía - LUX Tour 2026 Movistar Arena - Santiago Centro / Reggaetón Ozuna 24 de septiembre 2026 Movistar Arena - Santiago Centro / Urbano Beele - Borondo: Detone y Abandone Tour Claro Arena - Las Condes / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs ",
+    "raw_context": "Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Huachipato - Liga de Primera Mercado Libre - Fecha 17 02 de agosto 2026 Claro Arena - Las Condes / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs + Fishbone + Chico Trujillo 29 de octubre 2026 Centro de Eventos Basel - Independencia ",
     "source": "puntoticket",
     "title": "Centro de Eventos Basel - Independencia/ TechnoTechno Eventos Presenta: UEBERREST29 de octubre 2026",
     "url": "https://www.puntoticket.com/evento/Ueberrest",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "b3fef6f07d5deb5e": {
     "event_date": "2026-09-24",
@@ -1503,7 +1523,7 @@
     "event_date": "2026-09-24",
     "genre": "Pop Rosal",
     "id": "b418333e040e2175",
-    "raw_context": "Movistar Arena - Santiago Centro / Pop Rosalía - LUX Tour 2026 Movistar Arena - Santiago Centro / Reggaetón Ozuna 24 de septiembre 2026 Movistar Arena - Santiago Centro / Urbano Beele - Borondo: Detone y Abandone Tour Centro de Eventos Basel - Independencia / Techno Techno Eventos Presenta: UEBERRES",
+    "raw_context": "Movistar Arena - Santiago Centro / Pop Rosalía - LUX Tour 2026 Movistar Arena - Santiago Centro / Reggaetón Ozuna 24 de septiembre 2026 Movistar Arena - Santiago Centro / Urbano Beele - Borondo: Detone y Abandone Tour Claro Arena - Las Condes / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoMaría José Quintanilla - La Quintanilla",
     "url": "https://www.puntoticket.com/la-quintanilla",
