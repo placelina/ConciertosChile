@@ -179,6 +179,16 @@
     "url": "https://www.puntoticket.com/maro-so-much-has-changed-2026",
     "venue": "Estadio Monumental - Macul"
   },
+  "179829d172c1d137": {
+    "event_date": "2027-01-08",
+    "genre": "Rock Chileno HESSE KASSEL",
+    "id": "179829d172c1d137",
+    "raw_context": "Teatro La Cúpula - Santiago Centro / Rock Chileno HESSE KASSEL - En Lanzamiento En Vivo Morir Saltando 08 de enero 2027 Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Huachipato - Liga de Primera Mercado Libre - Fec",
+    "source": "puntoticket",
+    "title": "Teatro Coliseo - Santiago Centro/ EspecialesQue te lo digo en vivo30 de agosto 2026",
+    "url": "https://www.puntoticket.com/evento/que-te-lo-digo-en-vivo-teatro-coliseo-ago-2026",
+    "venue": "Teatro La Cúpula - Santiago Centro"
+  },
   "186dd76756cfd34c": {
     "event_date": "2026-12-05",
     "genre": "Electr",
@@ -670,14 +680,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "546daab4910e8f71": {
-    "event_date": "2027-01-08",
-    "genre": "Rock Chileno HESSE KASSEL",
+    "event_date": "2026-11-10",
+    "genre": "Rock Ronnie Wood",
     "id": "546daab4910e8f71",
-    "raw_context": "Teatro La Cúpula - Santiago Centro / Rock Chileno HESSE KASSEL - En Lanzamiento En Vivo Morir Saltando 08 de enero 2027 Movistar Arena - Santiago Centro / Pop Rosalía - LUX Tour 2026 29 de julio 2026 Movistar Arena - Santiago Centro / Reggaetón Ozuna 24 de septiembre 2026 Movistar Arena - Santiago C",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Teatro La Cúpula - Santiago Centro / Rock Chileno HESSE KASSEL - En Lanzamiento En Vivo Morir Saltando 08 de enero 2027 Movistar Arena - Santiago Centro / Pop Rosalía - LUX Tour 2026 29 de julio 2026 Movistar Arena - Santiago C",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopZayn - The Konnakol Tour02 de octubre 2026",
     "url": "https://www.puntoticket.com/zayn-live-scl-2026",
-    "venue": "Teatro La Cúpula - Santiago Centro"
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "55550ad3033cd96b": {
     "event_date": "2026-10-23",
