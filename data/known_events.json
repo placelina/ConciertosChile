@@ -399,6 +399,16 @@
     "url": "https://www.puntoticket.com/evento/universidad-catolica-vs-coquimbo-unido-liga-femenina-2026",
     "venue": "Movistar Arena - Santiago Centro"
   },
+  "2b77d908c385d87a": {
+    "event_date": "2027-01-08",
+    "genre": "Rock Chileno HESSE KASSEL",
+    "id": "2b77d908c385d87a",
+    "raw_context": "Teatro La Cúpula - Santiago Centro / Rock Chileno HESSE KASSEL - En Lanzamiento En Vivo Morir Saltando 08 de enero 2027 Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Huachipato - Liga de Primera Mercado Libre - Fec",
+    "source": "puntoticket",
+    "title": "Claro Arena - Las Condes/ DeportesEstudiantes vs Universidad Católica - Watch Party - Lounge Claro11 de agosto 2026",
+    "url": "https://www.puntoticket.com/watch-party-estudiantes-uc-copalibertadores",
+    "venue": "Teatro La Cúpula - Santiago Centro"
+  },
   "2d308da43e3ab770": {
     "event_date": "2026-06-21",
     "genre": "F",
@@ -1290,14 +1300,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "9761d89f66a94727": {
-    "event_date": "2026-11-10",
-    "genre": "Rock Ronnie Wood",
+    "event_date": "2027-01-08",
+    "genre": "Rock Chileno HESSE KASSEL",
     "id": "9761d89f66a94727",
-    "raw_context": "Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Teatro La Cúpula - Santiago Centro / Rock Chileno HESSE KASSEL - En Lanzamiento En Vivo Morir Saltando 08 de enero 2027 Movistar Arena - Santiago Centro / Pop Rosalía - LUX Tour 2026 29 de julio 2026 Movistar Arena - Santiago C",
+    "raw_context": "Teatro La Cúpula - Santiago Centro / Rock Chileno HESSE KASSEL - En Lanzamiento En Vivo Morir Saltando 08 de enero 2027 Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Huachipato - Liga de Primera Mercado Libre - Fec",
     "source": "puntoticket",
     "title": "Club Chocolate, Barrio Bellavista - Recoleta/ R&BRHYE - Joy Tour",
     "url": "https://www.puntoticket.com/evento/rhye-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro La Cúpula - Santiago Centro"
   },
   "97c9c7df92a9d9b3": {
     "event_date": "2026-11-22",
