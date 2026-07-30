@@ -730,10 +730,10 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "546daab4910e8f71": {
-    "event_date": "2026-11-10",
-    "genre": "Rock Ronnie Wood",
+    "event_date": "2026-10-19",
+    "genre": "Rock Aitana",
     "id": "546daab4910e8f71",
-    "raw_context": "Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Teatro La Cúpula - Santiago Centro / Rock Chileno HESSE KASSEL - En Lanzamiento En Vivo Morir Saltando 08 de enero 2027 Movistar Arena - Santiago Centro / Pop Rosalía - LUX Tour 2026 29 de julio 2026 Movistar Arena - Santiago C",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 aniversario Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Boleros Catalina y Las Bordonas de Oro 2026 11 ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopZayn - The Konnakol Tour02 de octubre 2026",
     "url": "https://www.puntoticket.com/zayn-live-scl-2026",
@@ -1390,10 +1390,10 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "98309348303a5121": {
-    "event_date": "2026-11-10",
-    "genre": "Cumbia La Combo Tortuga",
+    "event_date": "2026-10-19",
+    "genre": "Rock Aitana",
     "id": "98309348303a5121",
-    "raw_context": "Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 aniversario Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Boleros Catalina y Las Bordonas de Oro 2026 11 de diciembre 2026 Teatro La Cúpula - Santiago Centro / Rock Chilen",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 aniversario Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Boleros Catalina y Las Bordonas de Oro 2026 11 ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopDavid Bisbal - Tour Eternos 202606 de octubre 2026",
     "url": "https://www.puntoticket.com/david-bisbal",
@@ -1618,6 +1618,16 @@
     "title": "Robbie Williams - Britpop World Tour",
     "url": "https://www.ticketmaster.cl/event/robbie-williams-2026",
     "venue": null
+  },
+  "b0d235121c5c9a3a": {
+    "event_date": "2026-12-11",
+    "genre": "Boleros Catalina y Las Bordonas de Oro",
+    "id": "b0d235121c5c9a3a",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Boleros Catalina y Las Bordonas de Oro 2026 11 de diciembre 2026 Teatro La Cúpula - Santiago Centro / Rock Chileno HESSE KASSEL - En Lanzamiento En Vivo Morir Saltando 08 de enero 2027 Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Movistar Ar",
+    "source": "puntoticket",
+    "title": "Parque Bicentenario de Vitacura/ Corrida17va Corrida Por la Vida - Yo Mujer25 de octubre 2026",
+    "url": "https://www.puntoticket.com/corridaporlavida",
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "b1d24073171302b7": {
     "event_date": "2026-08-02",
