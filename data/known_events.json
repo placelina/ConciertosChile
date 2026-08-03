@@ -441,9 +441,9 @@
   },
   "2ea73e0fb543ee82": {
     "event_date": "2026-10-19",
-    "genre": "Rock Aitana",
+    "genre": "Reggaet",
     "id": "2ea73e0fb543ee82",
-    "raw_context": "Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO - En Vivo 29 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 aniversario Movistar Arena - Santiago Centro / Rock Ronn",
+    "raw_context": "Movistar Arena - Santiago Centro / Reggaetón Arcángel Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO - En Vivo 29 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 an",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ NacionalInti Illimani07 de agosto 2026",
     "url": "https://www.puntoticket.com/evento/inti-illimani-teatro-caupolican-ago-2026",
@@ -778,6 +778,16 @@
     "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolUnión Española vs. O'Higgins - Copa Chile Coca-Cola Sin Azúcar05 de julio 2026",
     "url": "https://www.puntoticket.com/evento/union-espanola-ohiggins-copachile-2026",
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+  },
+  "56d27397b2f8eb16": {
+    "event_date": "2026-10-19",
+    "genre": "Reggaet",
+    "id": "56d27397b2f8eb16",
+    "raw_context": "Movistar Arena - Santiago Centro / Reggaetón Arcángel Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO - En Vivo 29 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 an",
+    "source": "puntoticket",
+    "title": "Cúpula Parque O'Higgins - Santiago Centro/ Rock ChilenoHESSE KASSEL - En Lanzamiento En Vivo Morir Saltando08 de enero 2027",
+    "url": "https://www.puntoticket.com/evento/hesse-kassel-cupula-ene-2027",
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "586012ffd3380f22": {
     "event_date": "2026-12-05",
@@ -1301,9 +1311,9 @@
   },
   "8eb0b864126c10e4": {
     "event_date": "2026-10-19",
-    "genre": "Rock Aitana",
+    "genre": "Reggaet",
     "id": "8eb0b864126c10e4",
-    "raw_context": "Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO - En Vivo 29 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 aniversario Movistar Arena - Santiago Centro / Rock Ronn",
+    "raw_context": "Movistar Arena - Santiago Centro / Reggaetón Arcángel Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO - En Vivo 29 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 an",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ ReggaetónTito el Bambino25 de septiembre 2026",
     "url": "https://www.puntoticket.com/tito-el-bambino-2026",
