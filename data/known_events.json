@@ -1759,6 +1759,16 @@
     "url": "https://www.puntoticket.com/cumbre-guachaca-2026",
     "venue": "Festival"
   },
+  "b803119179c832b9": {
+    "event_date": "2026-10-19",
+    "genre": "Reggaet",
+    "id": "b803119179c832b9",
+    "raw_context": "Movistar Arena - Santiago Centro / Reggaetón Arcángel Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO - En Vivo 29 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 an",
+    "source": "puntoticket",
+    "title": "Movistar Arena - Santiago Centro/ R&BDaniel Caesar - Son of Spergy Tour 202610 de diciembre 2026",
+    "url": "https://www.puntoticket.com/daniel-caesar-son-of-spergy-tour-2026-scl",
+    "venue": "Movistar Arena - Santiago Centro"
+  },
   "b815618dc836fc75": {
     "event_date": null,
     "genre": null,
@@ -2000,14 +2010,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "cd2477b8a6ba77f4": {
-    "event_date": "2026-07-08",
-    "genre": "Humor EDO CAROE",
+    "event_date": "2026-08-15",
+    "genre": "Presencial Plim Plim Energ",
     "id": "cd2477b8a6ba77f4",
-    "raw_context": "Comedy - Providencia / Humor EDO CAROE - Habla, Cobarde! 08 de julio 2026 Estadio Monumental - Macul / Fútbol Colo-Colo vs. O'Higgins - Copa Chile Coca-Cola Sin Azúcar  - Fecha 1 25 de junio 2026 Claro Arena - Las Condes / Fútbol Universidad Católica - Copa Chile 04 de julio 2026 Espacio Riesco - Hu",
+    "raw_context": "Infantil / Presencial Plim Plim Energía Musical 15 de agosto 2026 VER MÁS",
     "source": "puntoticket",
-    "title": "Teatro CEINA - Santiago Centro/ InfantilPlim Plim Energía Musical15 de agosto 2026",
+    "title": "VER MÁS",
     "url": "https://www.puntoticket.com/evento/plimplim-energia-musical",
-    "venue": "Comedy - Providencia"
+    "venue": "Infantil"
   },
   "cdccb44a0fcc4001": {
     "event_date": "2026-10-19",
