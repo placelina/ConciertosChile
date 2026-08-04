@@ -29,6 +29,16 @@
     "url": "https://www.puntoticket.com/evento/tussiwarriors",
     "venue": "Espacio Riesco - Huechuraba"
   },
+  "048b9c06f25d11b5": {
+    "event_date": "2026-08-07",
+    "genre": "F",
+    "id": "048b9c06f25d11b5",
+    "raw_context": "Claro Arena - Las Condes / Fútbol Universidad Católica vs Cobresal - Liga de Primera Mercado Libre - Fecha 18 07 de agosto 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO -",
+    "source": "puntoticket",
+    "title": "Cúpula Parque O'Higgins - Santiago Centro/ RockWalls07 de octubre 2026",
+    "url": "https://www.puntoticket.com/walls-cupula-2026",
+    "venue": "Claro Arena - Las Condes"
+  },
   "04ccfa02e44bacbd": {
     "event_date": "2026-10-19",
     "genre": "Reggaet",
@@ -238,6 +248,16 @@
     "title": "Movistar Arena - Santiago Centro/ PopLa Oreja de Van Gogh - Tantas cosas que contar Tour 202726 de marzo 2027",
     "url": "https://www.puntoticket.com/la-oreja-de-van-gogh-live-scl-2027",
     "venue": "Claro Arena - Las Condes"
+  },
+  "1b1382703a3a8afb": {
+    "event_date": "2026-10-19",
+    "genre": "Reggaet",
+    "id": "1b1382703a3a8afb",
+    "raw_context": "Movistar Arena - Santiago Centro / Reggaetón Arcángel Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO - En Vivo 29 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 an",
+    "source": "puntoticket",
+    "title": "Cúpula Parque O'Higgins - Santiago Centro/ Rock AlternativoO'FUNK'ILLO + PAPANEGRO - En Vivo29 de octubre 2026",
+    "url": "https://www.puntoticket.com/ofunkillo-papanegro-cupula-2026",
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "1b7c9e28c04702d2": {
     "event_date": "2026-10-31",
@@ -548,6 +568,16 @@
     "title": "Inicio",
     "url": "https://www.puntoticket.com/",
     "venue": null
+  },
+  "3dcfee8573bafa74": {
+    "event_date": "2026-10-19",
+    "genre": "Reggaet",
+    "id": "3dcfee8573bafa74",
+    "raw_context": "Movistar Arena - Santiago Centro / Reggaetón Arcángel Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO - En Vivo 29 de octubre 2026 Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 an",
+    "source": "puntoticket",
+    "title": "Movistar Arena - Santiago Centro/ ClásicaLudovico Einaudi09 de marzo 2027",
+    "url": "https://www.puntoticket.com/ludovico-einaudi-2027",
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "3e6df9050792768c": {
     "event_date": "2026-07-04",
@@ -1988,6 +2018,16 @@
     "title": "Movistar Arena - Santiago Centro/ Pop PunkHayley Williams18 de noviembre 2026",
     "url": "https://www.puntoticket.com/hayley-williams-2026",
     "venue": "Movistar Arena - Santiago Centro"
+  },
+  "cbdef5e767d20b74": {
+    "event_date": "2026-08-07",
+    "genre": "F",
+    "id": "cbdef5e767d20b74",
+    "raw_context": "Claro Arena - Las Condes / Fútbol Universidad Católica vs Cobresal - Liga de Primera Mercado Libre - Fecha 18 07 de agosto 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Cúpula Parque O'Higgins - Santiago Centro / Rock Alternativo O'FUNK'ILLO + PAPANEGRO -",
+    "source": "puntoticket",
+    "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolUnión Española vs. Deportes Antofagasta - Liga de Ascenso Caixun 2026 - Fecha 1907 de agosto 2026",
+    "url": "https://www.puntoticket.com/evento/union-espanola-antofagasta-liga-ascenso-2026",
+    "venue": "Claro Arena - Las Condes"
   },
   "ccb535ba7be95fe6": {
     "event_date": "2026-09-20",
