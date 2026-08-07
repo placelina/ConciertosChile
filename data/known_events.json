@@ -1160,10 +1160,10 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "723ce9e28851e18b": {
-    "event_date": "2026-11-24",
-    "genre": "Cumbia La Combo Tortuga",
+    "event_date": "2027-03-09",
+    "genre": "Cl",
     "id": "723ce9e28851e18b",
-    "raw_context": "Movistar Arena - Santiago Centro / Cumbia La Combo Tortuga - 15 aniversario Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos 05 de diciembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 0",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Centro de Eventos Basel - Independencia/ TechnoJeff Mills - DAME Presenta: 30 Aniversario Liquid Room Mix20 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/dame-presenta-centro-de-eventos-basel-nov-2026",
@@ -1450,10 +1450,10 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "8d464dc4fd7c6807": {
-    "event_date": "2026-09-13",
-    "genre": "Pop Latino Rawayana Teatro Caupolic",
+    "event_date": "2027-03-09",
+    "genre": "Cl",
     "id": "8d464dc4fd7c6807",
-    "raw_context": "Movistar Arena - Santiago Centro / Pop Latino Rawayana Teatro Caupolicán - Santiago Centro / Rancheras Corridos Del Rey 13 de septiembre 2026 Movistar Arena - Santiago Centro / Pop La Oreja de Van Gogh - Tantas cosas que contar Tour 2027 Movistar Arena - Santiago Centro / Rock Aitana 19 de octubre 2",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ MetalBABYMETAL03 de diciembre 2026",
     "url": "https://www.puntoticket.com/baby-metal-2026",
@@ -1630,10 +1630,10 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "9fedba6183a57363": {
-    "event_date": "2026-10-24",
-    "genre": "Pop La Oreja de Van Gogh",
+    "event_date": "2027-03-09",
+    "genre": "Cl",
     "id": "9fedba6183a57363",
-    "raw_context": "Movistar Arena - Santiago Centro / Pop La Oreja de Van Gogh - Tantas cosas que contar Tour 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Ro",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RapTrueno - TURR4ZO09 de octubre 2026",
     "url": "https://www.puntoticket.com/trueno",
@@ -2138,6 +2138,16 @@
     "title": "Movistar Arena - Santiago Centro/ ConciertosAlvaro Diaz - Omakase Tour28 de agosto 2026",
     "url": "https://www.puntoticket.com/alvaro-diaz-2026",
     "venue": "Claro Arena - Las Condes"
+  },
+  "c6e8bac89de5d1fb": {
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
+    "id": "c6e8bac89de5d1fb",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
+    "source": "puntoticket",
+    "title": "Hipódromo Chile - Independencia/ FestivalBienvenida Primavera Fest",
+    "url": "https://www.puntoticket.com/bienvenida-primavera-fest",
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "c89cf5e27e9dcc85": {
     "event_date": "2026-07-06",
