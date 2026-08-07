@@ -43,7 +43,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "04ccfa02e44bacbd",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Claro Arena - Las Condes/ Rock / Ritmos LatinoamericanosLos Fabulosos Cadillacs + Fishbone + Chico Trujillo29 de octubre 2026",
     "url": "https://www.puntoticket.com/cadillacs-fishbone-2026",
@@ -83,7 +83,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "0a5f178fd3d981e8",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ ReggaetónOzuna24 de septiembre 2026",
     "url": "https://www.puntoticket.com/ozuna-2026",
@@ -103,7 +103,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "0dfba426de44ecab",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RockLos Tres - Unplugged 30 años",
     "url": "https://www.puntoticket.com/los-tres",
@@ -143,7 +143,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "108bc497a3fa8168",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Estadio Monumental - Macul/ UrbanoKidd Voodoo - Euforia Stadium07 de diciembre 2026",
     "url": "https://www.puntoticket.com/kidd-voodoo",
@@ -220,14 +220,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "194436e51c260db9": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "194436e51c260db9",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Teatro Coliseo - Santiago Centro/ SKAJuantxo Skalari And La Rude Band meets The Skatalites",
     "url": "https://www.puntoticket.com/evento/juantxo-skalari-la-rude-band-meets-the-skatalites",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "19b55ef258a345a0": {
     "event_date": "2026-10-23",
@@ -253,7 +253,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "1ac438369176772f",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopLa Oreja de Van Gogh - Tantas cosas que contar Tour 2027",
     "url": "https://www.puntoticket.com/la-oreja-de-van-gogh-live-scl-2027",
@@ -310,20 +310,20 @@
     "venue": "Rock"
   },
   "1ff5a6325630ae23": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "1ff5a6325630ae23",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Polideportivo La Florida/ DeportesCampeonato Primera Futsal - Clausura Fecha 1 - Magallanes vs Coquimbo Unido07 de agosto 2026",
     "url": "https://www.puntoticket.com/evento/campeonato-futsal-clausura-magallanes-vs-coquimbo",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "20962147d06ce776": {
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "20962147d06ce776",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop-Rock5 Seconds of Summer - EVERYONE'S A STAR! World Tour 202622 de septiembre 2026",
     "url": "https://www.puntoticket.com/5-seconds-of-summer-santiago-de-chile-2026",
@@ -383,7 +383,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "26da08407d5a283f",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopMorat",
     "url": "https://www.puntoticket.com/morat",
@@ -453,7 +453,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "2a3ebec5a112e29b",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ MúsicaAttack On Titan - The Last Concert03 de abril 2027",
     "url": "https://www.puntoticket.com/aot",
@@ -480,14 +480,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "2c42d5357032486c": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "2c42d5357032486c",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ RancherasCorridos Del Rey13 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/corridos-del-rey-teatro-caupolican-sep-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "2d308da43e3ab770": {
     "event_date": "2026-06-21",
@@ -503,7 +503,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "2ea73e0fb543ee82",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ NacionalInti Illimani07 de agosto 2026",
     "url": "https://www.puntoticket.com/evento/inti-illimani-teatro-caupolican-ago-2026",
@@ -569,6 +569,16 @@
     "url": "https://www.puntoticket.com/evento/camila-movistar-arena-nov-2026",
     "venue": "Movistar Arena - Santiago Centro"
   },
+  "37be9da1fad091db": {
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
+    "id": "37be9da1fad091db",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
+    "source": "puntoticket",
+    "title": "Teatro Caupolicán - Santiago Centro/ Fan MeetingHwang In Youp - TO YOU 202619 de noviembre 2026",
+    "url": "https://www.puntoticket.com/inyoup-tour",
+    "venue": "Teatro Caupolicán - Santiago Centro"
+  },
   "39a307a6b4e85309": {
     "event_date": "2026-06-25",
     "genre": "F",
@@ -613,7 +623,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "3dcfee8573bafa74",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ ClásicaLudovico Einaudi09 de marzo 2027",
     "url": "https://www.puntoticket.com/ludovico-einaudi-2027",
@@ -633,7 +643,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "3e92f99ec9042fea",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ ReggaetónPaulo Londra20 de agosto 2026",
     "url": "https://www.puntoticket.com/paulo-londra",
@@ -650,24 +660,24 @@
     "venue": "Teatro La Cúpula - Santiago Centro"
   },
   "400e8f439183263f": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "400e8f439183263f",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Estadio Nacional - Ñuñoa/ FútbolUniversidad de Chile vs. Palestino - Liga de Primera Mercado Libre - Fecha 1809 de agosto 2026",
     "url": "https://www.puntoticket.com/evento/universidad-de-chile-vs-palestino-ligaprimera-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "404bc23d0cde2eb2": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "404bc23d0cde2eb2",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Hipódromo Chile - Independencia/ FestivalVIBRAFEST 202608 de diciembre 2026",
     "url": "https://www.puntoticket.com/vibra-fest-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "42cb64960d72c541": {
     "event_date": "2026-12-05",
@@ -703,7 +713,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "45781e41b2caa35c",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ FestivalPerreolandia - in The House27 de agosto 2026",
     "url": "https://www.puntoticket.com/perreolandia-in-the-house",
@@ -733,7 +743,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "49976f3cb0b75870",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Rock AlternativoBabasonicos21 de noviembre 2026",
     "url": "https://www.puntoticket.com/babasonicos-2026",
@@ -773,7 +783,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "4c6b8c82dfe78a4f",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Teatro Coliseo - Santiago Centro/ Hip-HopLa Brígida Orquesta / Ana Tijoux08 de agosto 2026",
     "url": "https://www.puntoticket.com/La-brigida-orquesta-ana-tijoux",
@@ -860,14 +870,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "56a5702696632bff": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "56a5702696632bff",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Estadio Bicentenario de La Florida/ FútbolUniversidad de Chile vs. Colo-Colo - Liga Femenina - Fecha 2108 de agosto 2026",
     "url": "https://www.puntoticket.com/evento/udechile-vs-colocolo-ligafemenina-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "56a89d584f3d8416": {
     "event_date": "2026-10-23",
@@ -920,14 +930,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "59ce3db066ba5839": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "59ce3db066ba5839",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Polideportivo La Granja/ DeportesCampeonato Primera Futsal -  Clausura 2026 - Fecha 1",
     "url": "https://www.puntoticket.com/evento/campeonato-futsal-clausura-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "5a6b806e4b27a262": {
     "event_date": "2027-03-20",
@@ -1060,14 +1070,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "6788777613a09911": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "6788777613a09911",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Espacio Riesco - Huechuraba/ FiestaBresh x Pablito Pesadilla31 de octubre 2026",
     "url": "https://www.puntoticket.com/bresh",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "67bf4988e0d8ef27": {
     "event_date": "2026-10-24",
@@ -1083,7 +1093,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "680ea0eb4735b517",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ ReggaetónJulianno Sosa24 de octubre 2026",
     "url": "https://www.puntoticket.com/julianno-sosa-2026",
@@ -1160,14 +1170,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "7294b0e6a08ec362": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "7294b0e6a08ec362",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Claro Arena - Las Condes/ FútbolUniversidad Católica vs Cobresal - Liga de Primera Mercado Libre - Fecha 1807 de agosto 2026",
     "url": "https://www.puntoticket.com/evento/universidad-catolica-vs-cobresal-ligaprimera-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "7518fbb1e6cc5bc5": {
     "event_date": null,
@@ -1190,14 +1200,14 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "768df3fca1964c37": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "768df3fca1964c37",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ CompetenciaRed Bull Dance Your Style Final Nacional05 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/red-bull-dance-your-style",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "776d0a7fac1d183a": {
     "event_date": "2026-11-20",
@@ -1223,7 +1233,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "79eda2611f94cedc",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoAlex Ubago03 de octubre 2026",
     "url": "https://www.puntoticket.com/alex-ubago",
@@ -1303,7 +1313,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "822aae000d48c763",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RockCuarteto de Nos05 de diciembre 2026",
     "url": "https://www.puntoticket.com/cuartetodenos",
@@ -1333,7 +1343,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "833ada5329403625",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Classical CrossoverDimash Qudaibergen - World Tour: Dimensions24 de noviembre 2026",
     "url": "https://www.puntoticket.com/dimash-qudaibergen",
@@ -1500,14 +1510,14 @@
     "venue": "Festival Cervecero"
   },
   "9128c58a48ce5564": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "9128c58a48ce5564",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Hipódromo Chile - Independencia/ FestivalBienvenida Primavera Fest",
     "url": "https://www.puntoticket.com/evento/bienvenida-primavera-fest-arena-hipodromo-ago-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "9377ecc09880ca8d": {
     "event_date": "2026-08-09",
@@ -1613,7 +1623,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "9f2dc2b6a0d18739",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ SalsaRuben Blades - Fotografías Tour14 de agosto 2026",
     "url": "https://www.puntoticket.com/ruben-blades-fotografias-tour-2026",
@@ -1643,7 +1653,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "a064830c579592a0",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ TrapCA7RIEL & PACO AMOROSO - FREE SPIRITS WORLD TOUR23 de noviembre 2026",
     "url": "https://www.puntoticket.com/ca7riel-y-paco-amoroso-live-scl-2026",
@@ -1763,7 +1773,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "aaf2a3389a3d8cdc",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoCamila - Tour Adiós20 de noviembre 2026",
     "url": "https://www.puntoticket.com/camila",
@@ -1843,7 +1853,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "b36e001295d6b056",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Teatro Coliseo - Santiago Centro/ Rock AlternativoTwilight in Concert06 de noviembre 2026",
     "url": "https://www.puntoticket.com/twilight-in-concert",
@@ -1853,7 +1863,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "b3fef6f07d5deb5e",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ CumbiaKe Personajes30 de agosto 2026",
     "url": "https://www.puntoticket.com/ke-personajes-2026",
@@ -1870,20 +1880,20 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "b4b5d77dd4bff52b": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "b4b5d77dd4bff52b",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Havana Club - Concepción/ SalsaPorfi Baloa y sus Adolescentes19 de septiembre 2026",
     "url": "https://www.puntoticket.com/porfi-baloa-y-sus-adolescentes-concepcion-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "b4c79c1f06cc98dc": {
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "b4c79c1f06cc98dc",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ K-PopAespa06 de septiembre 2026",
     "url": "https://www.puntoticket.com/aespa-live-scl-2026",
@@ -1923,7 +1933,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "b7aff1b02dfad793",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ UrbanoBeele - Borondo: Detone y Abandone Tour",
     "url": "https://www.puntoticket.com/beele",
@@ -1983,7 +1993,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "bbc89769307a9e4a",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ K-PopXLOV - LATAM TOUR II24 de noviembre 2026",
     "url": "https://www.puntoticket.com/xlov-2026",
@@ -2140,14 +2150,14 @@
     "venue": "Estación Mapocho - Santiago Centro"
   },
   "cacf487c29e2b6ec": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "cacf487c29e2b6ec",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Hipódromo Chile - Independencia/ FestivalFestival de la Peruanidad 202604 de octubre 2026",
     "url": "https://www.puntoticket.com/festival-peruanidad-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "cb4207675d0b2c44": {
     "event_date": "2026-10-23",
@@ -2170,20 +2180,20 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "cbdef5e767d20b74": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "cbdef5e767d20b74",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolUnión Española vs. Deportes Antofagasta - Liga de Ascenso Caixun 2026 - Fecha 1907 de agosto 2026",
     "url": "https://www.puntoticket.com/evento/union-espanola-antofagasta-liga-ascenso-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "cc6623a30273089b": {
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "cc6623a30273089b",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ RockDon Osvaldo03 de octubre 2026",
     "url": "https://www.puntoticket.com/don-osvaldo-cupula-2026",
@@ -2203,7 +2213,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "ccdf0a41ab173294",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Havana Club - Concepción/ PopBandalos Chinos01 de octubre 2026",
     "url": "https://www.puntoticket.com/evento/bandalos-chinos-habana-concepcion",
@@ -2233,7 +2243,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "cdccb44a0fcc4001",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoMarco Antonio Solis - Gratitud Tour 2026",
     "url": "https://www.puntoticket.com/marco-antonio-solis",
@@ -2303,7 +2313,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "d5f307b8541a3f8f",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RockAitana19 de octubre 2026",
     "url": "https://www.puntoticket.com/aitana",
@@ -2353,7 +2363,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "da7cc00aa45a595a",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Estadio Monumental - Macul/ BachataRomeo Santos y Prince Royce - Mejor Tarde que Nunca20 de septiembre 2026",
     "url": "https://www.puntoticket.com/romeo-santos-y-prince-royce-2026",
@@ -2363,7 +2373,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "dbf3788bd070674c",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ CumbiaLa Combo Tortuga - 15 aniversario",
     "url": "https://www.puntoticket.com/la-combo-tortuga-15-aniversario",
@@ -2393,7 +2403,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "e31d64309a835b6f",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop LatinoAndrés Calamaro - Como Cantor25 de agosto 2026",
     "url": "https://www.puntoticket.com/andres-calamaro",
@@ -2433,7 +2443,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "e501505c13a66da6",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Espacio Riesco - Huechuraba/ FestivalLOVE THE 90'S - Espacio Riesco 202721 de marzo 2027",
     "url": "https://www.puntoticket.com/love-the-90s-espacio-riesco-2027",
@@ -2490,14 +2500,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "eccb0bff04117f0c": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "eccb0bff04117f0c",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Hipódromo Chile - Independencia / Festival Festival de la Peruanidad 2026 04 de octubre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Música Atta",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / Músic",
     "source": "puntoticket",
     "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolUnión Española vs Deportes Temuco - Liga Femenina - Fecha 2109 de agosto 2026",
     "url": "https://www.puntoticket.com/evento/union-espanola-temuco-ligafemenina-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "ed0756555395b2b5": {
     "event_date": "2026-10-19",
@@ -2543,7 +2553,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "f198d5dda6608f7b",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Espacio Riesco - Huechuraba/ ReggaetónI Love Reggaeton Chile - Espacio Riesco 202720 de marzo 2027",
     "url": "https://www.puntoticket.com/i-love-reggaeton-2027",
@@ -2653,7 +2663,7 @@
     "event_date": "2027-03-09",
     "genre": "Cl",
     "id": "fbed234a8c246956",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Caupolicán - Santiago Centro / K-Pop ",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ ReggaetónAnuel AA - World Tour",
     "url": "https://www.puntoticket.com/anuel-aa-world-tour",
