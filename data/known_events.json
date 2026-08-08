@@ -1243,7 +1243,7 @@
     "event_date": "2026-12-17",
     "genre": "Urbano Jairo Vera",
     "id": "79eda2611f94cedc",
-    "raw_context": "Movistar Arena - Santiago Centro / Urbano Jairo Vera - Genesis 2026 17 de diciembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfiel",
+    "raw_context": "Movistar Arena - Santiago Centro / Urbano Jairo Vera - Genesis 2026 17 de diciembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Movistar Arena - Santiago Centro / Reggaetón Arcángel Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoAlex Ubago03 de octubre 2026",
     "url": "https://www.puntoticket.com/alex-ubago",
@@ -1960,14 +1960,14 @@
     "venue": "Festival"
   },
   "b803119179c832b9": {
-    "event_date": "2027-03-09",
-    "genre": "Cl",
+    "event_date": "2026-11-19",
+    "genre": "Fan Meeting Hwang In Youp",
     "id": "b803119179c832b9",
-    "raw_context": "Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Teatro Caupolicán - Santiago Centro / K-Pop XLOV - LATAM TOUR II 24 de noviembre 2026 Movistar Arena - Santiago Centro / Rock Cuarteto de Nos ",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 19 de noviembre 2026 Movistar Arena - Santiago Centro / Urbano Jairo Vera - Genesis 2026 17 de diciembre 2026 Movistar Arena - Santiago Centro / Clásica Ludovico Einaudi 09 de marzo 2027 Teatro Caupolicán - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ R&BDaniel Caesar - Son of Spergy Tour 202610 de diciembre 2026",
     "url": "https://www.puntoticket.com/daniel-caesar-son-of-spergy-tour-2026-scl",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "b815618dc836fc75": {
     "event_date": null,
