@@ -639,6 +639,16 @@
     "url": "https://www.puntoticket.com/",
     "venue": null
   },
+  "3cec3f68b4549ceb": {
+    "event_date": "2026-08-16",
+    "genre": "F",
+    "id": "3cec3f68b4549ceb",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. O'Higgins - Liga de Primera Mercado Libre  - Fecha 19 16 de agosto 2026 Teatro Coliseo - Santiago Centro / K-Pop Kard 2026 World Tour NOWHERE en Chile 27 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 ",
+    "source": "puntoticket",
+    "title": "Estadio Municipal de San Bernardo/ FútbolMagallanes vs. Cobreloa - Liga de Ascenso Caixun 2026 - Fecha 2012 de agosto 2026",
+    "url": "https://www.puntoticket.com/evento/magallanes-vs-cobreloa-fecha20-liga-ascenso-2026",
+    "venue": "Estadio Monumental - Macul"
+  },
   "3dcfee8573bafa74": {
     "event_date": "2026-12-10",
     "genre": "R",
@@ -2190,14 +2200,14 @@
     "venue": "Claro Arena - Las Condes"
   },
   "c6e8bac89de5d1fb": {
-    "event_date": "2026-08-16",
-    "genre": "F",
+    "event_date": "2026-08-30",
+    "genre": "Presencial Bienvenida Primavera Fest",
     "id": "c6e8bac89de5d1fb",
-    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. O'Higgins - Liga de Primera Mercado Libre  - Fecha 19 16 de agosto 2026 Teatro Coliseo - Santiago Centro / K-Pop Kard 2026 World Tour NOWHERE en Chile 27 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 ",
+    "raw_context": "Festival / Presencial Bienvenida Primavera Fest 30 de agosto 2026 VER MÁS",
     "source": "puntoticket",
-    "title": "Hipódromo Chile - Independencia/ FestivalBienvenida Primavera Fest",
+    "title": "VER MÁS",
     "url": "https://www.puntoticket.com/bienvenida-primavera-fest",
-    "venue": "Estadio Monumental - Macul"
+    "venue": "Festival"
   },
   "c89cf5e27e9dcc85": {
     "event_date": "2026-07-06",
