@@ -30,14 +30,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "0360829d18df61fc": {
-    "event_date": "2026-10-24",
-    "genre": "Reggaet",
+    "event_date": "2026-08-16",
+    "genre": "F",
     "id": "0360829d18df61fc",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Coliseo - Santiago Centro / K-Pop Kard 2026 World Tour NOWHERE en Chile 27 de noviembre 2026 Movistar Arena - Sant",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. O'Higgins - Liga de Primera Mercado Libre  - Fecha 19 16 de agosto 2026 Teatro Coliseo - Santiago Centro / K-Pop Kard 2026 World Tour NOWHERE en Chile 27 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 ",
     "source": "puntoticket",
     "title": "Espacio Riesco - Huechuraba/ ElectrónicaMiss Monique02 de octubre 2026",
     "url": "https://www.puntoticket.com/missmonique-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Monumental - Macul"
   },
   "039239bbbea7ef10": {
     "event_date": "2027-03-21",
@@ -360,14 +360,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "20962147d06ce776": {
-    "event_date": "2026-12-10",
-    "genre": "R",
+    "event_date": "2026-10-24",
+    "genre": "Reggaet",
     "id": "20962147d06ce776",
-    "raw_context": "Movistar Arena - Santiago Centro / R&B Daniel Caesar - Son of Spergy Tour 2026 10 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Coliseo - Sant",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Coliseo - Santiago Centro / K-Pop Kard 2026 World Tour NOWHERE en Chile 27 de noviembre 2026 Movistar Arena - Sant",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop-Rock5 Seconds of Summer - EVERYONE'S A STAR! World Tour 202622 de septiembre 2026",
     "url": "https://www.puntoticket.com/5-seconds-of-summer-santiago-de-chile-2026",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "213ba1e0fb867666": {
     "event_date": "2026-10-31",
@@ -1878,6 +1878,16 @@
     "title": "Centro de Eventos Basel - Independencia/ TechnoVALKHØR: VENDEX ALL NIGHT LONG",
     "url": "https://www.puntoticket.com/evento/vendexallnightlong",
     "venue": "Movistar Arena - Santiago Centro"
+  },
+  "a9fcd230e94947cd": {
+    "event_date": "2026-10-24",
+    "genre": "Reggaet",
+    "id": "a9fcd230e94947cd",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Coliseo - Santiago Centro / K-Pop Kard 2026 World Tour NOWHERE en Chile 27 de noviembre 2026 Movistar Arena - Sant",
+    "source": "puntoticket",
+    "title": "Cúpula Parque O'Higgins - Santiago Centro/ RockNo te va gustar",
+    "url": "https://www.puntoticket.com/no-te-va-gustar-2026",
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "aa32761c2bb39b28": {
     "event_date": "2027-01-06",
