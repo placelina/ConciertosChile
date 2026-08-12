@@ -9,6 +9,16 @@
     "url": "https://www.puntoticket.com/evento/la-nueva-ola-teatro-cauopolican-jun-2026",
     "venue": "Estadio Monumental - Macul"
   },
+  "024380616dbf8bda": {
+    "event_date": "2026-08-16",
+    "genre": "F",
+    "id": "024380616dbf8bda",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. O'Higgins - Liga de Primera Mercado Libre  - Fecha 19 16 de agosto 2026 Teatro Coliseo - Santiago Centro / K-Pop Kard 2026 World Tour NOWHERE en Chile 27 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Fan Meeting Hwang In Youp - TO YOU 2026 ",
+    "source": "puntoticket",
+    "title": "Teatro Caupolicán - Santiago Centro/ PopSANDRA - En ConciertoSábado 14 de noviembre, 21:00 hrs",
+    "url": "https://www.puntoticket.com/evento/sandra-teatro-caupolican-nov-2026",
+    "venue": "Estadio Monumental - Macul"
+  },
   "032bc6dce554e353": {
     "event_date": "2027-03-26",
     "genre": "Pop La Oreja de Van Gogh",
@@ -218,6 +228,16 @@
     "title": "Club Chocolate, Barrio Bellavista - Recoleta/ FolkMaro - So Much has Changed14 de noviembre 2026",
     "url": "https://www.puntoticket.com/maro-so-much-has-changed-2026",
     "venue": "Estadio Monumental - Macul"
+  },
+  "17784f0686170754": {
+    "event_date": "2026-10-24",
+    "genre": "Reggaet",
+    "id": "17784f0686170754",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Coliseo - Santiago Centro / K-Pop Kard 2026 World Tour NOWHERE en Chile 27 de noviembre 2026 Movistar Arena - Sant",
+    "source": "puntoticket",
+    "title": "Movistar Arena - Santiago Centro/ Pop LatinoLos Vásquez - El Último Movistar12 de diciembre 2026",
+    "url": "https://www.puntoticket.com/los-vazquez-el-ultimo-movistar-2026",
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "179829d172c1d137": {
     "event_date": "2026-08-05",
