@@ -910,14 +910,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "546daab4910e8f71": {
-    "event_date": "2026-10-24",
-    "genre": "Reggaet",
+    "event_date": "2026-10-02",
+    "genre": "Electr",
     "id": "546daab4910e8f71",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Coliseo - Santiago Centro / K-Pop Kard 2026 World Tour NOWHERE en Chile 27 de noviembre 2026 Movistar Arena - Sant",
+    "raw_context": "Espacio Riesco - Huechuraba / Electrónica Miss Monique 02 de octubre 2026 Movistar Arena - Santiago Centro / Pop Latino Los Vasquez - El Último Movistar Arena 12 de diciembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Coliseo - Santi",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopZayn - The Konnakol Tour02 de octubre 2026",
     "url": "https://www.puntoticket.com/zayn-live-scl-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Espacio Riesco - Huechuraba"
   },
   "55550ad3033cd96b": {
     "event_date": "2026-10-23",
@@ -1307,6 +1307,16 @@
     "source": "puntoticket",
     "title": "Club Chocolate, Barrio Bellavista - Recoleta/ Post-HardcoreMass Of Fermenting Dregs20 de mayo 2027",
     "url": "https://www.puntoticket.com/evento/mass-of-fermenting-chocolate",
+    "venue": "Estadio Nacional - Ñuñoa"
+  },
+  "775b5faee24789f5": {
+    "event_date": "2026-08-23",
+    "genre": "F",
+    "id": "775b5faee24789f5",
+    "raw_context": "Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Colo-Colo - Liga de Primera Mercado Libre - Fecha 20 23 de agosto 2026 Movistar Arena - Santiago Centro / Pop Latino Los Vasquez - El Último Movistar Arena 12 de diciembre 2026 Espacio Riesco - Huechuraba / Electrónica Miss Monique 02 de oct",
+    "source": "puntoticket",
+    "title": "Teatro Caupolicán - Santiago Centro/ Bailable90s Fever Festival12 de diciembre 2026",
+    "url": "https://www.puntoticket.com/90s-fever-festival-diciembre-2026",
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "776d0a7fac1d183a": {
@@ -1889,6 +1899,16 @@
     "url": "https://www.puntoticket.com/evento/union-espanola-colo-colo-copachile-2026",
     "venue": "Estadio Monumental - Macul"
   },
+  "a812ee193cb97ed3": {
+    "event_date": "2026-10-02",
+    "genre": "Electr",
+    "id": "a812ee193cb97ed3",
+    "raw_context": "Espacio Riesco - Huechuraba / Electrónica Miss Monique 02 de octubre 2026 Movistar Arena - Santiago Centro / Pop Latino Los Vasquez - El Último Movistar Arena 12 de diciembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Coliseo - Santi",
+    "source": "puntoticket",
+    "title": "Teatro Municipal de Viña del Mar/ FolkloreLos Jaivas 2026 Gira 45 años alturas de Macchu Picchu - Viña del mar",
+    "url": "https://www.puntoticket.com/evento/los-jaivas-teatro-municipal-de-vina-del-mar-2026",
+    "venue": "Espacio Riesco - Huechuraba"
+  },
   "a91c80eb78db02d9": {
     "event_date": "2026-08-25",
     "genre": "Pop Latino Andr",
@@ -2380,14 +2400,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "cc6623a30273089b": {
-    "event_date": "2026-10-02",
-    "genre": "Electr",
+    "event_date": "2026-08-23",
+    "genre": "F",
     "id": "cc6623a30273089b",
-    "raw_context": "Espacio Riesco - Huechuraba / Electrónica Miss Monique 02 de octubre 2026 Movistar Arena - Santiago Centro / Pop Latino Los Vasquez - El Último Movistar Arena 12 de diciembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Coliseo - Santi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Colo-Colo - Liga de Primera Mercado Libre - Fecha 20 23 de agosto 2026 Movistar Arena - Santiago Centro / Pop Latino Los Vasquez - El Último Movistar Arena 12 de diciembre 2026 Espacio Riesco - Huechuraba / Electrónica Miss Monique 02 de oct",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ RockDon Osvaldo03 de octubre 2026",
     "url": "https://www.puntoticket.com/don-osvaldo-cupula-2026",
-    "venue": "Espacio Riesco - Huechuraba"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "ccb535ba7be95fe6": {
     "event_date": "2026-09-20",
