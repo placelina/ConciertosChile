@@ -2140,14 +2140,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "aeda92e403d241e9": {
-    "event_date": "2026-09-05",
-    "genre": "Electr",
+    "event_date": "2026-12-19",
+    "genre": "Youtuber Fede Vigevani",
     "id": "aeda92e403d241e9",
-    "raw_context": "Espacio Riesco - Huechuraba / Electrónica The Grid: Outworld - Klangkuenstler All Night Long 05 de septiembre 2026 Teatro Caupolicán - Santiago Centro / Urbano De La Rose 03 de octubre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Teatro Colis",
+    "raw_context": "Claro Arena - Las Condes / Youtuber Fede Vigevani 19 de diciembre 2026 Estadio Nacional - Ñuñoa / Fútbol Colo-Colo vs. Unión Española - Copa Chile Coca-Cola Sin Azúcar 26 de agosto 2026 Movistar Arena - Santiago Centro / Humor El Unipersonal de Lucho Mellera 11 de abril 2027 Teatro Caupolicán - Sant",
     "source": "puntoticket",
     "title": "Ex Clasificadora de Correos - Estación Central/ ElectronicaDAME12 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/dame-ex-clasificadora-de-correos-sep-2026",
-    "venue": "Espacio Riesco - Huechuraba"
+    "venue": "Claro Arena - Las Condes"
   },
   "af18dbd72c165fe8": {
     "event_date": "2027-03-21",
@@ -2437,6 +2437,16 @@
     "source": "puntoticket",
     "title": "Teatro Coliseo - Santiago Centro/ TangoOrquesta Fernández Fierro07 de noviembre 2026",
     "url": "https://www.puntoticket.com/orquesta-fernandez-fierro",
+    "venue": "Claro Arena - Las Condes"
+  },
+  "c08f0c11b08997f4": {
+    "event_date": "2026-12-19",
+    "genre": "Youtuber Fede Vigevani",
+    "id": "c08f0c11b08997f4",
+    "raw_context": "Claro Arena - Las Condes / Youtuber Fede Vigevani 19 de diciembre 2026 Estadio Nacional - Ñuñoa / Fútbol Colo-Colo vs. Unión Española - Copa Chile Coca-Cola Sin Azúcar 26 de agosto 2026 Movistar Arena - Santiago Centro / Humor El Unipersonal de Lucho Mellera 11 de abril 2027 Teatro Caupolicán - Sant",
+    "source": "puntoticket",
+    "title": "Comedy - Providencia/ HumorEDO CAROE - No Tiene Show Bares",
+    "url": "https://www.puntoticket.com/evento/edocaroe-comedy-septiembre",
     "venue": "Claro Arena - Las Condes"
   },
   "c1474f955e4ca6fb": {
