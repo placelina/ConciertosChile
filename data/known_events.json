@@ -2490,14 +2490,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "bcb2a177c8a439ae": {
-    "event_date": "2026-08-29",
-    "genre": "Presencial Alex Anwandter",
+    "event_date": "2027-03-29",
+    "genre": "Rock Pixies",
     "id": "bcb2a177c8a439ae",
-    "raw_context": "Pop / Presencial Alex Anwandter - en Movistar Arena 29 de agosto 2026 VER MÁS",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Club Hípico - Santiago Centro / Electrón",
     "source": "puntoticket",
-    "title": "VER MÁS",
+    "title": "Movistar Arena - Santiago Centro/ PopAlex Anwandter - en Movistar Arena29 de agosto 2026",
     "url": "https://www.puntoticket.com/alex20",
-    "venue": "Pop"
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "bce5948c0c76c566": {
     "event_date": "2026-09-04",
@@ -3260,10 +3260,10 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "f26578c3e6fda059": {
-    "event_date": "2026-11-15",
-    "genre": "Reggaet",
+    "event_date": "2027-03-29",
+    "genre": "Rock Pixies",
     "id": "f26578c3e6fda059",
-    "raw_context": "Movistar Arena - Santiago Centro / Reggaetón Omar Courtz Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Movistar Arena - Santiago Centro / Urbano Katteyes 19 de noviembre 2026 Movistar Arena - Santiago Centro / Pop Ha*Ash - No Me Hablen De Amor Tour",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Club Hípico - Santiago Centro / Electrón",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopLouis Tomlinson - How Did We Get Here? Latin America Tour",
     "url": "https://www.puntoticket.com/louis-tomlinson-live-scl-2027",
