@@ -550,10 +550,10 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "2a3ebec5a112e29b": {
-    "event_date": "2026-09-03",
-    "genre": "Urbano La Reina del Flow",
+    "event_date": "2027-03-29",
+    "genre": "Rock Pixies",
     "id": "2a3ebec5a112e29b",
-    "raw_context": "Movistar Arena - Santiago Centro / Urbano La Reina del Flow 03 de septiembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Movistar Arena - Santiago Centro / Urbano Katteyes 19 d",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Club Hípico - Santiago Centro / Electrón",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ MúsicaAttack On Titan - The Last Concert",
     "url": "https://www.puntoticket.com/aot",
@@ -1520,14 +1520,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "79eda2611f94cedc": {
-    "event_date": "2026-09-20",
-    "genre": "Bachata Romeo Santos y Prince Royce",
+    "event_date": "2027-03-29",
+    "genre": "Rock Pixies",
     "id": "79eda2611f94cedc",
-    "raw_context": "Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Movistar Arena - Santiago ",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Club Hípico - Santiago Centro / Electrón",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoAlex Ubago03 de octubre 2026",
     "url": "https://www.puntoticket.com/alex-ubago",
-    "venue": "Estadio Monumental - Macul"
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "7a53064b8e83fb5d": {
     "event_date": "2027-03-21",
@@ -3185,7 +3185,7 @@
     "id": "ed0756555395b2b5",
     "raw_context": "Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Club Hípico - Santiago Centro / Electrón",
     "source": "puntoticket",
-    "title": "Teatro Coliseo - Santiago Centro/ Hard RockRata Blanca",
+    "title": "Teatro Coliseo - Santiago Centro/ Hard RockRata Blanca29 de agosto 2026",
     "url": "https://www.puntoticket.com/rata-blanca-teatro-coliseo-ago-2026",
     "venue": "Movistar Arena - Santiago Centro"
   },
