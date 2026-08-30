@@ -380,14 +380,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "1d05dc8dfc2a7d0c": {
-    "event_date": "2026-08-31",
-    "genre": "F",
+    "event_date": "2027-03-29",
+    "genre": "Rock Pixies",
     "id": "1d05dc8dfc2a7d0c",
-    "raw_context": "Claro Arena - Las Condes / Fútbol Universidad Católica vs O´Higgins - Liga de Primera Mercado Libre - Fecha 21 31 de agosto 2026 Movistar Arena - Santiago Centro / Pop Ha*Ash - No Me Hablen De Amor Tour 21 de marzo 2027 Estadio Monumental - Macul / Fútbol Colo-Colo vs. Audax Italiano - Liga de Prime",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Claro Arena - Las Condes / Fútbol Universidad Católica vs O´Higgins - Liga de Primera Mercado Libre - Fecha 21 31 de agosto 2026 Movistar Arena - Santiago Centro / Pop Ha*Ash - No Me Hablen De Amor Tour 21 de marzo 2",
     "source": "puntoticket",
     "title": "Distrito 04 - San Miguel/ HumorEDO CAROE - No Tiene Show Bares08 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/edocaroe-club-distrito-04-septiembre",
-    "venue": "Claro Arena - Las Condes"
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "1e29071ac11dc2fa": {
     "event_date": "2026-06-25",
@@ -2069,6 +2069,16 @@
     "url": "https://www.puntoticket.com/evento/colo-colo-vs-ohiggins-copachile-2026",
     "venue": "Claro Arena - Las Condes"
   },
+  "a219f1dc1be73cfb": {
+    "event_date": "2027-03-29",
+    "genre": "Rock Pixies",
+    "id": "a219f1dc1be73cfb",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Club Hípico - Santiago Centro / Electrón",
+    "source": "puntoticket",
+    "title": "Teatro Caupolicán - Santiago Centro/ FunkDjavan21 de noviembre 2026",
+    "url": "https://www.puntoticket.com/djavan-live-scl-2026",
+    "venue": "Movistar Arena - Santiago Centro"
+  },
   "a33f1b544a38433a": {
     "event_date": "2027-03-21",
     "genre": "Festival LOVE THE",
@@ -2740,14 +2750,14 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "cbd0da507b9d252f": {
-    "event_date": "2026-09-20",
-    "genre": "Bachata Romeo Santos y Prince Royce",
+    "event_date": "2027-03-29",
+    "genre": "Rock Pixies",
     "id": "cbd0da507b9d252f",
-    "raw_context": "Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Movistar Arena - Santiago ",
+    "raw_context": "Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Jardines del Mercurio - Vitacura / Exposición La Cava Jumbo 2026 Club Hípico - Santiago Centro / Electrón",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop PunkHayley Williams18 de noviembre 2026",
     "url": "https://www.puntoticket.com/hayley-williams-2026",
-    "venue": "Estadio Monumental - Macul"
+    "venue": "Movistar Arena - Santiago Centro"
   },
   "cbdef5e767d20b74": {
     "event_date": "2026-11-19",
