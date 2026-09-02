@@ -40,14 +40,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "0360829d18df61fc": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "0360829d18df61fc",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Espacio Riesco - Huechuraba/ ElectrónicaMiss Monique02 de octubre 2026",
     "url": "https://www.puntoticket.com/missmonique-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "039239bbbea7ef10": {
     "event_date": "2027-03-21",
@@ -58,6 +58,16 @@
     "title": "Club Chocolate, Barrio Bellavista - Recoleta/ TrapTussiwarriors World Tour28 de agosto 2026",
     "url": "https://www.puntoticket.com/evento/tussiwarriors",
     "venue": "Espacio Riesco - Huechuraba"
+  },
+  "03f0bbd04ce00dcb": {
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
+    "id": "03f0bbd04ce00dcb",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
+    "source": "puntoticket",
+    "title": "Centro de Eventos Basel - Independencia/ TechnoRespira Presenta: Unreal X KUKO All Night Long17 de septiembre 2026",
+    "url": "https://www.puntoticket.com/evento/UNREALxKUKOWorldTour",
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "048b9c06f25d11b5": {
     "event_date": "2027-03-20",
@@ -70,14 +80,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "04cbe2665eb7ddef": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "04cbe2665eb7ddef",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ Rock AlternativoBeth Gibbons30 de mayo 2027",
     "url": "https://www.puntoticket.com/beth-gibbons-live-scl-2027",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "04ccfa02e44bacbd": {
     "event_date": "2027-03-29",
@@ -120,14 +130,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "0a5f178fd3d981e8": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "0a5f178fd3d981e8",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ ReggaetónOzuna24 de septiembre 2026",
     "url": "https://www.puntoticket.com/ozuna-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "0b22cb0ad5834e3e": {
     "event_date": "2026-08-22",
@@ -150,14 +160,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "0bdc3939aabfa600": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "0bdc3939aabfa600",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Palermo Teatro Bar - Providencia/ HumorHabla, Cobarde! por Edo Caroe - Habla, Cobarde!07 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/edocaroe-palermo-septiembre-1",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "0c72883d2ec4c349": {
     "event_date": "2026-11-15",
@@ -170,14 +180,14 @@
     "venue": "Club Hípico - Santiago Centro"
   },
   "0dfba426de44ecab": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "0dfba426de44ecab",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RockLos Tres - Unplugged 30 años",
     "url": "https://www.puntoticket.com/los-tres",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "0e65767627155935": {
     "event_date": "2027-03-29",
@@ -190,14 +200,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "0e738b79a643f392": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "0e738b79a643f392",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Espacio Riesco - Huechuraba/ ElectrónicaThe Grid: Outworld - Klangkuenstler All Night Long05 de septiembre 2026",
     "url": "https://www.puntoticket.com/the-grid-outworld",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "0ecb4438c1c3af64": {
     "event_date": "2026-07-06",
@@ -440,14 +450,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "20962147d06ce776": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "20962147d06ce776",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop-Rock5 Seconds of Summer - EVERYONE'S A STAR! World Tour 202622 de septiembre 2026",
     "url": "https://www.puntoticket.com/5-seconds-of-summer-santiago-de-chile-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "213ba1e0fb867666": {
     "event_date": "2026-10-31",
@@ -500,24 +510,24 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "26da08407d5a283f": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "26da08407d5a283f",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopMorat",
     "url": "https://www.puntoticket.com/morat",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "2727f659b535c438": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "2727f659b535c438",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Estadio Monumental - Macul/ FútbolMuseo y Tour Monumental 2026",
     "url": "https://www.puntoticket.com/museo-y-tour-monumental-2026",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "27efd7ccb708d385": {
     "event_date": "2026-07-06",
@@ -620,14 +630,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "2ca63f578793a43e": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "2ca63f578793a43e",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Estadio Nacional - Ñuñoa/ FútbolUniversidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fecha 2205 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/universidad-de-chile-vs-coquimbo-ligaprimera-2026",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "2d308da43e3ab770": {
     "event_date": "2026-06-21",
@@ -870,14 +880,14 @@
     "venue": "Ex Clasificadora de Correos - Estación Central"
   },
   "42b390ce539e796f": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "42b390ce539e796f",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "La Fuente Maestra - Colina/ HumorEDO CAROE - No Tiene Show Bares04 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/edocaroe-fuente-maestra",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "42cb64960d72c541": {
     "event_date": "2026-12-05",
@@ -970,14 +980,14 @@
     "venue": null
   },
   "49976f3cb0b75870": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "49976f3cb0b75870",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Rock AlternativoBabasonicos21 de noviembre 2026",
     "url": "https://www.puntoticket.com/babasonicos-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "4a4c099a12ffad61": {
     "event_date": "2026-08-07",
@@ -998,6 +1008,16 @@
     "title": "Teatro Caupolicán - Santiago Centro/ BolerosCatalina y Las Bordonas de Oro 202611 de diciembre 2026",
     "url": "https://www.puntoticket.com/catalina-y-las-bordonas-de-oro-2026",
     "venue": "Movistar Arena - Santiago Centro"
+  },
+  "4a8f35ca3269ee0a": {
+    "event_date": "2026-09-13",
+    "genre": "F",
+    "id": "4a8f35ca3269ee0a",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
+    "source": "puntoticket",
+    "title": "Cenco Portal La Dehesa - Lo Barnechea/ ExperienciaParis Beauty Fest",
+    "url": "https://www.puntoticket.com/paris-beauty-fest",
+    "venue": "Estadio Monumental - Macul"
   },
   "4b10bdda2badfa48": {
     "event_date": "2026-10-31",
@@ -1080,14 +1100,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "546daab4910e8f71": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "546daab4910e8f71",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopZayn - The Konnakol Tour02 de octubre 2026",
     "url": "https://www.puntoticket.com/zayn-live-scl-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "55550ad3033cd96b": {
     "event_date": "2026-10-23",
@@ -1230,14 +1250,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "5edc95337c49836c": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "5edc95337c49836c",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Estadio Municipal de San Bernardo/ FútbolMagallanes vs. Unión San Felipe - Liga de Ascenso Caixun 2026 - Fecha 2405 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/magallanes-vs-usanfelipe-fecha24-liga-ascenso-2026",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "5f37a9943b300366": {
     "event_date": "2026-12-19",
@@ -1320,14 +1340,14 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "66dad6dbb856ee6e": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "66dad6dbb856ee6e",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ SalsaPorfi Baloa y sus Adolescentes17 de septiembre 2026",
     "url": "https://www.puntoticket.com/porfi-baloa-y-sus-adolescentes-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "6720561dcab81333": {
     "event_date": "2027-03-21",
@@ -1440,24 +1460,24 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "7090ce341b3d29b5": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "7090ce341b3d29b5",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Sporting Club de Viña del Mar/ FiestaViña Classic - HALLOWEEN CLASIC31 de octubre 2026",
     "url": "https://www.puntoticket.com/evento/vina-classic-halloween",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "70e92e541891addb": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "70e92e541891addb",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Estadio Monumental - Macul/ FútbolColo-Colo vs. D. Iquique - Liga Femenina - Fecha 1803 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/colo-colo-vs-iquique-fecha18-ligafemenina-2026",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "723ce9e28851e18b": {
     "event_date": "2026-12-17",
@@ -1570,14 +1590,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "79eda2611f94cedc": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "79eda2611f94cedc",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Estadio Monumental - Macul / Bachata Romeo Santos y Prin",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoAlex Ubago03 de octubre 2026",
     "url": "https://www.puntoticket.com/alex-ubago",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "7a53064b8e83fb5d": {
     "event_date": "2027-03-21",
@@ -1660,14 +1680,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "822aae000d48c763": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "822aae000d48c763",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RockCuarteto de Nos05 de diciembre 2026",
     "url": "https://www.puntoticket.com/cuartetodenos",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "82da7ccaae325eb3": {
     "event_date": "2026-08-26",
@@ -1820,14 +1840,14 @@
     "venue": "Claro Arena - Las Condes"
   },
   "8bbc62e234fa3de6": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "8bbc62e234fa3de6",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ Fan MeetingFreen Sarocha Fanmeeting08 de noviembre 2026",
     "url": "https://www.puntoticket.com/freen-sarocha",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "8ce02822028638e8": {
     "event_date": "2026-10-23",
@@ -1850,14 +1870,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "8d464dc4fd7c6807": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "8d464dc4fd7c6807",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ MetalBABYMETAL03 de diciembre 2026",
     "url": "https://www.puntoticket.com/baby-metal-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "8e2c2a09a02fb85e": {
     "event_date": "2027-03-20",
@@ -1870,24 +1890,24 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "8eb0b864126c10e4": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "8eb0b864126c10e4",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ ReggaetónTito el Bambino25 de septiembre 2026",
     "url": "https://www.puntoticket.com/tito-el-bambino-2026",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "8f0399cf7d6a77ac": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "8f0399cf7d6a77ac",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RockPixies - en Movistar Arena29 de marzo 2027",
     "url": "https://www.puntoticket.com/pixies",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "8f39199bd2d42ad7": {
     "event_date": null,
@@ -1920,14 +1940,14 @@
     "venue": "Festival Cervecero"
   },
   "9046dbf5ae7556ba": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "9046dbf5ae7556ba",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Parque Araucano - Las Condes/ ExperienciaWANDERLUST STGO 202607 de noviembre 2026",
     "url": "https://www.puntoticket.com/wanderlust-stgo-2026",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "9128c58a48ce5564": {
     "event_date": "2026-11-19",
@@ -2030,14 +2050,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "98309348303a5121": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "98309348303a5121",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopDavid Bisbal - Tour Eternos 202606 de octubre 2026",
     "url": "https://www.puntoticket.com/david-bisbal",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "9a68ec5139466793": {
     "event_date": "2026-09-09",
@@ -2070,14 +2090,14 @@
     "venue": "Teatro Coliseo - Santiago Centro"
   },
   "9ab4b50abf9e4f3c": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "9ab4b50abf9e4f3c",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ RancherasAlanys Lagos - Mi Primer Caupolicán15 de noviembre 2026",
     "url": "https://www.puntoticket.com/alanys-lagos-mi-primer-caupolican-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "9b990dd5c4f61d03": {
     "event_date": "2026-12-06",
@@ -2110,14 +2130,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "9fedba6183a57363": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "9fedba6183a57363",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RapTrueno - TURR4ZO09 de octubre 2026",
     "url": "https://www.puntoticket.com/trueno",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "a050de9bb47ec9bf": {
     "event_date": "2026-11-20",
@@ -2130,14 +2150,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "a064830c579592a0": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "a064830c579592a0",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ TrapCA7RIEL & PACO AMOROSO - FREE SPIRITS WORLD TOUR23 de noviembre 2026",
     "url": "https://www.puntoticket.com/ca7riel-y-paco-amoroso-live-scl-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "a06b198d374b1314": {
     "event_date": "2027-03-29",
@@ -2300,14 +2320,14 @@
     "venue": "Familia"
   },
   "aaf2a3389a3d8cdc": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "aaf2a3389a3d8cdc",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoCamila - Tour Adiós20 de noviembre 2026",
     "url": "https://www.puntoticket.com/camila",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "aaf6a32252bd2de4": {
     "event_date": "2026-11-20",
@@ -2320,14 +2340,14 @@
     "venue": "Centro de Eventos Basel - Independencia"
   },
   "ac8344cd6e97b326": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "ac8344cd6e97b326",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop UrbanoMaria Becerra - Quimera01 de diciembre 2026",
     "url": "https://www.puntoticket.com/maria-becerra",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "ae641d628e4fd505": {
     "event_date": "2026-06-25",
@@ -2340,14 +2360,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "aeda92e403d241e9": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "aeda92e403d241e9",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Ex Clasificadora de Correos - Estación Central/ ElectronicaDAME12 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/dame-ex-clasificadora-de-correos-sep-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "af18dbd72c165fe8": {
     "event_date": "2027-03-21",
@@ -2450,14 +2470,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "b4c79c1f06cc98dc": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "b4c79c1f06cc98dc",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ K-PopAespa06 de septiembre 2026",
     "url": "https://www.puntoticket.com/aespa-live-scl-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "b66d5616abe8e40f": {
     "event_date": "2026-10-19",
@@ -2490,14 +2510,14 @@
     "venue": "Parque O'Higgins - Santiago Centro"
   },
   "b7aff1b02dfad793": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "b7aff1b02dfad793",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ UrbanoBeele - Borondo: Detone y Abandone Tour",
     "url": "https://www.puntoticket.com/beele",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "b7df0754115d5233": {
     "event_date": "2026-09-05",
@@ -2660,14 +2680,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "c0eb372fed696f0a": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "c0eb372fed696f0a",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Teatro Municipal de Antofagasta/ HumorEncuentros con Kramer - Caja Los Andes15 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/encuentroskramercla-antofagasta",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "c1474f955e4ca6fb": {
     "event_date": "2026-09-03",
@@ -2700,14 +2720,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "c24b30e01b29b98f": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "c24b30e01b29b98f",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Pop LatinoLos Vasquez - El Último Movistar Arena12 de diciembre 2026",
     "url": "https://www.puntoticket.com/los-vasquez-el-ultimo-movistar-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "c270a4ae5911f454": {
     "event_date": "2026-08-25",
@@ -2810,14 +2830,14 @@
     "venue": "Estación Mapocho - Santiago Centro"
   },
   "ca161965ce4ca7f3": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "ca161965ce4ca7f3",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Club Chocolate, Barrio Bellavista - Recoleta/ Dance-PunkPeaches17 de noviembre 2026",
     "url": "https://www.puntoticket.com/peaches-2026",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "cacf487c29e2b6ec": {
     "event_date": "2026-08-22",
@@ -2930,14 +2950,14 @@
     "venue": "Infantil"
   },
   "cdccb44a0fcc4001": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "cdccb44a0fcc4001",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoMarco Antonio Solis - Gratitud Tour 2026",
     "url": "https://www.puntoticket.com/marco-antonio-solis",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "cdf3f77651f1b61a": {
     "event_date": "2026-11-20",
@@ -2980,14 +3000,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "d2c55c6f39d4d868": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "d2c55c6f39d4d868",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ UrbanoKatteyes19 de noviembre 2026",
     "url": "https://www.puntoticket.com/katteyes-live-scl-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "d352c404decdc0c4": {
     "event_date": "2026-09-15",
@@ -3020,14 +3040,14 @@
     "venue": "Pop-Rock"
   },
   "d5f307b8541a3f8f": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "d5f307b8541a3f8f",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RockAitana19 de octubre 2026",
     "url": "https://www.puntoticket.com/aitana",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "d67ef83b6e431c9f": {
     "event_date": "2026-10-23",
@@ -3070,14 +3090,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "da7cc00aa45a595a": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "da7cc00aa45a595a",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Estadio Monumental - Macul/ BachataRomeo Santos y Prince Royce - Mejor Tarde que Nunca20 de septiembre 2026",
     "url": "https://www.puntoticket.com/romeo-santos-y-prince-royce-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "daf3d54eee8267fc": {
     "event_date": "2027-03-29",
@@ -3100,14 +3120,14 @@
     "venue": "Claro Arena - Las Condes"
   },
   "dbf3788bd070674c": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "dbf3788bd070674c",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ CumbiaLa Combo Tortuga - 15 aniversario",
     "url": "https://www.puntoticket.com/la-combo-tortuga-15-aniversario",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "dc37c88a3006748a": {
     "event_date": "2026-10-16",
@@ -3130,14 +3150,14 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "df3c7854280f5d7c": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "df3c7854280f5d7c",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ FlamencoMario Reyes Leyenda Gipsy Kings y Noche Flamenca28 de octubre 2026",
     "url": "https://www.puntoticket.com/evento/gipsy-kings",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "e1d5c45f2d5ef0bf": {
     "event_date": "2026-08-22",
@@ -3170,14 +3190,14 @@
     "venue": "Club Hípico - Santiago Centro"
   },
   "e40ae07ca40fe111": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Presencial Macha y El Bloque Depresivo",
     "id": "e40ae07ca40fe111",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Boleros / Presencial Macha y El Bloque Depresivo 11 de diciembre 2026 VER MÁS",
     "source": "puntoticket",
-    "title": "Estadio Nacional - Ñuñoa/ BolerosMacha y El Bloque Depresivo11 de diciembre 2026",
+    "title": "VER MÁS",
     "url": "https://www.puntoticket.com/macha-y-el-bloque-depresivo",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Boleros"
   },
   "e43b362af14f86a9": {
     "event_date": "2026-09-04",
@@ -3200,14 +3220,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "e44924f1fd0851b0": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "e44924f1fd0851b0",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ RománticoRaphael - Raphaelísimo Tour 202612 de octubre 2026",
     "url": "https://www.puntoticket.com/raphael",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "e501505c13a66da6": {
     "event_date": "2026-11-15",
@@ -3310,14 +3330,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "ee626be895b438b3": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "ee626be895b438b3",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ Electro PopJaviera Mena09 de diciembre 2026",
     "url": "https://www.puntoticket.com/javiera-mena-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "ef7398d912534f65": {
     "event_date": "2027-03-29",
@@ -3340,14 +3360,14 @@
     "venue": "Rock Alternativo"
   },
   "f099799692b4dcdd": {
-    "event_date": "2026-12-11",
-    "genre": "Boleros Macha y El Bloque Depresivo",
+    "event_date": "2026-09-13",
+    "genre": "F",
     "id": "f099799692b4dcdd",
-    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile vs. Coquimbo Unido - Liga de Primera Mercado Libre - Fec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ Heavy MetalKK’s Priest - Latin American Tour 202728 de abril 2027",
     "url": "https://www.puntoticket.com/evento/kks-priest-teatro-caupolican-abr-2027",
-    "venue": "Estadio Nacional - Ñuñoa"
+    "venue": "Estadio Monumental - Macul"
   },
   "f155e5ce951a99c1": {
     "event_date": "2026-10-29",
@@ -3370,14 +3390,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "f22346b66858d669": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "f22346b66858d669",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ PopHa*Ash - No Me Hablen De Amor Tour21 de marzo 2027",
     "url": "https://www.puntoticket.com/ha-ash",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "f26578c3e6fda059": {
     "event_date": "2026-11-15",
@@ -3420,14 +3440,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "f426f251983505cd": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "f426f251983505cd",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Jardines del Mercurio - Vitacura/ ExposiciónLa Cava Jumbo 2026",
     "url": "https://www.puntoticket.com/la-cava-jumbo",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "f42bc82c7f129f52": {
     "event_date": "2026-10-29",
@@ -3441,13 +3461,23 @@
   },
   "f624c0019c46bc01": {
     "event_date": "2026-12-11",
-    "genre": "Boleros Catalina y Las Bordonas de Oro",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "f624c0019c46bc01",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Boleros Catalina y Las Bordonas de Oro 2026 11 de diciembre 2026 Teatro La Cúpula - Santiago Centro / Rock Chileno HESSE KASSEL - En Lanzamiento En Vivo Morir Saltando 08 de enero 2027 Movistar Arena - Santiago Centro / Rock Ronnie Wood 10 de noviembre 2026 Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Parque Padre Hurtado - La Reina/ Fiesta ElectrónicaPiknic Electronik #1 - | Partiboi69 | Benwal | Julia Sandstorm |12 de septiembre 2026",
     "url": "https://www.puntoticket.com/piknicelectronik-sept",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
+  },
+  "f6aa095a0d4dbf25": {
+    "event_date": "2026-09-13",
+    "genre": "F",
+    "id": "f6aa095a0d4dbf25",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 23 13 de septiembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Estadi",
+    "source": "puntoticket",
+    "title": "Estadio Monumental - Macul/ FútbolColo-Colo vs Deportes Concepción - Liga de Primera Mercado Libre - Fecha 2313 de septiembre 2026",
+    "url": "https://www.puntoticket.com/evento/colo-colo-vs-deportes-concepcion-ligaprimera-2026",
+    "venue": "Estadio Monumental - Macul"
   },
   "f6efa90f4462b56f": {
     "event_date": "2026-10-25",
@@ -3510,14 +3540,14 @@
     "venue": "Claro Arena - Las Condes"
   },
   "fbed234a8c246956": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-12-11",
+    "genre": "Boleros Macha y El Bloque Depresivo",
     "id": "fbed234a8c246956",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movi",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo 11 de diciembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma 31 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro",
     "source": "puntoticket",
     "title": "Movistar Arena - Santiago Centro/ ReggaetónAnuel AA - World Tour",
     "url": "https://www.puntoticket.com/anuel-aa-world-tour",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "fc2cf5fe2e181529": {
     "event_date": "2026-09-05",
