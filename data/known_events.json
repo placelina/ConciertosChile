@@ -1,4 +1,14 @@
 {
+  "00370cb348b10233": {
+    "event_date": "2026-12-01",
+    "genre": "Pop Urbano Maria Becerra",
+    "id": "00370cb348b10233",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Santander Arena - Santiago Centro / Fan Meeting 2026-27 Taemin World Tour In Santiago 02 de noviembre 2026 Santander Arena - Santiago Centro / Youtuber El Show de Alejo Igoa 12 de noviembre 2026 Estadio Monum",
+    "source": "puntoticket",
+    "title": "Teatro Caupolicán - Santiago Centro/ RockEl Tri - por primera vez en chile06 de diciembre 2026",
+    "url": "https://www.puntoticket.com/el-tri",
+    "venue": "Santander Arena - Santiago Centro"
+  },
   "0207f5d5ce5a3d6a": {
     "event_date": "2026-12-05",
     "genre": "Exposici",
@@ -90,14 +100,14 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "04ccfa02e44bacbd": {
-    "event_date": "2026-11-01",
-    "genre": "Trap Dillom",
+    "event_date": "2026-12-01",
+    "genre": "Electr",
     "id": "04ccfa02e44bacbd",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Trap Dillom - Cúpula Parque Ohiggins 01 de noviembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Estadio Nacional - Ñuñoa / Bo",
+    "raw_context": "Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo Santander Arena - Santiago Centro / Heavy Metal Helloween - 40 Years",
     "source": "puntoticket",
     "title": "Claro Arena - Las Condes/ Rock / Ritmos LatinoamericanosLos Fabulosos Cadillacs + Fishbone + Chico Trujillo29 de octubre 2026",
     "url": "https://www.puntoticket.com/cadillacs-fishbone-2026",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Club Hípico - Santiago Centro"
   },
   "07a113162b4dccc9": {
     "event_date": "2026-06-30",
@@ -295,7 +305,7 @@
     "id": "15cab422c9f837f9",
     "raw_context": "Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Santander Arena - Santiago Centro / Fan Meeting 2026-27 Taemin World Tour In Santiago 02 de noviembre 2026 Santander Arena - Santiago Centro / Youtuber El Show de Alejo Igoa 12 de noviembre 2026 Estadio Monum",
     "source": "puntoticket",
-    "title": "Teatro Municipal de Valparaíso/ Métal SinfónicoMetallica Sinfónico SyM",
+    "title": "Teatro Municipal de Valparaíso/ Metal SinfónicoMetallica Sinfónico S&M",
     "url": "https://www.puntoticket.com/evento/metallica-sinfonico-teatro-municipal-valparaiso-ene-2026",
     "venue": "Santander Arena - Santiago Centro"
   },
@@ -2910,10 +2920,10 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "c1474f955e4ca6fb": {
-    "event_date": "2026-09-09",
+    "event_date": "2026-09-10",
     "genre": "Presencial Circo Pastelito y Tachuela Chico",
     "id": "c1474f955e4ca6fb",
-    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 09 de septiembre 2026 al 20 de septiembre 2026 VER MÁS",
+    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 10 de septiembre 2026 al 20 de septiembre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/circo-pastelito",
@@ -3131,13 +3141,13 @@
   },
   "cbe3c6f8530e75cb": {
     "event_date": "2026-12-01",
-    "genre": "Electr",
+    "genre": "Pop Urbano Maria Becerra",
     "id": "cbe3c6f8530e75cb",
-    "raw_context": "Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo Santander Arena - Santiago Centro / Heavy Metal Helloween - 40 Years",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Santander Arena - Santiago Centro / Fan Meeting 2026-27 Taemin World Tour In Santiago 02 de noviembre 2026 Santander Arena - Santiago Centro / Youtuber El Show de Alejo Igoa 12 de noviembre 2026 Estadio Monum",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ TrapDillom - Cúpula Parque Ohiggins01 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/FNA387",
-    "venue": "Club Hípico - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "cc1c8bb819aae55c": {
     "event_date": "2026-10-03",
@@ -3288,6 +3298,16 @@
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/mana",
     "venue": "Pop-Rock"
+  },
+  "d52869359408a7c4": {
+    "event_date": "2026-12-01",
+    "genre": "Pop Urbano Maria Becerra",
+    "id": "d52869359408a7c4",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Santander Arena - Santiago Centro / Fan Meeting 2026-27 Taemin World Tour In Santiago 02 de noviembre 2026 Santander Arena - Santiago Centro / Youtuber El Show de Alejo Igoa 12 de noviembre 2026 Estadio Monum",
+    "source": "puntoticket",
+    "title": "Polideportivo La Granja/ DeportesCampeonato Primera Futsal -  Clausura 2026 - Fecha 6",
+    "url": "https://www.puntoticket.com/evento/campeonato-futsal-clausura-2026-fecha6",
+    "venue": "Santander Arena - Santiago Centro"
   },
   "d5f307b8541a3f8f": {
     "event_date": "2026-12-01",
