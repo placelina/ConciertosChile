@@ -180,14 +180,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "0c72883d2ec4c349": {
-    "event_date": "2026-09-20",
-    "genre": "Bachata Romeo Santos y Prince Royce",
+    "event_date": "2026-12-01",
+    "genre": "Electr",
     "id": "0c72883d2ec4c349",
-    "raw_context": "Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Estadio",
+    "raw_context": "Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo Santander Arena - Santiago Centro / Heavy Metal Helloween - 40 Years",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ SoulJungle - World Tour 202703 de abril 2027",
     "url": "https://www.puntoticket.com/jungle",
-    "venue": "Estadio Monumental - Macul"
+    "venue": "Club Hípico - Santiago Centro"
   },
   "0dfba426de44ecab": {
     "event_date": "2026-12-01",
@@ -3401,13 +3401,13 @@
   },
   "dbf3788bd070674c": {
     "event_date": "2026-12-01",
-    "genre": "Pop Urbano Maria Becerra",
+    "genre": "Electr",
     "id": "dbf3788bd070674c",
-    "raw_context": "Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Cúpula Parque O'Higgins - Santiago Centro / Trap Dillom - Cúpula Parque Ohiggins 01 de noviembre ",
+    "raw_context": "Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo Santander Arena - Santiago Centro / Heavy Metal Helloween - 40 Years",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ CumbiaLa Combo Tortuga - 15 aniversario",
     "url": "https://www.puntoticket.com/la-combo-tortuga-15-aniversario",
-    "venue": "Santander Arena - Santiago Centro"
+    "venue": "Club Hípico - Santiago Centro"
   },
   "dc37c88a3006748a": {
     "event_date": "2026-10-16",
