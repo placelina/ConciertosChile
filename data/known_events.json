@@ -2639,6 +2639,16 @@
     "url": "https://www.ticketmaster.cl/event/robbie-williams-2026",
     "venue": null
   },
+  "b0c98245895fc749": {
+    "event_date": "2026-12-11",
+    "genre": "Reggaet",
+    "id": "b0c98245895fc749",
+    "raw_context": "Santander Arena - Santiago Centro / Reggaetón Jere Klein - El Llamado 11 de diciembre 2026 Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Santander Arena - Santiago Centro / Fan Meeting 2026-27 Taemin World Tour In Santiago 02 de noviembre 2026 Santander ",
+    "source": "puntoticket",
+    "title": "Arena Santiago - Santiago Centro/ TeatroLa Prueba - Autogestión31 de diciembre 2029",
+    "url": "https://www.puntoticket.com/evento/PTP346",
+    "venue": "Santander Arena - Santiago Centro"
+  },
   "b0d235121c5c9a3a": {
     "event_date": "2027-03-20",
     "genre": "Reggaet",
@@ -3543,7 +3553,7 @@
     "event_date": "2026-12-01",
     "genre": "Electr",
     "id": "e501505c13a66da6",
-    "raw_context": "Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo Santander Arena - Santiago Centro / Heavy Metal Helloween - 40 Years",
+    "raw_context": "Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Santander Arena - Santiago Centro / Reggaetón Jere Klein - El Llamado 11 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha",
     "source": "puntoticket",
     "title": "Espacio Riesco - Huechuraba/ FestivalLOVE THE 90'S - Espacio Riesco 202721 de marzo 2027",
     "url": "https://www.puntoticket.com/love-the-90s-espacio-riesco-2027",
