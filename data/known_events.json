@@ -3030,10 +3030,10 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "c1474f955e4ca6fb": {
-    "event_date": "2026-09-16",
+    "event_date": "2026-09-17",
     "genre": "Presencial Circo Pastelito y Tachuela Chico",
     "id": "c1474f955e4ca6fb",
-    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 16 de septiembre 2026 al 01 de noviembre 2026 VER MÁS",
+    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 17 de septiembre 2026 al 01 de noviembre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/circo-pastelito",
@@ -3591,13 +3591,13 @@
   },
   "e1de68a2a9fd83e3": {
     "event_date": "2026-09-20",
-    "genre": "Hardcore Alexisonfire",
+    "genre": "Bachata Romeo Santos y Prince Royce",
     "id": "e1de68a2a9fd83e3",
-    "raw_context": "Teatro Coliseo - Santiago Centro / Hardcore Alexisonfire - Performs Crisis In Full Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Ce",
+    "raw_context": "Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Reggaetón Jere Klein - El Llamado 11 de diciembre 2026 Estadio Nacional - Ñu",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ Metal ProgresivoOpeth - THE LAST WILL AND TESTAMENT Latin America tour PT 201 de noviembre 2026",
     "url": "https://www.puntoticket.com/opeth",
-    "venue": "Teatro Coliseo - Santiago Centro"
+    "venue": "Estadio Monumental - Macul"
   },
   "e31d64309a835b6f": {
     "event_date": "2026-11-15",
