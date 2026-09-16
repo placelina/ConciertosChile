@@ -1,13 +1,13 @@
 {
   "00370cb348b10233": {
-    "event_date": "2026-09-25",
-    "genre": "Baladas Luis Fonsi",
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Sundeck",
     "id": "00370cb348b10233",
-    "raw_context": "Santander Arena - Santiago Centro / Baladas Luis Fonsi - Mar Infinito - World Tour Estadio Nacional - Ñuñoa / Fútbol Colo-Colo vs. Audax Italiano - Copa Chile Coca-Cola Sin Azúcar 25 de septiembre 2026 Santander Arena - Santiago Centro / Reggaetón Jere Klein - El Llamado 11 de diciembre 2026 Parque ",
+    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Fiesta Sundeck - Mathame presenta: NEO Santiago 21 de noviembre 2026 Santander Arena - Santiago Centro / Baladas Luis Fonsi - Mar Infinito - World Tour Estadio Nacional - Ñuñoa / Fútbol Colo-Colo vs. Audax Italiano - Copa Chile Coca-Cola Sin Azúcar 25 de sept",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ RockEl Tri - por primera vez en chile06 de diciembre 2026",
     "url": "https://www.puntoticket.com/el-tri",
-    "venue": "Santander Arena - Santiago Centro"
+    "venue": "Parque Ciudad Empresarial - Huechuraba"
   },
   "0207f5d5ce5a3d6a": {
     "event_date": "2026-12-05",
@@ -565,7 +565,7 @@
     "id": "26da08407d5a283f",
     "raw_context": "Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Reggaetón Jere Klein - El Llamado 11 de diciembre 2026 Estadio Nacional - Ñu",
     "source": "puntoticket",
-    "title": "Santander Arena - Santiago Centro/ PopMorat",
+    "title": "Santander Arena - Santiago Centro/ PopMorat16 de septiembre 2026",
     "url": "https://www.puntoticket.com/morat",
     "venue": "Estadio Monumental - Macul"
   },
@@ -3520,14 +3520,14 @@
     "venue": "Claro Arena - Las Condes"
   },
   "dbf3788bd070674c": {
-    "event_date": "2026-12-01",
-    "genre": "Electr",
+    "event_date": "2026-09-20",
+    "genre": "Bachata Romeo Santos y Prince Royce",
     "id": "dbf3788bd070674c",
-    "raw_context": "Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Pop Urbano Maria Becerra - Quimera 01 de diciembre 2026 Santander Arena - Santiago Centro / Reggaetón Jere Klein - El Llamado 11 de diciembre 2026 Estadio Nacional - Ñuñoa / Boleros Macha",
+    "raw_context": "Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Reggaetón Jere Klein - El Llamado 11 de diciembre 2026 Estadio Nacional - Ñu",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ CumbiaLa Combo Tortuga - 15 aniversario",
     "url": "https://www.puntoticket.com/la-combo-tortuga-15-aniversario",
-    "venue": "Club Hípico - Santiago Centro"
+    "venue": "Estadio Monumental - Macul"
   },
   "dc37c88a3006748a": {
     "event_date": "2026-10-16",
