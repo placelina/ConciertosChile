@@ -2979,6 +2979,16 @@
     "url": "https://www.puntoticket.com/evento/campeonato-futsal-anfp2026-final-femenina",
     "venue": "Estadio Nacional - Ñuñoa"
   },
+  "c04bb9457781138e": {
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Sundeck",
+    "id": "c04bb9457781138e",
+    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Fiesta Sundeck - Mathame presenta: NEO Santiago 21 de noviembre 2026 Santander Arena - Santiago Centro / Baladas Luis Fonsi - Mar Infinito - World Tour Estadio Nacional - Ñuñoa / Fútbol Colo-Colo vs. Audax Italiano - Copa Chile Coca-Cola Sin Azúcar 25 de sept",
+    "source": "puntoticket",
+    "title": "Palermo Teatro Bar - Providencia/ HumorEDO CAROE - Habla, Cobarde!05 de octubre 2026",
+    "url": "https://www.puntoticket.com/evento/edocaroe-palermo-octubre5",
+    "venue": "Parque Ciudad Empresarial - Huechuraba"
+  },
   "c05a8063d4cb5da7": {
     "event_date": "2026-08-30",
     "genre": "F",
@@ -3810,14 +3820,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "f26578c3e6fda059": {
-    "event_date": "2026-11-15",
-    "genre": "Rancheras Alanys Lagos",
+    "event_date": "2026-09-20",
+    "genre": "Bachata Romeo Santos y Prince Royce",
     "id": "f26578c3e6fda059",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Rancheras Alanys Lagos - Mi Primer Caupolicán 15 de noviembre 2026 Espacio Riesco - Huechuraba / Fiesta Electrónica Anyma Movistar Arena - Santiago Centro / Rock Pixies - en Movistar Arena 29 de marzo 2027 Estadio Monumental - Macul / Bachata Romeo Santos y Prin",
+    "raw_context": "Estadio Monumental - Macul / Bachata Romeo Santos y Prince Royce - Mejor Tarde que Nunca 20 de septiembre 2026 Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Santander Arena - Santiago Centro / Reggaetón Jere Klein - El Llamado 11 de diciembre 2026 Estadio Nacional - Ñu",
     "source": "puntoticket",
-    "title": "Movistar Arena - Santiago Centro/ PopLouis Tomlinson - How Did We Get Here? Latin America Tour",
+    "title": "Santander Arena - Santiago Centro/ PopLouis Tomlinson - How Did We Get Here? Latin America Tour",
     "url": "https://www.puntoticket.com/louis-tomlinson-live-scl-2027",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Monumental - Macul"
   },
   "f3118d2c82345f8c": {
     "event_date": "2026-12-04",
