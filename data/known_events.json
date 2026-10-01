@@ -2989,6 +2989,16 @@
     "url": "https://www.puntoticket.com/evento/magallanes-vs-colocolo-liga-femenina-2026",
     "venue": "Movistar Arena - Santiago Centro"
   },
+  "b2b7f9f3d9c86605": {
+    "event_date": "2026-10-06",
+    "genre": "F",
+    "id": "b2b7f9f3d9c86605",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. D. Puerto Montt - Copa Chile Coca-Cola Sin Azúcar - Cuartos de Final Vuelta 06 de octubre 2026 Santander Arena - Santiago Centro / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs + Fishbone + Chico Trujillo 29 de octubre 2026 Santander Arena -",
+    "source": "puntoticket",
+    "title": "Teatro Zoco - Lo Barnechea/ MusicalContrastes Europeos - Orquesta de Cámara del Municipal de Santiago14 de noviembre 2026",
+    "url": "https://www.puntoticket.com/evento/contrastes-europeos-teatro-zoco-nov-2026",
+    "venue": "Estadio Monumental - Macul"
+  },
   "b3286ae363d66108": {
     "event_date": "2026-10-29",
     "genre": "Rock",
@@ -3580,14 +3590,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "cc6623a30273089b": {
-    "event_date": "2026-09-09",
-    "genre": "Homenaje Mirko Jozic vuelve a Chile",
+    "event_date": "2026-10-29",
+    "genre": "Rock",
     "id": "cc6623a30273089b",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Homenaje Mirko Jozic vuelve a Chile - Siempre Colocolino 09 de septiembre 2026 La Vieja Escuela - Pucón / Techno Sunset Live Pucón: Galactxtx B2B Delia All night Long 18 de septiembre 2026 Movistar Arena - Santiago Centro / Pop Latino Los Vasquez - El Último Mov",
+    "raw_context": "Santander Arena - Santiago Centro / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs + Fishbone + Chico Trujillo 29 de octubre 2026 Santander Arena - Santiago Centro / Pop Hilary Duff 20 de agosto 2027 Santander Arena - Santiago Centro / Pop Zayn - The Konnakol Tour 02 de octubre 2026 Espacio ",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ RockDon Osvaldo03 de octubre 2026",
     "url": "https://www.puntoticket.com/don-osvaldo-cupula-2026",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "ccb535ba7be95fe6": {
     "event_date": "2026-09-20",
@@ -3670,14 +3680,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "d1d243e6b47359ef": {
-    "event_date": "2026-10-29",
-    "genre": "Rock",
+    "event_date": "2026-10-06",
+    "genre": "F",
     "id": "d1d243e6b47359ef",
-    "raw_context": "Santander Arena - Santiago Centro / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs + Fishbone + Chico Trujillo 29 de octubre 2026 Santander Arena - Santiago Centro / Pop Hilary Duff 20 de agosto 2027 Santander Arena - Santiago Centro / Pop Zayn - The Konnakol Tour 02 de octubre 2026 Espacio ",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. D. Puerto Montt - Copa Chile Coca-Cola Sin Azúcar - Cuartos de Final Vuelta 06 de octubre 2026 Santander Arena - Santiago Centro / Rock / Ritmos Latinoamericanos Los Fabulosos Cadillacs + Fishbone + Chico Trujillo 29 de octubre 2026 Santander Arena -",
     "source": "puntoticket",
     "title": "Teatro Coliseo - Santiago Centro/ RapLa Brigida Orquesta - Lanzamiento Nuevo Disco21 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/lbo-nuevo-disco",
-    "venue": "Santander Arena - Santiago Centro"
+    "venue": "Estadio Monumental - Macul"
   },
   "d2be372cc368f158": {
     "event_date": "2026-07-06",
