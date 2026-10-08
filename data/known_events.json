@@ -330,14 +330,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "12cc54432733d9eb": {
-    "event_date": "2027-03-02",
-    "genre": "Rom",
+    "event_date": "2026-12-18",
+    "genre": "Pop Aqross",
     "id": "12cc54432733d9eb",
-    "raw_context": "Santander Arena - Santiago Centro / Romántico Sin Bandera - Escenas Tour 2027 02 de marzo 2027 Santander Arena - Santiago Centro / Pop Hilary Duff 20 de agosto 2027 Santander Arena - Santiago Centro / Urbano Beele - Borondo: Detone y Abandone Tour Teatro Coliseo - Santiago Centro / Metal Sepultura -",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rock Slash - Featuring Myles Kennedy and The Conspirators 02 de abril 2027 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Santander Arena - Sant",
     "source": "puntoticket",
-    "title": "Teatro Coliseo - Santiago Centro/ MetalSepultura - Celebrating Life Through Death Tour08 de octubre 2026",
+    "title": "Teatro Coliseo - Santiago Centro/ MetalSepultura - Celebrating Life Through Death Tour",
     "url": "https://www.puntoticket.com/sepultura-coliseo",
-    "venue": "Santander Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "1358e41c5107a3a4": {
     "event_date": "2026-10-29",
@@ -1249,6 +1249,16 @@
     "url": "https://www.puntoticket.com/evento/atletico-colina-vs-lota-schwager-liga-segunda",
     "venue": "Movistar Arena - Santiago Centro"
   },
+  "448d2fc60aa702c2": {
+    "event_date": "2027-04-02",
+    "genre": "Rock Slash",
+    "id": "448d2fc60aa702c2",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Rock Slash - Featuring Myles Kennedy and The Conspirators 02 de abril 2027 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Claro Arena - Las Cond",
+    "source": "puntoticket",
+    "title": "Teatro Zoco - Lo Barnechea/ JazzConcierto Temblor - Andrea Motis Concierto de Jazz",
+    "url": "https://www.puntoticket.com/evento/concierto-temblor-teatro-zoco-dic-2026",
+    "venue": "Teatro Caupolicán - Santiago Centro"
+  },
   "4561fa5bcd94c9ec": {
     "event_date": "2026-10-23",
     "genre": "Pop",
@@ -1830,14 +1840,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "680ea0eb4735b517": {
-    "event_date": "2026-09-12",
-    "genre": "Electronica DAME",
+    "event_date": "2026-12-18",
+    "genre": "Pop Aqross",
     "id": "680ea0eb4735b517",
-    "raw_context": "Ex Clasificadora de Correos - Estación Central / Electronica DAME 12 de septiembre 2026 Estadio Nacional - Ñuñoa / Fútbol Universidad de Chile - Banderazo Superclásico 21 de agosto 2026 Teatro Caupolicán - Santiago Centro / Homenaje Mirko Jozic vuelve a Chile - Siempre Colocolino 09 de septiembre 20",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Rock Slash - Featuring Myles Kennedy and The Conspirators 02 de abril 2027 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Santander Arena - Sant",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ ReggaetónJulianno Sosa24 de octubre 2026",
     "url": "https://www.puntoticket.com/julianno-sosa-2026",
-    "venue": "Ex Clasificadora de Correos - Estación Central"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "686ae4472bb3f705": {
     "event_date": "2026-12-08",
@@ -2068,6 +2078,16 @@
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ CompetenciaRed Bull Dance Your Style Final Nacional05 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/red-bull-dance-your-style",
     "venue": "Estadio Monumental - Macul"
+  },
+  "76ce3eded9ce1726": {
+    "event_date": "2027-04-02",
+    "genre": "Rock Slash",
+    "id": "76ce3eded9ce1726",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Rock Slash - Featuring Myles Kennedy and The Conspirators 02 de abril 2027 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Claro Arena - Las Cond",
+    "source": "puntoticket",
+    "title": "Teatro Caupolicán - Santiago Centro/ RománticoLa Sociedad - EL REGRESO07 de mayo 2027",
+    "url": "https://www.puntoticket.com/evento/la-sociedad-teatro-caupolican-may-2027",
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "770a783a657e81f1": {
     "event_date": "2026-12-12",
