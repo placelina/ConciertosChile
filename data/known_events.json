@@ -240,14 +240,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "0c72883d2ec4c349": {
-    "event_date": "2026-11-08",
-    "genre": "Rock Def Leppard",
+    "event_date": "2027-09-04",
+    "genre": "J",
     "id": "0c72883d2ec4c349",
-    "raw_context": "Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Santander Arena - Sa",
+    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Deb",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ SoulJungle - World Tour 202703 de abril 2027",
     "url": "https://www.puntoticket.com/jungle",
-    "venue": "Santander Arena - Santiago Centro"
+    "venue": "Teatro Coliseo - Santiago Centro"
   },
   "0d0808d857fd2751": {
     "event_date": "2026-10-29",
@@ -2580,10 +2580,10 @@
     "venue": null
   },
   "90070aa3947cc65a": {
-    "event_date": "2026-10-10",
+    "event_date": "2026-10-11",
     "genre": "Presencial Oktoberfest",
     "id": "90070aa3947cc65a",
-    "raw_context": "Festival Bávaro / Presencial Oktoberfest 2026 10 de octubre 2026 al 11 de octubre 2026 VER MÁS",
+    "raw_context": "Festival Bávaro / Presencial Oktoberfest 2026 11 de octubre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/oktoberfest-2026",
@@ -3560,10 +3560,10 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "c1474f955e4ca6fb": {
-    "event_date": "2026-10-10",
+    "event_date": "2026-10-11",
     "genre": "Presencial Circo Pastelito y Tachuela Chico",
     "id": "c1474f955e4ca6fb",
-    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 10 de octubre 2026 al 01 de noviembre 2026 VER MÁS",
+    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 11 de octubre 2026 al 01 de noviembre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/circo-pastelito",
