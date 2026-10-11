@@ -3940,14 +3940,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "d1d243e6b47359ef": {
-    "event_date": "2026-10-12",
-    "genre": "F",
+    "event_date": "2027-09-04",
+    "genre": "J",
     "id": "d1d243e6b47359ef",
-    "raw_context": "Estadio El Teniente - Rancagua / Fútbol Universidad de Chile vs. Ñublense - Liga de Primera Mercado Libre - Fecha 24 12 de octubre 2026 Claro Arena - Las Condes / Fútbol Coquimbo Unido vs OHiggins - Final Copa de la Liga 2026 16 de octubre 2026 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20",
+    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Estadio El Teniente - Rancagua / Fútbol Universidad de Chile vs. Ñublense - Liga de Primera Mercado Libre - Fecha 24 12 de octubre 2026 Claro Arena - Las Condes / Fútbol Coquimbo Uni",
     "source": "puntoticket",
     "title": "Teatro Coliseo - Santiago Centro/ RapLa Brigida Orquesta - Lanzamiento Nuevo Disco21 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/lbo-nuevo-disco",
-    "venue": "Estadio El Teniente - Rancagua"
+    "venue": "Teatro Coliseo - Santiago Centro"
   },
   "d2be372cc368f158": {
     "event_date": "2026-07-06",
@@ -4308,6 +4308,16 @@
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/aperfectcircle-puscifer",
     "venue": "Rock Alternativo"
+  },
+  "ea66802e7739bcb6": {
+    "event_date": "2027-09-04",
+    "genre": "J",
+    "id": "ea66802e7739bcb6",
+    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Deb",
+    "source": "puntoticket",
+    "title": "Enjoy Coquimbo/ FolkloreLos Jaivas 2026 Gira 45 años alturas de Macchu Picchu - Coquimbo12 de octubre 2026",
+    "url": "https://www.puntoticket.com/evento/los-jaivas-2026-gira-45-anos-alturas-de-macchu-picchu-enjoy-coquimbo-oct-2026",
+    "venue": "Teatro Coliseo - Santiago Centro"
   },
   "ea73c7a73d3b8a5f": {
     "event_date": "2027-03-29",
