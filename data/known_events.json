@@ -550,14 +550,14 @@
     "venue": "Teatro Coliseo - Santiago Centro"
   },
   "1bcb4208223434e8": {
-    "event_date": "2026-10-16",
-    "genre": "F",
+    "event_date": "2027-09-04",
+    "genre": "J",
     "id": "1bcb4208223434e8",
-    "raw_context": "Claro Arena - Las Condes / Fútbol Coquimbo Unido vs OHiggins - Final Copa de la Liga 2026 16 de octubre 2026 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Claro Arena - Las Condes / Fútbol Universidad Católica vs. Audax Italiano - Liga de Primera Mercado Libre - Fecha 24 ",
+    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Estadio El Teniente - Rancagua / Fútbol Universidad de Chile vs. Ñublense - Liga de Primera Mercado Libre - Fecha 24 12 de octubre 2026 Claro Arena - Las Condes / Fútbol Coquimbo Uni",
     "source": "puntoticket",
     "title": "Club San Miguel/ HumorFuente Carrasco21 de octubre 2026",
     "url": "https://www.puntoticket.com/evento/fuente-carrasco-club-san-miguel",
-    "venue": "Claro Arena - Las Condes"
+    "venue": "Teatro Coliseo - Santiago Centro"
   },
   "1c9887564fce0e0c": {
     "event_date": "2026-11-20",
@@ -793,7 +793,7 @@
     "event_date": "2027-09-04",
     "genre": "J",
     "id": "2990af186dfc9f77",
-    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Deb",
+    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Santander Arena -",
     "source": "puntoticket",
     "title": "Ex Clasificadora de Correos - Estación Central/ ElectronicaDAME17 de octubre 2026",
     "url": "https://www.puntoticket.com/evento/dame-exclasificadora-oct-2026",
@@ -2763,7 +2763,7 @@
     "event_date": "2027-09-04",
     "genre": "J",
     "id": "9ab4b50abf9e4f3c",
-    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Deb",
+    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Santander Arena -",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ RancherasAlanys Lagos - Mi Primer Caupolicán15 de noviembre 2026",
     "url": "https://www.puntoticket.com/alanys-lagos-mi-primer-caupolican-2026",
@@ -2978,6 +2978,16 @@
     "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolUnión Española vs. Colo-Colo - Copa Chile Coca-Cola Zero Azúcar29 de junio 2026",
     "url": "https://www.puntoticket.com/evento/union-espanola-colo-colo-copachile-2026",
     "venue": "Estadio Monumental - Macul"
+  },
+  "a736d2822e85b186": {
+    "event_date": "2027-09-04",
+    "genre": "J",
+    "id": "a736d2822e85b186",
+    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Santander Arena -",
+    "source": "puntoticket",
+    "title": "Teatro Cariola - Santiago Centro/ Metal ProgresivoAmorphis - Borderland Tour 202611 de octubre 2026",
+    "url": "https://www.puntoticket.com/amorphis",
+    "venue": "Teatro Coliseo - Santiago Centro"
   },
   "a812ee193cb97ed3": {
     "event_date": "2026-09-09",
@@ -4253,7 +4263,7 @@
     "event_date": "2027-09-04",
     "genre": "J",
     "id": "e501505c13a66da6",
-    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Deb",
+    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Urbano Bryartz 20 de diciembre 2026 Santander Arena -",
     "source": "puntoticket",
     "title": "Espacio Riesco - Huechuraba/ FestivalLOVE THE 90'S - Espacio Riesco 202721 de marzo 2027",
     "url": "https://www.puntoticket.com/love-the-90s-espacio-riesco-2027",
