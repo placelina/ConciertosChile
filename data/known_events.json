@@ -673,7 +673,7 @@
     "event_date": "2027-03-18",
     "genre": "Rom",
     "id": "24471ed07528febd",
-    "raw_context": "Santander Arena - Santiago Centro / Romántico Ricardo Montaner - El Último Regreso 18 de marzo 2027 Centro de Eventos Basel - Independencia / Techno VALKHØR: VENDEX ALL NIGHT LONG Santander Arena - Santiago Centro / Rock Alternativo The Gathering - Mandylion 30th Anniversary Show 17 de octubre 2026 ",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Ricardo Montaner - El Último Regreso 18 de marzo 2027 - / Rock Pixies - Santander Arena - Teatro del Lago Santander Arena - Teatro del Lago Parque Ciudad Empresarial - Huechuraba / Fiesta Piknic Electronik #5 - Dawn Patrol (Maz b2b Antdot) | Rossi 06 de ",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ RockSlash - Featuring Myles Kennedy and The Conspirators02 de abril 2027",
     "url": "https://www.puntoticket.com/slash-2027",
@@ -3580,14 +3580,14 @@
     "venue": null
   },
   "bdc1261ed16adc2b": {
-    "event_date": "2026-12-18",
-    "genre": "Pop Aqross",
+    "event_date": "2027-03-18",
+    "genre": "Rom",
     "id": "bdc1261ed16adc2b",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciembre 2026 Santander Arena - Santiago Centro / Romántico Ricardo Montaner - El Último Regreso 18 de marzo 2027 Centro de Eventos Basel - Independencia / Techno VALKHØR: VENDEX ALL NIGHT LONG Santander Arena - Santiago Ce",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Ricardo Montaner - El Último Regreso 18 de marzo 2027 Centro de Eventos Basel - Independencia / Techno VALKHØR: VENDEX ALL NIGHT LONG Santander Arena - Santiago Centro / Rock Alternativo The Gathering - Mandylion 30th Anniversary Show 17 de octubre 2026 ",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ PopHilary Duff20 de agosto 2027",
     "url": "https://www.puntoticket.com/hilary-duff-en-vivo-scl-2027",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "be753b04823dea4b": {
     "event_date": "2027-03-18",
@@ -3670,10 +3670,10 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "c1474f955e4ca6fb": {
-    "event_date": "2026-10-15",
+    "event_date": "2026-10-16",
     "genre": "Presencial Circo Pastelito y Tachuela Chico",
     "id": "c1474f955e4ca6fb",
-    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 15 de octubre 2026 al 01 de noviembre 2026 VER MÁS",
+    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 16 de octubre 2026 al 01 de noviembre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/circo-pastelito",
@@ -4268,6 +4268,16 @@
     "title": "Club Amanda - Vitacura/ FiestaSundeck - | DeepDish | Javica | Groovearth | Sirenes | Juan Hinrichsen b2b Abaze |18 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/sundeck-club-amanda-sep-2026",
     "venue": "Arena Hipódromo - Independencia"
+  },
+  "df09367295862209": {
+    "event_date": "2027-03-18",
+    "genre": "Rom",
+    "id": "df09367295862209",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Ricardo Montaner - El Último Regreso 18 de marzo 2027 - / Rock Pixies - Santander Arena - Teatro del Lago Santander Arena - Teatro del Lago Parque Ciudad Empresarial - Huechuraba / Fiesta Piknic Electronik #5 - Dawn Patrol (Maz b2b Antdot) | Rossi 06 de ",
+    "source": "puntoticket",
+    "title": "Cúpula Parque O'Higgins - Santiago Centro/ BaileExotic Dolls Championship",
+    "url": "https://www.puntoticket.com/evento/exotic-dolls-championship-cupula-parque-ohiggins-nov-2026",
+    "venue": "Santander Arena - Santiago Centro"
   },
   "df2c3c4aaa76b5b8": {
     "event_date": "2026-12-08",
