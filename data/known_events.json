@@ -30,14 +30,14 @@
     "venue": "Teatro Coliseo - Santiago Centro"
   },
   "032bc6dce554e353": {
-    "event_date": "2027-03-18",
-    "genre": "Rom",
+    "event_date": "2026-10-30",
+    "genre": "Rock Latino Los Fabulosos Cadillacs",
     "id": "032bc6dce554e353",
-    "raw_context": "Santander Arena - Santiago Centro / Romántico Ricardo Montaner - El Último Regreso 18 de marzo 2027 Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 de diciem",
+    "raw_context": "Teatro Coliseo - Santiago Centro / Rock Latino Los Fabulosos Cadillacs - La Gala (Aniversario 10 años) 30 de octubre 2026 Santander Arena - Santiago Centro / Romántico Ricardo Montaner - El Último Regreso 18 de marzo 2027 Centro de Eventos Basel - Independencia / Techno VALKHØR: VENDEX ALL NIGHT LON",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ MúsicaIllapu",
     "url": "https://www.puntoticket.com/evento/illapu-2026-teatro-caupolican-dic-2026",
-    "venue": "Santander Arena - Santiago Centro"
+    "venue": "Teatro Coliseo - Santiago Centro"
   },
   "0355f8d549efc8f0": {
     "event_date": "2027-03-29",
@@ -1420,10 +1420,10 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "4a8f35ca3269ee0a": {
-    "event_date": "2026-10-16",
+    "event_date": "2026-10-17",
     "genre": "Presencial Paris Beauty Fest",
     "id": "4a8f35ca3269ee0a",
-    "raw_context": "Experiencia / Presencial Paris Beauty Fest 16 de octubre 2026 al 18 de octubre 2026 VER MÁS",
+    "raw_context": "Experiencia / Presencial Paris Beauty Fest 17 de octubre 2026 al 18 de octubre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/paris-beauty-fest",
@@ -2271,13 +2271,13 @@
   },
   "7a9bf52d963f72dc": {
     "event_date": "2026-10-30",
-    "genre": "Rock Latino Los Fabulosos Cadillacs",
+    "genre": "Conciertos Mago de Oz Teatro Coliseo",
     "id": "7a9bf52d963f72dc",
-    "raw_context": "Teatro Coliseo - Santiago Centro / Rock Latino Los Fabulosos Cadillacs - La Gala (Aniversario 10 años) 30 de octubre 2026 Santander Arena - Santiago Centro / Romántico Ricardo Montaner - El Último Regreso 18 de marzo 2027 Centro de Eventos Basel - Independencia / Techno VALKHØR: VENDEX ALL NIGHT LON",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Conciertos Mago de Oz Teatro Coliseo - Santiago Centro / Rock Latino Los Fabulosos Cadillacs - La Gala (Aniversario 10 años) 30 de octubre 2026 Santander Arena - Santiago Centro / Romántico Ricardo Montaner - El Último Regreso 18 de marzo 2027 Santander Arena - ",
     "source": "puntoticket",
     "title": "Teatro Coliseo - Santiago Centro/ J-RockGackt Yellow Fried Chickenz - Back To Latam Tour 202704 de septiembre 2027",
     "url": "https://www.puntoticket.com/evento/gackt-yfcz-2027",
-    "venue": "Teatro Coliseo - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "7c5020491fddb736": {
     "event_date": "2027-03-18",
