@@ -10,14 +10,14 @@
     "venue": "Parque Ciudad Empresarial - Huechuraba"
   },
   "01236a775460862e": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "01236a775460862e",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Comedy - Providencia/ Stand UpEdo Caroe No Tiene Show en Bares - No Tiene Show en Bares",
     "url": "https://www.puntoticket.com/evento/edocaroe-comedy-noviembre",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "0207f5d5ce5a3d6a": {
     "event_date": "2026-12-05",
@@ -90,14 +90,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "0428a7fdf822380d": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "0428a7fdf822380d",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ ConciertosMago de Oz",
     "url": "https://www.puntoticket.com/evento/mago-de-oz-teatro-caupolican-mar-2027",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "042a0ac91972a604": {
     "event_date": "2026-10-29",
@@ -148,6 +148,16 @@
     "title": "Teatro Coliseo - Santiago Centro/ RapBUBASETA / FÉFÉ / LEEROY - ONE SHOT TOUR30 de enero 2027",
     "url": "https://www.puntoticket.com/evento/bubaseta-fefe-leeroy",
     "venue": "Teatro Caupolicán - Santiago Centro"
+  },
+  "06bf5237bae565cf": {
+    "event_date": "2027-06-11",
+    "genre": "Rom",
+    "id": "06bf5237bae565cf",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
+    "source": "puntoticket",
+    "title": "La Diabla Bar - San Felipe/ HumorJorge Alís - En La Diabla Bar05 de noviembre 2026",
+    "url": "https://www.puntoticket.com/evento/jorge-alis-en-la-diabla-bar",
+    "venue": "Santander Arena - Santiago Centro"
   },
   "07733e12f2df2bcd": {
     "event_date": "2026-10-30",
@@ -540,14 +550,14 @@
     "venue": "Claro Arena - Las Condes"
   },
   "1a2b08a1a556bd3a": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "1a2b08a1a556bd3a",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Club San Miguel/ Stand UpEdo Caroe No Tiene Show en Bares - No Tiene Show en Bares02 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/edocaroe-club-san-miguel-noviembre",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "1ac438369176772f": {
     "event_date": "2026-11-15",
@@ -648,6 +658,16 @@
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/anyma-2026",
     "venue": "Fiesta Electrónica"
+  },
+  "1f3167dd1c32f5e2": {
+    "event_date": "2027-06-11",
+    "genre": "Rom",
+    "id": "1f3167dd1c32f5e2",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
+    "source": "puntoticket",
+    "title": "La Diabla Bar - San Felipe/ HumorBombo Fica - En La Diabla Bar19 de noviembre 2026",
+    "url": "https://www.puntoticket.com/evento/bombo-fica-en-la-diabla-bar",
+    "venue": "Santander Arena - Santiago Centro"
   },
   "1f388d67bdf48c2a": {
     "event_date": "2026-11-08",
@@ -770,14 +790,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "2727f659b535c438": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "2727f659b535c438",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Estadio Monumental - Macul/ FútbolMuseo y Tour Monumental 2026",
     "url": "https://www.puntoticket.com/museo-y-tour-monumental-2026",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "27446d67f1bbd3dd": {
     "event_date": "2027-03-18",
@@ -790,14 +810,14 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "27b93e0100c77b8c": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "27b93e0100c77b8c",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Mori Parque Arauco - Av. Presidente Kennedy 5413 - Las Condes/ MagiaMagika08 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/Magika-nov-2026",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "27efd7ccb708d385": {
     "event_date": "2026-07-06",
@@ -1140,14 +1160,14 @@
     "venue": null
   },
   "3c4f5f5903179ac0": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "3c4f5f5903179ac0",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolUniversidad de Chile vs. Antofagasta - Copa Chile Coca-Cola Sin Azúcar - Cuartos de Final21 de octubre 2026",
     "url": "https://www.puntoticket.com/evento/universidad-de-chile-vs-antofagasta-copachile",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "3cb33816d866d483": {
     "event_date": "2027-01-26",
@@ -1270,14 +1290,14 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "420a8378e91b9bdc": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "420a8378e91b9bdc",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Parque de los gasómetros - Estación Central/ FestivalCrave - Crave Experience 202619 de diciembre 2026",
     "url": "https://www.puntoticket.com/evento/crave-experience-2026",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "42b390ce539e796f": {
     "event_date": "2026-11-12",
@@ -1538,6 +1558,16 @@
     "title": "Centro de Eventos Basel - Independencia/ SalsaMaelo Ruiz y El Titi19 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/maelo-ruiz-y-el-titi-basel-venue-sep-2026",
     "venue": "Claro Arena - Las Condes"
+  },
+  "50315035afbdb75c": {
+    "event_date": "2027-06-11",
+    "genre": "Rom",
+    "id": "50315035afbdb75c",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
+    "source": "puntoticket",
+    "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolUnión Española vs. Santiago Wanderers - Liga de Ascenso Caixun 2026 - Fecha 2924 de octubre 2026",
+    "url": "https://www.puntoticket.com/evento/union-espanola-santiago-wanderers-liga-ascenso-2026",
+    "venue": "Santander Arena - Santiago Centro"
   },
   "5088fde44f23093b": {
     "event_date": "2026-12-08",
@@ -2529,6 +2559,16 @@
     "url": "https://www.puntoticket.com/evento/campeonato-futsal-clausura-2026-fecha3",
     "venue": "Claro Arena - Las Condes"
   },
+  "879986068d0c6aa0": {
+    "event_date": "2027-06-11",
+    "genre": "Rom",
+    "id": "879986068d0c6aa0",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
+    "source": "puntoticket",
+    "title": "Santander Arena - Santiago Centro/ Pop LatinoAna Gabriel - Tour 2027 Claro de Luna14 de abril 2027",
+    "url": "https://www.puntoticket.com/ana-gabriel",
+    "venue": "Santander Arena - Santiago Centro"
+  },
   "87d0f4202c25c943": {
     "event_date": "2027-04-23",
     "genre": "Metal Emperor",
@@ -2690,14 +2730,14 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "8f0399cf7d6a77ac": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "8f0399cf7d6a77ac",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "-/ RockPixies - Santander Arena - Teatro del LagoSantander Arena - Teatro del Lago",
     "url": "https://www.puntoticket.com/pixies",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "8f39199bd2d42ad7": {
     "event_date": null,
@@ -3080,14 +3120,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "a5058551b9f59e4a": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "a5058551b9f59e4a",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Trotamundos Valparaíso/ Stand UpEdo Caroe No Tiene Show en Bares - No Tiene Show en Bares11 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/edo-caroe-trotamundos",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "a5314143d555c366": {
     "event_date": "2026-07-06",
@@ -3390,14 +3430,14 @@
     "venue": "Teatro Coliseo - Santiago Centro"
   },
   "b31ac3eaebe6b45a": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "b31ac3eaebe6b45a",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Teatro del Lago - Frutillar/ RockPixies25 de marzo 2027",
     "url": "https://www.puntoticket.com/evento/pixies-teatro-del-lago-frutillar-mar-2027",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "b3286ae363d66108": {
     "event_date": "2026-10-29",
@@ -3590,14 +3630,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "b93d63e72eab2133": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "b93d63e72eab2133",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Distrito 04 - San Miguel/ Stand UpEdo Caroe No Tiene Show en Bares - No Tiene Show en Bares17 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/edocaroe-distrito4-nov",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "b95a0f2d4b552f35": {
     "event_date": "2027-09-04",
@@ -3710,14 +3750,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "be7fd5e9b6d5ac68": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "be7fd5e9b6d5ac68",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
-    "title": "Palermo Teatro Bar - Providencia/ Stand UpEdo Caroe No Tiene Show en Bares - No Tiene Show en Bares",
+    "title": "Palermo Teatro Bar - Providencia/ Stand UpEdo Caroe No Tiene Show en Bares - No Tiene Show en Bares16 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/edocaroe-palermo-nov",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "bf096365f8af53c2": {
     "event_date": "2027-01-26",
@@ -4410,14 +4450,14 @@
     "venue": "Arena Hipódromo - Independencia"
   },
   "df09367295862209": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "df09367295862209",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ BaileExotic Dolls Championship",
     "url": "https://www.puntoticket.com/evento/exotic-dolls-championship-cupula-parque-ohiggins-nov-2026",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "df2c3c4aaa76b5b8": {
     "event_date": "2026-12-08",
@@ -4440,14 +4480,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "dfd803090813d20b": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "dfd803090813d20b",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Comedy - Providencia/ Stand UpEdo Caroe No Tiene Show en Bares - No Tiene Show en Bares25 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/edocaroe-comedy-noviembre-2",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "e1d5c45f2d5ef0bf": {
     "event_date": "2026-08-22",
@@ -4470,14 +4510,14 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "e21f26a2702e29db": {
-    "event_date": "2027-01-26",
-    "genre": "Pop Saint Levant",
+    "event_date": "2027-06-11",
+    "genre": "Rom",
     "id": "e21f26a2702e29db",
-    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Estadio Santa Laura - Universidad SEK - Indepe",
+    "raw_context": "Santander Arena - Santiago Centro / Romántico Entre Amigas - Yuri y Lucero 11 de junio 2027 Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / R",
     "source": "puntoticket",
     "title": "Claro Arena - Las Condes/ FútbolAtletico Colina vs Santiago Morning - Liga de Segunda Panini - Liguilla Descenso Fecha 924 de octubre 2026",
     "url": "https://www.puntoticket.com/evento/atletico-colina-vs-santiago-morning-liga-segunda",
-    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "e31d64309a835b6f": {
     "event_date": "2026-11-15",
@@ -4488,6 +4528,16 @@
     "title": "Movistar Arena - Santiago Centro/ Pop LatinoAndrés Calamaro - Como Cantor25 de agosto 2026",
     "url": "https://www.puntoticket.com/andres-calamaro",
     "venue": "Club Hípico - Santiago Centro"
+  },
+  "e3db4e27c95d0089": {
+    "event_date": "2027-01-26",
+    "genre": "Pop Saint Levant",
+    "id": "e3db4e27c95d0089",
+    "raw_context": "Cúpula Parque O'Higgins - Santiago Centro / Pop Saint Levant 26 de enero 2027 Club Chocolate, Barrio Bellavista - Recoleta / Rock DONAVON FRANKENREITER 12 de febrero 2027 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Santander Arena - Santiago Centro / Romántico ",
+    "source": "puntoticket",
+    "title": "Santander Arena - Santiago Centro/ RománticoEntre Amigas - Yuri y Lucero11 de junio 2027",
+    "url": "https://www.puntoticket.com/entre-amigas",
+    "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "e40ae07ca40fe111": {
     "event_date": "2026-12-11",
