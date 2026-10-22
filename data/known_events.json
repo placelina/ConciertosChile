@@ -40,10 +40,10 @@
     "venue": "Teatro Coliseo - Santiago Centro"
   },
   "032bc6dce554e353": {
-    "event_date": "2026-12-16",
-    "genre": "Urbano La Reina del Flow",
+    "event_date": "2026-10-24",
+    "genre": "Reggaet",
     "id": "032bc6dce554e353",
-    "raw_context": "Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Teatro Caupolicán - Santiago Centro / Pop Urbano Luck Ra Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 20",
+    "raw_context": "Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Teatro Caupolicán - Santiago Centro / Pop Urbano Luck Ra Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Amanda - Vitacura / Fiesta Electrónica After Piknic - Lipy | Groovearth | ",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ MúsicaIllapu",
     "url": "https://www.puntoticket.com/evento/illapu-2026-teatro-caupolican-dic-2026",
@@ -428,6 +428,16 @@
     "title": "Iron Maiden - Run For Your Lives World Tour 2026",
     "url": "https://www.ticketmaster.cl/event/iron-maiden-run-for-your-lives-scl-2026",
     "venue": null
+  },
+  "143c403693e885d9": {
+    "event_date": "2026-10-26",
+    "genre": "F",
+    "id": "143c403693e885d9",
+    "raw_context": "Estadio El Teniente - Rancagua / Fútbol Universidad de Chile vs. Everton - Liga de Primera Mercado Libre - Fecha 25 26 de octubre 2026 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Club Amanda - Vitacura / Fiesta Electrónica After Piknic - Lipy | Groovearth | FKST",
+    "source": "puntoticket",
+    "title": "La Diabla Bar - San Felipe/ RockSexual Democracia - En La Diabla Bar05 de diciembre 2026",
+    "url": "https://www.puntoticket.com/evento/sexual-democracia-en-la-diabla-bar",
+    "venue": "Estadio El Teniente - Rancagua"
   },
   "14a70ad4fff4e1b2": {
     "event_date": "2026-09-12",
@@ -848,6 +858,16 @@
     "title": "Teatro Coliseo - Santiago Centro/ PopLAGOS - Tour 202612 de diciembre 2026",
     "url": "https://www.puntoticket.com/evento/lagos-santiago-2026",
     "venue": "Estadio Monumental - Macul"
+  },
+  "28506958d854cc2d": {
+    "event_date": "2026-10-26",
+    "genre": "F",
+    "id": "28506958d854cc2d",
+    "raw_context": "Estadio El Teniente - Rancagua / Fútbol Universidad de Chile vs. Everton - Liga de Primera Mercado Libre - Fecha 25 26 de octubre 2026 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Club Amanda - Vitacura / Fiesta Electrónica After Piknic - Lipy | Groovearth | FKST",
+    "source": "puntoticket",
+    "title": "Havana Club - Concepción/ VallenatoAlex Manga - En Concierto",
+    "url": "https://www.puntoticket.com/alex-manga-2026",
+    "venue": "Estadio El Teniente - Rancagua"
   },
   "28c4f4a2fbe91c2a": {
     "event_date": "2026-12-13",
@@ -2049,6 +2069,16 @@
     "url": "https://www.puntoticket.com/faunaprimavera",
     "venue": "Festival"
   },
+  "6a4987a830bdc329": {
+    "event_date": "2026-10-26",
+    "genre": "F",
+    "id": "6a4987a830bdc329",
+    "raw_context": "Estadio El Teniente - Rancagua / Fútbol Universidad de Chile vs. Everton - Liga de Primera Mercado Libre - Fecha 25 26 de octubre 2026 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Club Amanda - Vitacura / Fiesta Electrónica After Piknic - Lipy | Groovearth | FKST",
+    "source": "puntoticket",
+    "title": "La Diabla Bar - San Felipe/ RománticoLuis Jara - En La Diabla Bar19 de diciembre 2026",
+    "url": "https://www.puntoticket.com/evento/luis-jara-en-la-diabla-bar",
+    "venue": "Estadio El Teniente - Rancagua"
+  },
   "6b71441f48606586": {
     "event_date": "2026-10-29",
     "genre": "Rock",
@@ -2475,7 +2505,7 @@
     "id": "80f13d5dd19ce31d",
     "raw_context": "Estadio El Teniente - Rancagua / Fútbol Universidad de Chile vs. Everton - Liga de Primera Mercado Libre - Fecha 25 26 de octubre 2026 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Club Amanda - Vitacura / Fiesta Electrónica After Piknic - Lipy | Groovearth | FKST",
     "source": "puntoticket",
-    "title": "Arena Hipódromo - Independencia/ FiestaEdición Halloween - GENERACIÓN OLD SCHOOL31 de octubre 2026",
+    "title": "Arena Hipódromo - Independencia/ FiestaGENERACIÓN OLD SCHOOL - Edición Halloween31 de octubre 2026",
     "url": "https://www.puntoticket.com/evento/generacion-old-school-edicion-halloween",
     "venue": "Estadio El Teniente - Rancagua"
   },
@@ -3890,10 +3920,10 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "c1474f955e4ca6fb": {
-    "event_date": "2026-10-22",
+    "event_date": "2026-10-23",
     "genre": "Presencial Circo Pastelito y Tachuela Chico",
     "id": "c1474f955e4ca6fb",
-    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 22 de octubre 2026 al 01 de noviembre 2026 VER MÁS",
+    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 23 de octubre 2026 al 01 de noviembre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/circo-pastelito",
@@ -4648,6 +4678,16 @@
     "title": "Santander Arena - Santiago Centro/ RománticoRaphael - Raphaelísimo Tour 202612 de octubre 2026",
     "url": "https://www.puntoticket.com/raphael",
     "venue": "Santander Arena - Santiago Centro"
+  },
+  "e47f9aef25f4b1cd": {
+    "event_date": "2026-10-26",
+    "genre": "F",
+    "id": "e47f9aef25f4b1cd",
+    "raw_context": "Estadio El Teniente - Rancagua / Fútbol Universidad de Chile vs. Everton - Liga de Primera Mercado Libre - Fecha 25 26 de octubre 2026 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Club Amanda - Vitacura / Fiesta Electrónica After Piknic - Lipy | Groovearth | FKST",
+    "source": "puntoticket",
+    "title": "La Diabla Bar - San Felipe/ HumorPedro Ruminot - En La Diabla Bar",
+    "url": "https://www.puntoticket.com/evento/pedro-ruminot-en-la-diabla-bar",
+    "venue": "Estadio El Teniente - Rancagua"
   },
   "e501505c13a66da6": {
     "event_date": "2026-10-24",
