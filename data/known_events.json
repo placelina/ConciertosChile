@@ -280,10 +280,10 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "0c72883d2ec4c349": {
-    "event_date": "2026-10-24",
-    "genre": "Reggaet",
+    "event_date": "2027-04-14",
+    "genre": "Pop Latino Ana Gabriel",
     "id": "0c72883d2ec4c349",
-    "raw_context": "Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Teatro Caupolicán - Santiago Centro / Pop Urbano Luck Ra Teatro Caupolicán - Santiago Centro / Reggaetón Julianno Sosa 24 de octubre 2026 Club Amanda - Vitacura / Fiesta Electrónica After Piknic - Lipy | Groovearth | ",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Latino Ana Gabriel - Tour 2027 Claro de Luna 14 de abril 2027 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Teatro Caupolicán - Santiago Cent",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ SoulJungle - World Tour 202703 de abril 2027",
     "url": "https://www.puntoticket.com/jungle",
@@ -3940,10 +3940,10 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "c1474f955e4ca6fb": {
-    "event_date": "2026-10-23",
+    "event_date": "2026-10-24",
     "genre": "Presencial Circo Pastelito y Tachuela Chico",
     "id": "c1474f955e4ca6fb",
-    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 23 de octubre 2026 al 01 de noviembre 2026 VER MÁS",
+    "raw_context": "Circo / Presencial Circo Pastelito y Tachuela Chico - Festival del Circo 24 de octubre 2026 al 01 de noviembre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/circo-pastelito",
@@ -4538,6 +4538,16 @@
     "title": "BTS - World Tour ARIRANG in Santiago",
     "url": "https://www.ticketmaster.cl/event/bts-world-tour-arirang-live-2026-scl",
     "venue": null
+  },
+  "dea035fdbb2019fd": {
+    "event_date": "2026-10-30",
+    "genre": "F",
+    "id": "dea035fdbb2019fd",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. U. Concepción - Liga de Primera Mercado Libre - Fecha 26 30 de octubre 2026 Estadio El Teniente - Rancagua / Fútbol Universidad de Chile vs. Everton - Liga de Primera Mercado Libre - Fecha 25 26 de octubre 2026 Santander Arena - Santiago Centro / Pop",
+    "source": "puntoticket",
+    "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolCoquimbo Unido vs OHiggins - Final Copa de la Liga 202614 de noviembre 2026",
+    "url": "https://www.puntoticket.com/evento/coquimbo-vs-ohiggins-finalcopadelaliga-2026-stalaura",
+    "venue": "Estadio Monumental - Macul"
   },
   "dee350bb618c03d8": {
     "event_date": "2026-11-08",
