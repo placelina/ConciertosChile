@@ -4113,7 +4113,7 @@
     "event_date": "2027-04-14",
     "genre": "Pop Latino Ana Gabriel",
     "id": "c6ab2f13b1ea4032",
-    "raw_context": "Santander Arena - Santiago Centro / Pop Latino Ana Gabriel - Tour 2027 Claro de Luna 14 de abril 2027 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Santander Arena - Santiago Centro / Reggaetón Jay Wheeler - World Tour Jay Wheeler Teatro Caupolicán - Santiago Cent",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Latino Ana Gabriel - Tour 2027 Claro de Luna 14 de abril 2027 Teatro Coliseo - Santiago Centro / Pop NSQK - MOSCA LATAM TOUR 2027 20 de agosto 2027 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Santander Arena - Santiago Cen",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ PopAqross - The Sky - El Debut18 de diciembre 2026",
     "url": "https://www.puntoticket.com/aqross",
@@ -4748,6 +4748,16 @@
     "title": "Teatro Caupolicán - Santiago Centro/ HomenajeMirko Jozic vuelve a Chile - Siempre Colocolino09 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/homenaje-mirko-josik-teatro-caupolican-sep-2026",
     "venue": "Club Hípico - Santiago Centro"
+  },
+  "e5cb0ce73e03d9b7": {
+    "event_date": "2027-04-14",
+    "genre": "Pop Latino Ana Gabriel",
+    "id": "e5cb0ce73e03d9b7",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Latino Ana Gabriel - Tour 2027 Claro de Luna 14 de abril 2027 Teatro Coliseo - Santiago Centro / Pop NSQK - MOSCA LATAM TOUR 2027 20 de agosto 2027 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Santander Arena - Santiago Cen",
+    "source": "puntoticket",
+    "title": "Teatro Caupolicán - Santiago Centro/ Pop LatinoHumbe - Dueño del Cielo Tour30 de octubre 2026",
+    "url": "https://www.puntoticket.com/humbe",
+    "venue": "Santander Arena - Santiago Centro"
   },
   "e698982982d9dc4a": {
     "event_date": "2027-08-20",
