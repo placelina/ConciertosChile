@@ -1769,6 +1769,16 @@
     "url": "https://www.puntoticket.com/evento/magallanes-vs-santacruz-fecha22-liga-ascenso-2026",
     "venue": "Claro Arena - Las Condes"
   },
+  "5799f391b939f7b1": {
+    "event_date": "2027-05-08",
+    "genre": "Pop Punk Simple Plan",
+    "id": "5799f391b939f7b1",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Punk Simple Plan 08 de mayo 2027 Teatro Coliseo - Santiago Centro / Pop NSQK - MOSCA LATAM TOUR 2027 20 de agosto 2027 Santander Arena - Santiago Centro / Pop Latino Ana Gabriel - Tour 2027 Claro de Luna 14 de abril 2027 Claro Arena - Las Condes / Fútbol Unive",
+    "source": "puntoticket",
+    "title": "La Diabla Bar - San Felipe/ FiestaPrimer Pecado - En La Diabla Bar01 de enero 2027",
+    "url": "https://www.puntoticket.com/evento/primer-pecado-en-la-diabla-bar",
+    "venue": "Santander Arena - Santiago Centro"
+  },
   "57c93f0898efb609": {
     "event_date": "2027-04-14",
     "genre": "Pop Latino Ana Gabriel",
@@ -4213,7 +4223,7 @@
     "event_date": "2027-04-14",
     "genre": "Pop Latino Ana Gabriel",
     "id": "c6ab2f13b1ea4032",
-    "raw_context": "Santander Arena - Santiago Centro / Pop Latino Ana Gabriel - Tour 2027 Claro de Luna 14 de abril 2027 Teatro Coliseo - Santiago Centro / Pop NSQK - MOSCA LATAM TOUR 2027 20 de agosto 2027 Santander Arena - Santiago Centro / Urbano La Reina del Flow 16 de diciembre 2026 Santander Arena - Santiago Cen",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Latino Ana Gabriel - Tour 2027 Claro de Luna 14 de abril 2027 Santander Arena - Santiago Centro / Pop Punk Simple Plan 08 de mayo 2027 Teatro Coliseo - Santiago Centro / Pop NSQK - MOSCA LATAM TOUR 2027 20 de agosto 2027 Santander Arena - Santiago Centro / Urb",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ PopAqross - The Sky - El Debut18 de diciembre 2026",
     "url": "https://www.puntoticket.com/aqross",
