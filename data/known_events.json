@@ -449,6 +449,16 @@
     "url": "https://www.puntoticket.com/lagranjadezenon",
     "venue": "Fiesta Piknic Electronik - Pase De Temporada 2026 12 de septiembre 2026 Movistar Arena - Santiago Centro"
   },
+  "15b225a857ba4857": {
+    "event_date": "2026-12-20",
+    "genre": "Deportes Hype Chile",
+    "id": "15b225a857ba4857",
+    "raw_context": "Santander Arena - Santiago Centro / Deportes Hype Chile 20 de diciembre 2026 Santander Arena - Santiago Centro / Pop Punk Simple Plan 08 de mayo 2027 Teatro Caupolicán - Santiago Centro / Metalcore Motionless In White - The Come To Latin America Tour 07 de marzo 2027 Teatro Caupolicán - Santiago Cen",
+    "source": "puntoticket",
+    "title": "Casa Comedia - Providencia/ Stand up comedy - FiestaFernando larraín y Nicolas Larraín - HERMANOS LARRAÍN15 de noviembre 2026",
+    "url": "https://www.puntoticket.com/evento/hermanos-larrain",
+    "venue": "Santander Arena - Santiago Centro"
+  },
   "15b7932d3dd23d0f": {
     "event_date": "2026-10-12",
     "genre": "F",
@@ -640,14 +650,14 @@
     "venue": "Teatro Coliseo - Santiago Centro"
   },
   "1c9887564fce0e0c": {
-    "event_date": "2026-11-20",
-    "genre": "Rom",
+    "event_date": "2026-11-08",
+    "genre": "Rock Def Leppard",
     "id": "1c9887564fce0e0c",
-    "raw_context": "Movistar Arena - Santiago Centro / Romántico Camila - Tour Adiós 20 de noviembre 2026 Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Stadium 07 de diciembre 2026 Espacio Riesco - Huechuraba / Festival LOVE THE 90'S - Espacio Riesco 2027 21 de marzo 2027 Movistar Arena - Santiago Centro / ",
+    "raw_context": "Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Metalcore Motionless In White - The Come To Latin America Tour 07 de marzo 2027 Santander Arena - Santiago Centro / Romántico Melendi - Pop Rock To",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ Hip-HopCypress Hill11 de noviembre 2026",
     "url": "https://www.puntoticket.com/cypress-hill",
-    "venue": "Movistar Arena - Santiago Centro"
+    "venue": "Santander Arena - Santiago Centro"
   },
   "1d05dc8dfc2a7d0c": {
     "event_date": "2026-11-08",
