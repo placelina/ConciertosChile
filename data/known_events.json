@@ -1070,14 +1070,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "2ffd64af3144ace3": {
-    "event_date": "2026-11-07",
-    "genre": "Corrida Corrida Familiar Banco de Chile",
+    "event_date": "2026-11-17",
+    "genre": "F",
     "id": "2ffd64af3144ace3",
-    "raw_context": "Parque O'Higgins - Santiago Centro / Corrida Corrida Familiar Banco de Chile - Visa Teletón 2026 07 de noviembre 2026 Estadio Nacional - Ñuñoa / Fútbol Chile vs. Colombia - Amistoso Internacional 17 de noviembre 2026 Santander Arena - Santiago Centro / Vallenato El Vallenato que Enamora 12 de febrer",
+    "raw_context": "Estadio Nacional - Ñuñoa / Fútbol Chile vs. Colombia - Amistoso Internacional 17 de noviembre 2026 Santander Arena - Santiago Centro / Vallenato El Vallenato que Enamora 12 de febrero 2027 Claro Arena - Las Condes / Infantil 31 Minutos - Radio Guaripolo 20 de diciembre 2026 Claro Arena - Las Condes ",
     "source": "puntoticket",
     "title": "Casa Comedia - Providencia/ Stand UpClaudio Michaux - CLAUDIO MICHAUX EN BARES25 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/claudio-michaux",
-    "venue": "Parque O'Higgins - Santiago Centro"
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "300155fda18062a0": {
     "event_date": "2026-10-23",
@@ -3410,14 +3410,14 @@
     "venue": "Movistar Arena - Santiago Centro"
   },
   "a064830c579592a0": {
-    "event_date": "2026-11-08",
-    "genre": "Rock Def Leppard",
+    "event_date": "2026-11-07",
+    "genre": "M",
     "id": "a064830c579592a0",
-    "raw_context": "Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Santander Arena - Santiago Centro / Pop Pitbull 11 de febrero 2027 Santander Arena - Santiago Centro / Vallenato El Vallenato que Enamora 12 de febrero 2027 Santander Arena - Santiago C",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Música Popular Colombiana Colombia le canta a Chile 07 de noviembre 2026 Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Santander Arena - Santiago Centro / Pop Pitbull 11 de febrero 2027 Santand",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ TrapCA7RIEL & PACO AMOROSO - FREE SPIRITS WORLD TOUR23 de noviembre 2026",
     "url": "https://www.puntoticket.com/ca7riel-y-paco-amoroso-live-scl-2026",
-    "venue": "Santander Arena - Santiago Centro"
+    "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "a06b198d374b1314": {
     "event_date": "2027-03-29",
@@ -3765,7 +3765,7 @@
     "id": "af66525ea0cbd98d",
     "raw_context": "Estadio Nacional - Ñuñoa / Fútbol Chile vs. Colombia - Amistoso Internacional 17 de noviembre 2026 Santander Arena - Santiago Centro / Vallenato El Vallenato que Enamora 12 de febrero 2027 Claro Arena - Las Condes / Infantil 31 Minutos - Radio Guaripolo 20 de diciembre 2026 Claro Arena - Las Condes ",
     "source": "puntoticket",
-    "title": "Teatro Teletón - Santiago Centro/ BeneficenciaTeletón 2026",
+    "title": "Teatro Teletón - Santiago Centro/ BeneficenciaTeletón 202607 de noviembre 2026",
     "url": "https://www.puntoticket.com/teleton-2026",
     "venue": "Estadio Nacional - Ñuñoa"
   },
