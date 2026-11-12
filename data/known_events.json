@@ -1400,10 +1400,10 @@
     "venue": "Teatro La Cúpula - Santiago Centro"
   },
   "3f63c819581714bb": {
-    "event_date": "2027-02-11",
+    "event_date": "2027-02-14",
     "genre": "Pop Katseye",
     "id": "3f63c819581714bb",
-    "raw_context": "Teatro Coliseo - Santiago Centro / Pop Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR Santander Arena - Santiago Centro / Pop Pitbull 11 de febrero 2027 Santander Arena - Santiago Centro / Vallenato El Vallenato que Enamora 12 de febrero 2027 Santander Arena - Santiago Centro / Reggae Gondwana",
+    "raw_context": "Teatro Coliseo - Santiago Centro / Pop Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR Santander Arena - Santiago Centro / Pop Lali + Miranda! - BOM [ BAILAR O MORIR TOUR ] 14 de febrero 2027 Santander Arena - Santiago Centro / Pop Latino Ana Gabriel - Tour 2027 Claro de Luna Teatro Caupolicán ",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ RockPixies29 de marzo 2027",
     "url": "https://www.puntoticket.com/evento/pixies",
@@ -5198,6 +5198,16 @@
     "title": "Comedy - Providencia/ Stand UpEdo Caroe - No Tiene Show en Bares25 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/edocaroe-comedy-noviembre-2",
     "venue": "Estadio El Teniente - Rancagua"
+  },
+  "e1727793cb3625ec": {
+    "event_date": "2026-11-22",
+    "genre": "F",
+    "id": "e1727793cb3625ec",
+    "raw_context": "Estadio Monumental - Macul / Fútbol Colo-Colo vs. U. Católica - Liga de Primera Mercado Libre - Fecha 28 22 de noviembre 2026 Santander Arena - Santiago Centro / Pop Lali + Miranda! - BOM [ BAILAR O MORIR TOUR ] 14 de febrero 2027 Teatro Caupolicán - Santiago Centro / Especiales RuPaul Dj Set 23 de ",
+    "source": "puntoticket",
+    "title": "Club San Miguel/ HumorFuente Carrasco18 de diciembre 2026",
+    "url": "https://www.puntoticket.com/evento/fuentecarrasco-club-sanmiguel-dic",
+    "venue": "Estadio Monumental - Macul"
   },
   "e1d5c45f2d5ef0bf": {
     "event_date": "2026-08-22",
