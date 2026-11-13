@@ -1039,6 +1039,16 @@
     "url": "https://www.puntoticket.com/evento/mass-of-fermenting-teatro-coliseo",
     "venue": "Teatro Coliseo - Santiago Centro"
   },
+  "2b720fb61455f895": {
+    "event_date": "2026-12-07",
+    "genre": "Urbano Kidd Voodoo",
+    "id": "2b720fb61455f895",
+    "raw_context": "Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Stadium 07 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centro / Rock/Metal Till Lindemann - World Tour 2027 Teatro Coliseo - Santiago Centro / Pop Katseye - E",
+    "source": "puntoticket",
+    "title": "Santander Arena - Santiago Centro/ PopMaluma - Loco x Volver22 de abril 2027",
+    "url": "https://www.puntoticket.com/maluma-2027",
+    "venue": "Estadio Monumental - Macul"
+  },
   "2b77d908c385d87a": {
     "event_date": "2027-03-20",
     "genre": "Reggaet",
@@ -1419,6 +1429,16 @@
     "url": "https://www.puntoticket.com/fiebre-de-baile",
     "venue": "Teatro La Cúpula - Santiago Centro"
   },
+  "3f47862420a37839": {
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Festival de la energ",
+    "id": "3f47862420a37839",
+    "raw_context": "Media Luna Colbun - Maule / Fiesta Festival de la energía - 40 años Colbún S.A. 21 de noviembre 2026 Teatro Municipal de Viña del Mar / Infantil Canticuénticos - TOCHI 17 de abril 2027 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centr",
+    "source": "puntoticket",
+    "title": "Casa Comedia - Providencia/ HumorLeón Murillo - La noche es en Casa Comedia19 de diciembre 2026",
+    "url": "https://www.puntoticket.com/evento/la-noche-es-en-casa-comedia",
+    "venue": "Media Luna Colbun - Maule"
+  },
   "3f63c819581714bb": {
     "event_date": "2026-12-07",
     "genre": "Urbano Kidd Voodoo",
@@ -1498,6 +1518,16 @@
     "title": "Teatro Caupolicán - Santiago Centro/ TechnoGEGEN X CACHORROS20 de junio 2026",
     "url": "https://www.puntoticket.com/evento/gegen-x-cachorros-teatro-caupolican-jun-2026",
     "venue": "Estadio Monumental - Macul"
+  },
+  "43282729b784c0f7": {
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Festival de la energ",
+    "id": "43282729b784c0f7",
+    "raw_context": "Media Luna Colbun - Maule / Fiesta Festival de la energía - 40 años Colbún S.A. 21 de noviembre 2026 Teatro Municipal de Viña del Mar / Infantil Canticuénticos - TOCHI 17 de abril 2027 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centr",
+    "source": "puntoticket",
+    "title": "Teatro Caupolicán - Santiago Centro/ CumbiaNoche de Cumbión - Con Chico Trujillo15 de enero 2027",
+    "url": "https://www.puntoticket.com/evento/noche-de-cumbion-teatro-caupolican-ene-2027",
+    "venue": "Media Luna Colbun - Maule"
   },
   "43407d5b3413cb9e": {
     "event_date": "2026-11-09",
@@ -2809,6 +2839,16 @@
     "url": "https://www.puntoticket.com/evento/taller-florecer",
     "venue": "Estadio Monumental - Macul"
   },
+  "805e91b5c01d8eba": {
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Festival de la energ",
+    "id": "805e91b5c01d8eba",
+    "raw_context": "Media Luna Colbun - Maule / Fiesta Festival de la energía - 40 años Colbún S.A. 21 de noviembre 2026 Teatro Municipal de Viña del Mar / Infantil Canticuénticos - TOCHI 17 de abril 2027 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centr",
+    "source": "puntoticket",
+    "title": "Casa Comedia - Providencia/ HumorBombo Fica - 40 AÑOS Y NO ME DI NI CUENTA03 de diciembre 2026",
+    "url": "https://www.puntoticket.com/evento/40-anos-y-no-me-di-ni-cuenta",
+    "venue": "Media Luna Colbun - Maule"
+  },
   "8084f9f57804ca7a": {
     "event_date": "2026-11-21",
     "genre": "Fiesta Sundeck",
@@ -3088,6 +3128,16 @@
     "title": "Claro Arena - Las Condes/ FútbolUniversidad Católica vs San Luis - Copa Chile Coca-Cola Zero Azúcar - Fecha 427 de junio 2026",
     "url": "https://www.puntoticket.com/evento/universidad-catolica-vs-sanluis-copachile-2026",
     "venue": "Claro Arena - Las Condes"
+  },
+  "8b52637f834cb97a": {
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Festival de la energ",
+    "id": "8b52637f834cb97a",
+    "raw_context": "Media Luna Colbun - Maule / Fiesta Festival de la energía - 40 años Colbún S.A. 21 de noviembre 2026 Teatro Municipal de Viña del Mar / Infantil Canticuénticos - TOCHI 17 de abril 2027 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centr",
+    "source": "puntoticket",
+    "title": "Casa Comedia - Providencia/ HumorRodrigo Villegas - Esto es para ustedes05 de diciembre 2026",
+    "url": "https://www.puntoticket.com/evento/esto-es-para-ustedes",
+    "venue": "Media Luna Colbun - Maule"
   },
   "8bbc62e234fa3de6": {
     "event_date": "2026-12-01",
@@ -3498,6 +3548,16 @@
     "title": "Movistar Arena - Santiago Centro/ SalsaRuben Blades - Fotografías Tour14 de agosto 2026",
     "url": "https://www.puntoticket.com/ruben-blades-fotografias-tour-2026",
     "venue": "Teatro Caupolicán - Santiago Centro"
+  },
+  "9fa460359ba275dd": {
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Festival de la energ",
+    "id": "9fa460359ba275dd",
+    "raw_context": "Media Luna Colbun - Maule / Fiesta Festival de la energía - 40 años Colbún S.A. 21 de noviembre 2026 Teatro Municipal de Viña del Mar / Infantil Canticuénticos - TOCHI 17 de abril 2027 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centr",
+    "source": "puntoticket",
+    "title": "Casa Comedia - Providencia/ Stand up comedy - FiestaNot Panel Show - ¡Not Panel en Vivo En Casa Comedia05 de diciembre 2026",
+    "url": "https://www.puntoticket.com/evento/not-panel-en-vivo-en-casa-comedia",
+    "venue": "Media Luna Colbun - Maule"
   },
   "9fb15f02d59bd70b": {
     "event_date": "2026-11-21",
@@ -4923,7 +4983,7 @@
     "event_date": "2026-12-07",
     "genre": "Urbano Kidd Voodoo",
     "id": "d2c55c6f39d4d868",
-    "raw_context": "Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Stadium 07 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Coliseo - Santiago Centro / Pop Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR Santander Arena - Santiago Centro / Pop ",
+    "raw_context": "Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Stadium 07 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centro / Rock/Metal Till Lindemann - World Tour 2027 Teatro Coliseo - Santiago Centro / Pop Katseye - E",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ UrbanoKatteyes19 de noviembre 2026",
     "url": "https://www.puntoticket.com/katteyes-live-scl-2026",
@@ -5539,6 +5599,16 @@
     "url": "https://www.puntoticket.com/javiera-mena-2026",
     "venue": "Estadio Monumental - Macul"
   },
+  "eeed414d7c2a41b6": {
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Festival de la energ",
+    "id": "eeed414d7c2a41b6",
+    "raw_context": "Media Luna Colbun - Maule / Fiesta Festival de la energía - 40 años Colbún S.A. 21 de noviembre 2026 Teatro Municipal de Viña del Mar / Infantil Canticuénticos - TOCHI 17 de abril 2027 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centr",
+    "source": "puntoticket",
+    "title": "Casa Comedia - Providencia/ Stand up comedy - FiestaMagdalena Max Neef  y Josefina Velasco   - Es lo que hay, o lo que va quedando04 de diciembre 2026",
+    "url": "https://www.puntoticket.com/evento/es-lo-que-hay-o-lo-que-va-quedando",
+    "venue": "Media Luna Colbun - Maule"
+  },
   "ef7398d912534f65": {
     "event_date": "2026-11-07",
     "genre": "M",
@@ -5729,6 +5799,16 @@
     "url": "https://www.puntoticket.com/evento/edocaroe-comadre-lola-octubre",
     "venue": "Santander Arena - Santiago Centro"
   },
+  "f56fe00160fab6f2": {
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Festival de la energ",
+    "id": "f56fe00160fab6f2",
+    "raw_context": "Media Luna Colbun - Maule / Fiesta Festival de la energía - 40 años Colbún S.A. 21 de noviembre 2026 Teatro Municipal de Viña del Mar / Infantil Canticuénticos - TOCHI 17 de abril 2027 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centr",
+    "source": "puntoticket",
+    "title": "Club Naval de Campo las Salinas - Viña Del Mar/ FiestaClassic Open Air Park01 de enero 2027",
+    "url": "https://www.puntoticket.com/evento/classic-open-air-2027",
+    "venue": "Media Luna Colbun - Maule"
+  },
   "f59e3a9df535530f": {
     "event_date": "2026-10-30",
     "genre": "Rock Latino Los Fabulosos Cadillacs",
@@ -5828,6 +5908,16 @@
     "title": "Arena Hipódromo - Independencia/ FestivalPariente Fest15 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/pariente-fest-arena-hipodromo-nov-2026",
     "venue": "Claro Arena - Las Condes"
+  },
+  "fb0361a25614bfea": {
+    "event_date": "2026-11-21",
+    "genre": "Fiesta Festival de la energ",
+    "id": "fb0361a25614bfea",
+    "raw_context": "Media Luna Colbun - Maule / Fiesta Festival de la energía - 40 años Colbún S.A. 21 de noviembre 2026 Teatro Municipal de Viña del Mar / Infantil Canticuénticos - TOCHI 17 de abril 2027 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centr",
+    "source": "puntoticket",
+    "title": "Club Chocolate, Barrio Bellavista - Recoleta/ Indie PopCannons04 de marzo 2027",
+    "url": "https://www.puntoticket.com/evento/cannons-2026",
+    "venue": "Media Luna Colbun - Maule"
   },
   "fb2b134a096aba60": {
     "event_date": "2026-11-21",
