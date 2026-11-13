@@ -280,14 +280,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "0bc3554a000a0ed9": {
-    "event_date": "2026-11-08",
-    "genre": "Folklore Los Jaivas",
+    "event_date": "2026-12-07",
+    "genre": "Urbano Kidd Voodoo",
     "id": "0bc3554a000a0ed9",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Folklore Los Jaivas 2026 Gira 45 años alturas de Macchu Picchu - Santiago Santander Arena - Santiago Centro / Rock Def Leppard - Live 2026 - with Special Guest Extreme 08 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Pop Aqross - The Sky - El Debut 18 ",
+    "raw_context": "Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Stadium 07 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Coliseo - Santiago Centro / Pop Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR Santander Arena - Santiago Centro / Pop ",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ Blues RockZZ Top16 de noviembre 2026",
     "url": "https://www.puntoticket.com/zz-top",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Estadio Monumental - Macul"
   },
   "0bdc3939aabfa600": {
     "event_date": "2026-11-12",
@@ -3398,6 +3398,16 @@
     "title": "Estadio Sokol, Antofagasta/ Festival90’ FEVER FESTIVAL VOL 211 de diciembre 2026",
     "url": "https://www.puntoticket.com/evento/90s-fever-festival-estadio-sokol-antofagasta-dic-2026",
     "venue": "Santander Arena - Santiago Centro"
+  },
+  "9918e7b617a6498d": {
+    "event_date": "2026-12-07",
+    "genre": "Urbano Kidd Voodoo",
+    "id": "9918e7b617a6498d",
+    "raw_context": "Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Stadium 07 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Coliseo - Santiago Centro / Pop Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR Santander Arena - Santiago Centro / Pop ",
+    "source": "puntoticket",
+    "title": "Teatro Coliseo - Santiago Centro/ UrbanoLuar La L - Latam Tour 202613 de noviembre 2026",
+    "url": "https://www.puntoticket.com/evento/luar-la-l-teatro-coliseo-nov-2026",
+    "venue": "Estadio Monumental - Macul"
   },
   "9a68ec5139466793": {
     "event_date": "2026-09-09",
