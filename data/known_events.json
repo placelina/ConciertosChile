@@ -335,7 +335,7 @@
     "id": "0dfba426de44ecab",
     "raw_context": "Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Teatro Coliseo - Santiago Centro / Pop Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR Santander Arena - Santiago Centro / Pop Lali + Miranda! - BOM [ BAILAR O MORIR TOUR ] 14 de febrero 2027 Teatro Caupolicán - Santia",
     "source": "puntoticket",
-    "title": "Santander Arena - Santiago Centro/ RockLos Tres - Unplugged 30 años",
+    "title": "Santander Arena - Santiago Centro/ RockLos Tres - Unplugged 30 años15 de noviembre 2026",
     "url": "https://www.puntoticket.com/los-tres",
     "venue": "Club Hípico - Santiago Centro"
   },
@@ -3060,10 +3060,10 @@
     "venue": "Media Luna Colbun - Maule"
   },
   "88a398251d8679de": {
-    "event_date": "2026-11-14",
+    "event_date": "2026-11-15",
     "genre": "Presencial Creamfields Chile",
     "id": "88a398251d8679de",
-    "raw_context": "Electrónica / Presencial Creamfields Chile 2026 - 21 Años 14 de noviembre 2026 al 15 de noviembre 2026 VER MÁS",
+    "raw_context": "Electrónica / Presencial Creamfields Chile 2026 - 21 Años 15 de noviembre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/creamfields-2026",
@@ -5370,14 +5370,14 @@
     "venue": "Club Hípico - Santiago Centro"
   },
   "e3db4e27c95d0089": {
-    "event_date": "2026-12-07",
-    "genre": "Urbano Kidd Voodoo",
+    "event_date": "2027-02-14",
+    "genre": "Electr",
     "id": "e3db4e27c95d0089",
-    "raw_context": "Estadio Monumental - Macul / Urbano Kidd Voodoo - Euforia Stadium 07 de diciembre 2026 Teatro Caupolicán - Santiago Centro / Metal Cavalera Chaos A.D. 04 de marzo 2027 Teatro Caupolicán - Santiago Centro / Rock/Metal Till Lindemann - World Tour 2027 Teatro Coliseo - Santiago Centro / Pop Katseye - E",
+    "raw_context": "Club Hípico - Santiago Centro / Electrónica Creamfields Chile 2026 - 21 Años Teatro Coliseo - Santiago Centro / Pop Katseye - EL GRAN CONCIERTO, TRIBUTE EXPERIENCE TOUR Santander Arena - Santiago Centro / Pop Lali + Miranda! - BOM [ BAILAR O MORIR TOUR ] 14 de febrero 2027 Teatro Caupolicán - Santia",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ RománticoEntre Amigas - Yuri y Lucero11 de junio 2027",
     "url": "https://www.puntoticket.com/entre-amigas",
-    "venue": "Estadio Monumental - Macul"
+    "venue": "Club Hípico - Santiago Centro"
   },
   "e40ae07ca40fe111": {
     "event_date": "2026-12-11",
