@@ -2809,6 +2809,16 @@
     "url": "https://www.puntoticket.com/temporada-piknic-2026",
     "venue": "Teatro La Cúpula - Santiago Centro"
   },
+  "7f50d5a1076c6789": {
+    "event_date": "2027-04-22",
+    "genre": "Pop Maluma",
+    "id": "7f50d5a1076c6789",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Maluma - Loco x Volver 22 de abril 2027 Teatro Caupolicán - Santiago Centro / Regional Mexicano LOS DOS CARNALES EN CHILE 23 de mayo 2027 Santander Arena - Santiago Centro / Pop Lali + Miranda! - BOM [ BAILAR O MORIR TOUR ] 14 de febrero 2027 Teatro Caupolicán",
+    "source": "puntoticket",
+    "title": "Santander Arena - Santiago Centro/ RockEurope - Come this madness South American Tour 2027 Special Guest: Jayler18 de abril 2027",
+    "url": "https://www.puntoticket.com/europe",
+    "venue": "Santander Arena - Santiago Centro"
+  },
   "7fe3c70a548e737c": {
     "event_date": "2026-12-19",
     "genre": "F",
@@ -5169,6 +5179,16 @@
     "url": "https://www.puntoticket.com/evento/colo-colo-vs-udechile-liga-femenina2026",
     "venue": "Estadio Nacional - Ñuñoa"
   },
+  "d7e8f41cbd8cc0ce": {
+    "event_date": "2027-05-23",
+    "genre": "Regional Mexicano LOS DOS CARNALES EN CHILE",
+    "id": "d7e8f41cbd8cc0ce",
+    "raw_context": "Teatro Caupolicán - Santiago Centro / Regional Mexicano LOS DOS CARNALES EN CHILE 23 de mayo 2027 Santander Arena - Santiago Centro / Pop Maluma - Loco x Volver 22 de abril 2027 Media Luna Colbun - Maule / Fiesta Festival de la energía - 40 años Colbún S.A. 21 de noviembre 2026 Estadio Monumental - ",
+    "source": "puntoticket",
+    "title": "Cúpula Parque O'Higgins - Santiago Centro/ Jazz-RockVictor Wooten and the Wooten Brothers02 de abril 2027",
+    "url": "https://www.puntoticket.com/evento/victor-wooten-and-the-wooten-brothers",
+    "venue": "Teatro Caupolicán - Santiago Centro"
+  },
   "da7cc00aa45a595a": {
     "event_date": "2026-11-13",
     "genre": "Urbano Luar La L",
@@ -6088,6 +6108,16 @@
     "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolUnión Española vs. Universidad Católica - Liga Femenina - Cuartos de Final30 de septiembre 2026",
     "url": "https://www.puntoticket.com/evento/union-espanola-universidad-catolica-ligafemenina-octavosdefinal",
     "venue": "Estadio Monumental - Macul"
+  },
+  "fecf21d4bae5e177": {
+    "event_date": "2027-04-22",
+    "genre": "Pop Maluma",
+    "id": "fecf21d4bae5e177",
+    "raw_context": "Santander Arena - Santiago Centro / Pop Maluma - Loco x Volver 22 de abril 2027 Teatro Caupolicán - Santiago Centro / Regional Mexicano LOS DOS CARNALES EN CHILE 23 de mayo 2027 Santander Arena - Santiago Centro / Pop Lali + Miranda! - BOM [ BAILAR O MORIR TOUR ] 14 de febrero 2027 Teatro Caupolicán",
+    "source": "puntoticket",
+    "title": "Parque Cerrillos/ RockFaith No More04 de noviembre 2027",
+    "url": "https://www.puntoticket.com/faith-no-more-2027",
+    "venue": "Santander Arena - Santiago Centro"
   },
   "fed6cd6cf4a370c4": {
     "event_date": "2026-08-31",
