@@ -270,14 +270,14 @@
     "venue": "Claro Arena - Las Condes"
   },
   "0b6f1d48e9f313a6": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "0b6f1d48e9f313a6",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Ramblas - Providencia/ Soul - FunkVoodoo - En Sala Ramblas01 de diciembre 2026",
     "url": "https://www.puntoticket.com/evento/voodoo-en-sala-ramblas",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "0b92b9b8091e42bd": {
     "event_date": "2026-12-11",
@@ -420,14 +420,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "12b547d25ad2715f": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "12b547d25ad2715f",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolColo-Colo vs. U. Católica - Final Femenina 202620 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/colo-colo-vs-ucatolica-final-femenina-2026",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "12cc54432733d9eb": {
     "event_date": "2026-11-08",
@@ -730,14 +730,14 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "1d08197fbef44cc1": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "1d08197fbef44cc1",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ FamiliaTiny Fest - Tortoise06 de marzo 2027",
     "url": "https://www.puntoticket.com/tiny-fest-2027",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "1d8f896a3a24093c": {
     "event_date": "2026-11-08",
@@ -909,6 +909,16 @@
     "url": "https://www.puntoticket.com/evento/campeonato-futsal-clausura-2026-fecha11",
     "venue": "Estadio Monumental - Macul"
   },
+  "265b408dcf596495": {
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
+    "id": "265b408dcf596495",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
+    "source": "puntoticket",
+    "title": "Parque de las culturas (Paseo Bulnes) - Santiago Centro/ Corrida4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes)06 de diciembre 2026",
+    "url": "https://www.puntoticket.com/4tacorridaganasantiago",
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
+  },
   "2692e2dc3fec5546": {
     "event_date": "2027-04-02",
     "genre": "Rock Slash",
@@ -930,14 +940,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "2727f659b535c438": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "2727f659b535c438",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Estadio Monumental - Macul/ FútbolMuseo y Tour Monumental 2026",
     "url": "https://www.puntoticket.com/museo-y-tour-monumental-2026",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "27446d67f1bbd3dd": {
     "event_date": "2027-03-18",
@@ -1219,6 +1229,16 @@
     "url": "https://www.puntoticket.com/evento/universidad-de-chile-vs-colo-colo-ligaprimera-2026",
     "venue": "Estadio Nacional - Ñuñoa"
   },
+  "333c8c6b2a91687c": {
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
+    "id": "333c8c6b2a91687c",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
+    "source": "puntoticket",
+    "title": "Arena Hipódromo - Independencia/ FestivalBienvenido Verano 202717 de enero 2027",
+    "url": "https://www.puntoticket.com/bienvenido-verano",
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
+  },
   "335c725566975bf5": {
     "event_date": "2026-08-02",
     "genre": "F",
@@ -1300,14 +1320,14 @@
     "venue": "Claro Arena - Las Condes"
   },
   "37f034c7f88681f7": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "37f034c7f88681f7",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Estadio Municipal de la Pintana/ FútbolFútbol Formativo - Finales Regionales Clausura 2026",
     "url": "https://www.puntoticket.com/evento/finales-clausura-anfp2026-formativo",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "3932e2938d633ac2": {
     "event_date": "2026-10-21",
@@ -2280,14 +2300,14 @@
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
   },
   "66662452fef0a399": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "66662452fef0a399",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ RockRick Wakeman and Son11 de abril 2027",
     "url": "https://www.puntoticket.com/evento/rick-wakeman-and-son-teatro-caupolican-abr-2027",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "66677ef6524edb79": {
     "event_date": "2026-12-20",
@@ -3020,14 +3040,14 @@
     "venue": "Estadio Santa Laura - Universidad SEK - Independencia"
   },
   "84520dd39c324427": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "84520dd39c324427",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Polideportivo La Granja/ FútbolUniversidad de Chile vs Magallanes - Campeonato Primera Futsal - Fecha 3 Liguilla22 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/campeonato-futsal-anfp2026-liguilla-fecha3-uch-vs-mag",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "845f717854525505": {
     "event_date": "2026-10-29",
@@ -4140,14 +4160,14 @@
     "venue": "Espacio Riesco - Huechuraba"
   },
   "b1ceb923ecb88def": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "b1ceb923ecb88def",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ Regional MexicanoLOS DOS CARNALES EN CHILE23 de mayo 2027",
     "url": "https://www.puntoticket.com/evento/los-dos-carnales-en-chile-teatro-caupolican-mayo-2027",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "b1d24073171302b7": {
     "event_date": "2026-12-07",
@@ -4450,14 +4470,14 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "bb619225070c1e61": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "bb619225070c1e61",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Estadio Santa Laura - Universidad SEK - Independencia/ FútbolCobreloa vs San Luis - Final Ascenso Caixun 202621 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/cobreloa-vs-san-luis-final-ascenso-2026",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "bbc89769307a9e4a": {
     "event_date": "2026-08-16",
@@ -4809,6 +4829,16 @@
     "url": "https://www.puntoticket.com/alvaro-diaz-2026",
     "venue": "Claro Arena - Las Condes"
   },
+  "c5b63b098776b540": {
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
+    "id": "c5b63b098776b540",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
+    "source": "puntoticket",
+    "title": "Espacio Urbano La Dehesa - Lo Barnechea/ FeriaFeria Bocas Moradas - Navidad",
+    "url": "https://www.puntoticket.com/evento/bocas-moradas-espacio-urbano-la-dehesa-dic-2026",
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
+  },
   "c5da05f282e75297": {
     "event_date": "2026-11-28",
     "genre": "Presencial Festi Ranch",
@@ -4858,6 +4888,16 @@
     "title": "Estadio Nacional - Ñuñoa/ FútbolUniversidad de Chile vs. Unión La Calera - Copa Chile Coca-Cola Zero Azúcar01 de julio 2026",
     "url": "https://www.puntoticket.com/evento/universidad-de-chile-vs-ulacalera-copachile-2026",
     "venue": "Estación Mapocho - Santiago Centro"
+  },
+  "c8c363cf46b5ec1f": {
+    "event_date": "2027-01-15",
+    "genre": "Boleros Macha y El Bloque Depresivo Teatro Caupolic",
+    "id": "c8c363cf46b5ec1f",
+    "raw_context": "Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo Teatro Caupolicán - Santiago Centro / Cumbia Noche de Cumbión - Con Chico Trujillo 15 de enero 2027 Santander Arena - Santiago Centro / Pop Maluma - Loco x Volver Santander Arena - Santiago Centro / Romántico Isabel Pantoja 25 de mayo 20",
+    "source": "puntoticket",
+    "title": "Santander Arena - Santiago Centro/ RockDave Matthews Band",
+    "url": "https://www.puntoticket.com/dave-matthews-band-live-scl-2027",
+    "venue": "Estadio Nacional - Ñuñoa"
   },
   "ca161965ce4ca7f3": {
     "event_date": "2026-09-13",
@@ -5070,24 +5110,24 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "cff48786dfdf0a71": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "cff48786dfdf0a71",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Parque Ciudad Empresarial - Huechuraba/ FestivalTkm Fest09 de enero 2027",
     "url": "https://www.puntoticket.com/tkm-fest",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "d14774c1080cfc60": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "d14774c1080cfc60",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ FiestaAÑO NUEVO HOLA 202731 de diciembre 2026",
     "url": "https://www.puntoticket.com/ano-nuevo-hola-2027",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "d191c6631764a6a1": {
     "event_date": "2026-07-11",
@@ -5300,14 +5340,14 @@
     "venue": "Estadio Nacional - Ñuñoa"
   },
   "d7e8f41cbd8cc0ce": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "d7e8f41cbd8cc0ce",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Cúpula Parque O'Higgins - Santiago Centro/ Jazz-RockVictor Wooten and the Wooten Brothers02 de abril 2027",
     "url": "https://www.puntoticket.com/evento/victor-wooten-and-the-wooten-brothers",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "da7cc00aa45a595a": {
     "event_date": "2026-11-13",
@@ -5660,14 +5700,14 @@
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
   "e7a145eb9b66b8ce": {
-    "event_date": "2027-01-09",
-    "genre": "Festival Tkm Fest",
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
     "id": "e7a145eb9b66b8ce",
-    "raw_context": "Parque Ciudad Empresarial - Huechuraba / Festival Tkm Fest 09 de enero 2027 Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
     "source": "puntoticket",
     "title": "Teatro Coliseo - Santiago Centro/ EspecialesMy Hero Academia in Concert13 de febrero 2027",
     "url": "https://www.puntoticket.com/mha-inconcert-chile",
-    "venue": "Parque Ciudad Empresarial - Huechuraba"
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "e7e683e45d4ca97a": {
     "event_date": "2027-02-12",
@@ -5878,6 +5918,16 @@
     "title": "Santander Arena - Santiago Centro/ PopHa*Ash - No Me Hablen De Amor Tour",
     "url": "https://www.puntoticket.com/ha-ash",
     "venue": "Estadio Nacional - Ñuñoa"
+  },
+  "f247c5a374f30d4d": {
+    "event_date": "2026-12-06",
+    "genre": "Corrida",
+    "id": "f247c5a374f30d4d",
+    "raw_context": "Parque de las culturas (Paseo Bulnes) - Santiago Centro / Corrida 4ta Corrida Gana Santiago - (Gobierno de Santiago y Caja los Andes) 06 de diciembre 2026 Estadio Monumental - Macul / Reggaetón Don Omar - The Last King World Tour 27 de octubre 2027 Estadio Santa Laura - Universidad SEK - Independenc",
+    "source": "puntoticket",
+    "title": "Cúpula Parque O'Higgins - Santiago Centro/ Fan MeetingBecky Armstrong Fancon22 de enero 2027",
+    "url": "https://www.puntoticket.com/becky-armstrong-fancon",
+    "venue": "Parque de las culturas (Paseo Bulnes) - Santiago Centro"
   },
   "f26578c3e6fda059": {
     "event_date": "2027-02-11",
