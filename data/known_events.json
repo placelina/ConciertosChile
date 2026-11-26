@@ -679,6 +679,16 @@
     "url": "https://www.puntoticket.com/la-oreja-de-van-gogh-live-scl-2027",
     "venue": "Teatro Caupolicán - Santiago Centro"
   },
+  "1aebd87a88febba1": {
+    "event_date": "2027-11-04",
+    "genre": "Rock Faith No More",
+    "id": "1aebd87a88febba1",
+    "raw_context": "Parque Cerrillos / Rock Faith No More 04 de noviembre 2027 Claro Arena - Las Condes / Fútbol Universidad Católica vs. Huachipato - Liga de Primera Mercado Libre - Fecha 29 29 de noviembre 2026 Santander Arena - Santiago Centro / Reggae Cultura Profética 25 de abril 2027 Estadio Monumental - Macul / ",
+    "source": "puntoticket",
+    "title": "Polideportivo La Granja/ DeportesCampeonato Primera Futsal - Liguilla Clausura - Fecha 4",
+    "url": "https://www.puntoticket.com/evento/campeonato-futsal-anfp2026-liguilla-fecha4-clausura",
+    "venue": "Parque Cerrillos"
+  },
   "1afd15b4402aefc9": {
     "event_date": "2026-12-11",
     "genre": "Hardcore Alexisonfire",
@@ -1363,9 +1373,9 @@
     "event_date": "2027-11-04",
     "genre": "Rock Faith No More",
     "id": "37f034c7f88681f7",
-    "raw_context": "Parque Cerrillos / Rock Faith No More 04 de noviembre 2027 Santander Arena - Santiago Centro / Romántico Isabel Pantoja 25 de mayo 2027 Santander Arena - Santiago Centro / Pop Maluma - Loco x Volver Espacio Urbano La Dehesa - Lo Barnechea / Feria Feria Bocas Moradas - Navidad Santander Arena - Santi",
+    "raw_context": "Parque Cerrillos / Rock Faith No More 04 de noviembre 2027 Claro Arena - Las Condes / Fútbol Universidad Católica vs. Huachipato - Liga de Primera Mercado Libre - Fecha 29 29 de noviembre 2026 Santander Arena - Santiago Centro / Reggae Cultura Profética 25 de abril 2027 Estadio Monumental - Macul / ",
     "source": "puntoticket",
-    "title": "Estadio Municipal de la Pintana/ FútbolFútbol Formativo - Finales Regionales Clausura 202622 NOVIEMBRE - FINAL SUB 18 Y SUB 20 - 10:30 HRS",
+    "title": "Estadio Municipal de la Pintana/ FútbolFútbol Formativo - Finales Infantiles Clausura 2026",
     "url": "https://www.puntoticket.com/evento/finales-clausura-anfp2026-formativo",
     "venue": "Parque Cerrillos"
   },
@@ -1777,6 +1787,16 @@
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ Rock AlternativoBabasonicos21 de noviembre 2026",
     "url": "https://www.puntoticket.com/babasonicos-2026",
+    "venue": "Parque Cerrillos"
+  },
+  "49c250db40e66c00": {
+    "event_date": "2027-11-04",
+    "genre": "Rock Faith No More",
+    "id": "49c250db40e66c00",
+    "raw_context": "Parque Cerrillos / Rock Faith No More 04 de noviembre 2027 Claro Arena - Las Condes / Fútbol Universidad Católica vs. Huachipato - Liga de Primera Mercado Libre - Fecha 29 29 de noviembre 2026 Santander Arena - Santiago Centro / Reggae Cultura Profética 25 de abril 2027 Estadio Monumental - Macul / ",
+    "source": "puntoticket",
+    "title": "Polideportivo La Florida/ DeportesCoquimbo Unido vs Colo-Colo - Campeonato Primera Futsal - Liguilla Fecha 429 de noviembre 2026",
+    "url": "https://www.puntoticket.com/evento/campeonato-futsal-clausura-2026-liguilla-coq-vs-cc",
     "venue": "Parque Cerrillos"
   },
   "4a32961437c19bec": {
@@ -3795,7 +3815,7 @@
     "id": "9ff4dc9ad864ef9c",
     "raw_context": "Parque Cerrillos / Rock Faith No More 04 de noviembre 2027 Estadio Monumental - Macul / Pop-Rock Maná - Vivir sin aire Tour Santander Arena - Santiago Centro / Rock Europe - Come this madness South American Tour 2027 Special Guest: Jayler 18 de abril 2027 Teatro Caupolicán - Santiago Centro / Rock/M",
     "source": "puntoticket",
-    "title": "Teatro Coliseo - Santiago Centro/ HardcoreAlexisonfire - Performs Crisis In Full",
+    "title": "Teatro Coliseo - Santiago Centro/ HardcoreAlexisonfire - Performs Crisis In Full26 de noviembre 2026",
     "url": "https://www.puntoticket.com/aof-coliseo",
     "venue": "Parque Cerrillos"
   },
@@ -4530,14 +4550,14 @@
     "venue": "Estadio Monumental - Macul"
   },
   "b95a0f2d4b552f35": {
-    "event_date": "2027-09-04",
-    "genre": "J",
+    "event_date": "2027-11-04",
+    "genre": "Rock Faith No More",
     "id": "b95a0f2d4b552f35",
-    "raw_context": "Teatro Coliseo - Santiago Centro / J-Rock Gackt Yellow Fried Chickenz - Back To Latam Tour 2027 04 de septiembre 2027 Parque Padre Hurtado - La Reina / Fiesta Electrónica Piknic Electronik #4 - Guy Gerber | Tinikicker Dj | Rampue Live | 07 de noviembre 2026 Teatro Caupolicán - Santiago Centro / Pop ",
+    "raw_context": "Parque Cerrillos / Rock Faith No More 04 de noviembre 2027 Estadio Monumental - Macul / Pop-Rock Maná - Vivir sin aire Tour Santander Arena - Santiago Centro / Rock Europe - Come this madness South American Tour 2027 Special Guest: Jayler 18 de abril 2027 Teatro Caupolicán - Santiago Centro / Rock/M",
     "source": "puntoticket",
     "title": "Teatro Caupolicán - Santiago Centro/ FestivalChileTerror Fest II - 2026",
     "url": "https://www.puntoticket.com/evento/chileterror-2-teatro-caupolican-nov-2026",
-    "venue": "Teatro Coliseo - Santiago Centro"
+    "venue": "Parque Cerrillos"
   },
   "ba9e0ae84a53af73": {
     "event_date": "2026-06-20",
