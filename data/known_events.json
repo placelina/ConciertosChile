@@ -1405,7 +1405,7 @@
     "id": "37f034c7f88681f7",
     "raw_context": "Claro Arena - Las Condes / Romántico Laura Pausini - Yo canto World Tour 2027 23 de febrero 2027 Quinta Vergara - Viña Del Mar / Festival Festival Internacional de la Canción de Viña del Mar Teatro Coliseo - Santiago Centro / Fan Meeting SUHO 16 de diciembre 2026 Teatro Caupolicán - Santiago Centro ",
     "source": "puntoticket",
-    "title": "Estadio Municipal de la Pintana/ FútbolFútbol Formativo - Finales Infantiles Clausura 2026",
+    "title": "Estadio Municipal de la Pintana/ FútbolFútbol Formativo - Finales Infantiles Clausura 202629 de noviembre 2026",
     "url": "https://www.puntoticket.com/evento/finales-clausura-anfp2026-formativo",
     "venue": "Claro Arena - Las Condes"
   },
@@ -2560,10 +2560,10 @@
     "venue": null
   },
   "69f9af656fb5bffe": {
-    "event_date": "2026-11-26",
+    "event_date": "2026-11-27",
     "genre": "Presencial Festival Fauna Primavera",
     "id": "69f9af656fb5bffe",
-    "raw_context": "Festival / Presencial Festival Fauna Primavera 2026 26 de noviembre 2026 al 28 de noviembre 2026 VER MÁS",
+    "raw_context": "Festival / Presencial Festival Fauna Primavera 2026 27 de noviembre 2026 al 28 de noviembre 2026 VER MÁS",
     "source": "puntoticket",
     "title": "VER MÁS",
     "url": "https://www.puntoticket.com/faunaprimavera",
@@ -2838,6 +2838,16 @@
     "title": "Estadio Municipal de San Bernardo/ FútbolMagallanes vs Palestino - Copa Chile Coca-Cola Sin Azúcar04 de julio 2026",
     "url": "https://www.puntoticket.com/evento/magallanes-vs-palestino-copachile-2026",
     "venue": "Cúpula Parque O'Higgins - Santiago Centro"
+  },
+  "75df18411ae6999f": {
+    "event_date": "2027-02-23",
+    "genre": "Rom",
+    "id": "75df18411ae6999f",
+    "raw_context": "Claro Arena - Las Condes / Romántico Laura Pausini - Yo canto World Tour 2027 23 de febrero 2027 Quinta Vergara - Viña Del Mar / Festival Festival Internacional de la Canción de Viña del Mar Teatro Coliseo - Santiago Centro / Fan Meeting SUHO 16 de diciembre 2026 Teatro Caupolicán - Santiago Centro ",
+    "source": "puntoticket",
+    "title": "Casa Comedia - Providencia/ Stand UpBeto Espinoza - Beto Espinoza Stand Up Comedy12 de diciembre 2026",
+    "url": "https://www.puntoticket.com/evento/beto-espinoza-stand-up-comedy",
+    "venue": "Claro Arena - Las Condes"
   },
   "768df3fca1964c37": {
     "event_date": "2026-08-16",
@@ -6240,14 +6250,14 @@
     "venue": "Parque Cerrillos"
   },
   "f26578c3e6fda059": {
-    "event_date": "2027-11-04",
-    "genre": "Rock Faith No More",
+    "event_date": "2027-02-23",
+    "genre": "Festival Festival Internacional de la Canci",
     "id": "f26578c3e6fda059",
-    "raw_context": "Parque Cerrillos / Rock Faith No More 04 de noviembre 2027 Estadio Nacional - Ñuñoa / Boleros Macha y El Bloque Depresivo Santander Arena - Santiago Centro / Pop Maluma - Loco x Volver Santander Arena - Santiago Centro / Romántico Isabel Pantoja 25 de mayo 2027 Teatro Caupolicán - Santiago Centro / ",
+    "raw_context": "Quinta Vergara - Viña Del Mar / Festival Festival Internacional de la Canción de Viña del Mar Claro Arena - Las Condes / Romántico Laura Pausini - Yo canto World Tour 2027 23 de febrero 2027 Teatro Caupolicán - Santiago Centro / Alternativa LP Domingo 28 de febrero, 21:00 hrs Santander Arena - Santi",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ PopLouis Tomlinson - How Did We Get Here? Latin America Tour",
     "url": "https://www.puntoticket.com/louis-tomlinson-live-scl-2027",
-    "venue": "Parque Cerrillos"
+    "venue": "Quinta Vergara - Viña Del Mar"
   },
   "f2c513f2bafddfec": {
     "event_date": "2026-11-22",
@@ -6540,14 +6550,14 @@
     "venue": "Santander Arena - Santiago Centro"
   },
   "fd15c454eaaeeae9": {
-    "event_date": "2027-06-10",
-    "genre": "Alternativa LP Domingo",
+    "event_date": "2027-02-23",
+    "genre": "Festival Festival Internacional de la Canci",
     "id": "fd15c454eaaeeae9",
-    "raw_context": "Teatro Caupolicán - Santiago Centro / Alternativa LP Domingo 28 de febrero, 21:00 hrs Santander Arena - Santiago Centro / Rock Dave Matthews Band Teatro Caupolicán - Santiago Centro / Metal Within temptation - Through Fire and Ashes 10 de junio 2027 Santander Arena - Santiago Centro / Rock Europe - ",
+    "raw_context": "Quinta Vergara - Viña Del Mar / Festival Festival Internacional de la Canción de Viña del Mar Claro Arena - Las Condes / Romántico Laura Pausini - Yo canto World Tour 2027 23 de febrero 2027 Teatro Caupolicán - Santiago Centro / Alternativa LP Domingo 28 de febrero, 21:00 hrs Santander Arena - Santi",
     "source": "puntoticket",
     "title": "Santander Arena - Santiago Centro/ RománticoMelendi - Pop Rock Tour Latam21 de abril 2027",
     "url": "https://www.puntoticket.com/melendi",
-    "venue": "Teatro Caupolicán - Santiago Centro"
+    "venue": "Quinta Vergara - Viña Del Mar"
   },
   "fd2a8b2930c0d4d6": {
     "event_date": "2026-07-04",
